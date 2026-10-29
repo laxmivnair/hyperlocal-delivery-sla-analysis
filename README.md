@@ -156,13 +156,4 @@ The pipeline exports **5 cleaned, star-schema ready datasets** into `outputs/`:
 
 ---
 
-## 💡 Strategic Operations Recommendations
 
-1. **Dynamic Peak-Hour Rider Fleeting**:
-   * Deploy **+2 floating riders** to Tier C stores (*Lower Parel, Kurla West, Thane West, Vikhroli West, Andheri West*) between **19:00 and 21:00**. This eliminates rider wait time bottlenecks and is projected to save **₹2.4 Lakhs** in refund exposure.
-2. **Category Pre-Bagging & Dedicated Packing Stations**:
-   * *Meats & Seafood* averages **3.5 minutes prep time** (35% of the total SLA window). Introducing pre-weighed, pre-packaged staging reduces packing to `< 1.8 minutes`, directly preventing prep-induced breaches.
-3. **Monsoon Surge Fleeting & Dynamic ETA Buffering**:
-   * During June monsoon events, breach rates jump to **79.8%**, driven entirely by last-mile waterlogging. Expanding the customer-facing ETA to **14–16 minutes** on rain days prevents false SLA breach penalties and preserves brand trust.
-4. **Pre-Dispatch Proactive Intervention**:
-   * Integrate the Gradient Boosting model into the store dispatch queue: orders with `breach_probability > 0.70` receive priority packing lanes and immediate rider assignment.
