@@ -1,0 +1,2101 @@
+date,store_id,store_name,zone,category,duration_hours,orders_impacted
+2024-01-01,DS03,Juhu,West,Medicines,5.4,18
+2024-01-01,DS05,Borivali West,West,Household Items,5.5,38
+2024-01-01,DS06,Powai,Central,Dairy & Breakfast,5.3,23
+2024-01-01,DS06,Powai,Central,Grocery & Staples,2.6,16
+2024-01-01,DS08,Kurla West,Central,Dairy & Breakfast,3.2,20
+2024-01-01,DS09,Thane West,Central,Baby Products,2.0,7
+2024-01-01,DS09,Thane West,Central,Medicines,1.8,9
+2024-01-01,DS11,Dadar West,South,Dairy & Breakfast,5.6,32
+2024-01-01,DS11,Dadar West,South,Medicines,3.0,17
+2024-01-01,DS15,Vikhroli West,East,Meats & Seafood,5.7,13
+2024-01-01,DS15,Vikhroli West,East,Personal Care,2.6,12
+2024-01-02,DS01,Andheri West,West,Meats & Seafood,4.3,20
+2024-01-02,DS01,Andheri West,West,Personal Care,1.4,6
+2024-01-02,DS02,Bandra West,West,Dairy & Breakfast,4.1,25
+2024-01-02,DS05,Borivali West,West,Personal Care,5.8,43
+2024-01-02,DS09,Thane West,Central,Household Items,4.1,25
+2024-01-02,DS12,Lower Parel,South,Fruits & Vegetables,4.8,13
+2024-01-03,DS01,Andheri West,West,Snacks & Drinks,3.5,10
+2024-01-03,DS02,Bandra West,West,Grocery & Staples,2.4,6
+2024-01-03,DS03,Juhu,West,Fruits & Vegetables,4.8,22
+2024-01-03,DS07,Ghatkopar West,Central,Baby Products,3.1,9
+2024-01-03,DS11,Dadar West,South,Baby Products,2.5,12
+2024-01-03,DS13,Worli,South,Grocery & Staples,5.1,30
+2024-01-03,DS14,Chembur,East,Medicines,0.9,7
+2024-01-03,DS15,Vikhroli West,East,Household Items,1.5,4
+2024-01-03,DS15,Vikhroli West,East,Medicines,5.2,18
+2024-01-03,DS15,Vikhroli West,East,Snacks & Drinks,4.4,30
+2024-01-04,DS01,Andheri West,West,Dairy & Breakfast,0.7,1
+2024-01-04,DS01,Andheri West,West,Medicines,2.2,10
+2024-01-04,DS03,Juhu,West,Household Items,5.7,12
+2024-01-04,DS07,Ghatkopar West,Central,Baby Products,4.4,32
+2024-01-04,DS08,Kurla West,Central,Dairy & Breakfast,2.7,19
+2024-01-04,DS08,Kurla West,Central,Baby Products,2.4,18
+2024-01-04,DS09,Thane West,Central,Personal Care,2.3,11
+2024-01-04,DS09,Thane West,Central,Meats & Seafood,3.2,9
+2024-01-04,DS10,Mulund West,Central,Medicines,3.9,9
+2024-01-04,DS11,Dadar West,South,Medicines,2.8,8
+2024-01-04,DS11,Dadar West,South,Dairy & Breakfast,2.5,14
+2024-01-04,DS12,Lower Parel,South,Household Items,2.6,12
+2024-01-04,DS12,Lower Parel,South,Grocery & Staples,0.6,4
+2024-01-04,DS12,Lower Parel,South,Medicines,4.5,30
+2024-01-04,DS13,Worli,South,Snacks & Drinks,3.3,7
+2024-01-04,DS15,Vikhroli West,East,Medicines,3.0,9
+2024-01-04,DS15,Vikhroli West,East,Personal Care,1.1,5
+2024-01-05,DS01,Andheri West,West,Baby Products,4.0,12
+2024-01-05,DS02,Bandra West,West,Medicines,2.1,5
+2024-01-05,DS03,Juhu,West,Snacks & Drinks,4.5,9
+2024-01-05,DS03,Juhu,West,Fruits & Vegetables,2.9,12
+2024-01-05,DS04,Malad West,West,Fruits & Vegetables,2.1,4
+2024-01-05,DS05,Borivali West,West,Baby Products,4.6,34
+2024-01-05,DS06,Powai,Central,Baby Products,4.0,11
+2024-01-05,DS09,Thane West,Central,Grocery & Staples,1.0,5
+2024-01-05,DS10,Mulund West,Central,Baby Products,4.3,18
+2024-01-05,DS11,Dadar West,South,Grocery & Staples,1.6,10
+2024-01-05,DS11,Dadar West,South,Snacks & Drinks,2.6,9
+2024-01-05,DS12,Lower Parel,South,Household Items,2.7,20
+2024-01-05,DS15,Vikhroli West,East,Personal Care,4.8,34
+2024-01-05,DS15,Vikhroli West,East,Grocery & Staples,1.3,8
+2024-01-06,DS01,Andheri West,West,Baby Products,0.7,2
+2024-01-06,DS01,Andheri West,West,Medicines,2.0,9
+2024-01-06,DS02,Bandra West,West,Household Items,1.3,6
+2024-01-06,DS02,Bandra West,West,Medicines,1.2,7
+2024-01-06,DS04,Malad West,West,Fruits & Vegetables,2.7,18
+2024-01-06,DS05,Borivali West,West,Meats & Seafood,4.7,16
+2024-01-06,DS05,Borivali West,West,Household Items,0.6,4
+2024-01-06,DS06,Powai,Central,Household Items,0.9,6
+2024-01-06,DS08,Kurla West,Central,Dairy & Breakfast,3.6,27
+2024-01-06,DS08,Kurla West,Central,Fruits & Vegetables,5.3,26
+2024-01-06,DS08,Kurla West,Central,Snacks & Drinks,4.0,25
+2024-01-06,DS10,Mulund West,Central,Fruits & Vegetables,3.1,14
+2024-01-06,DS11,Dadar West,South,Fruits & Vegetables,3.7,26
+2024-01-06,DS12,Lower Parel,South,Personal Care,4.6,19
+2024-01-06,DS12,Lower Parel,South,Dairy & Breakfast,4.7,10
+2024-01-07,DS01,Andheri West,West,Snacks & Drinks,5.2,10
+2024-01-07,DS01,Andheri West,West,Fruits & Vegetables,5.2,35
+2024-01-07,DS01,Andheri West,West,Medicines,2.4,8
+2024-01-07,DS03,Juhu,West,Baby Products,5.6,15
+2024-01-07,DS07,Ghatkopar West,Central,Dairy & Breakfast,5.2,37
+2024-01-07,DS09,Thane West,Central,Household Items,4.2,19
+2024-01-07,DS09,Thane West,Central,Grocery & Staples,4.4,22
+2024-01-07,DS09,Thane West,Central,Meats & Seafood,3.4,15
+2024-01-07,DS10,Mulund West,Central,Baby Products,5.4,24
+2024-01-07,DS11,Dadar West,South,Fruits & Vegetables,1.7,5
+2024-01-07,DS12,Lower Parel,South,Meats & Seafood,2.0,7
+2024-01-07,DS13,Worli,South,Personal Care,2.9,20
+2024-01-07,DS14,Chembur,East,Medicines,5.4,37
+2024-01-07,DS15,Vikhroli West,East,Baby Products,5.5,21
+2024-01-08,DS02,Bandra West,West,Snacks & Drinks,1.4,7
+2024-01-08,DS06,Powai,Central,Medicines,5.2,28
+2024-01-08,DS09,Thane West,Central,Fruits & Vegetables,2.3,5
+2024-01-08,DS11,Dadar West,South,Baby Products,4.1,18
+2024-01-08,DS11,Dadar West,South,Household Items,1.2,2
+2024-01-08,DS12,Lower Parel,South,Fruits & Vegetables,2.1,13
+2024-01-08,DS12,Lower Parel,South,Household Items,5.1,27
+2024-01-08,DS13,Worli,South,Medicines,2.8,10
+2024-01-08,DS15,Vikhroli West,East,Dairy & Breakfast,5.0,21
+2024-01-09,DS01,Andheri West,West,Grocery & Staples,1.0,5
+2024-01-09,DS02,Bandra West,West,Household Items,3.1,8
+2024-01-09,DS03,Juhu,West,Meats & Seafood,5.2,16
+2024-01-09,DS03,Juhu,West,Grocery & Staples,1.4,4
+2024-01-09,DS04,Malad West,West,Grocery & Staples,1.0,3
+2024-01-09,DS04,Malad West,West,Baby Products,4.3,16
+2024-01-09,DS06,Powai,Central,Fruits & Vegetables,5.8,11
+2024-01-09,DS08,Kurla West,Central,Medicines,5.8,19
+2024-01-09,DS09,Thane West,Central,Snacks & Drinks,0.8,2
+2024-01-09,DS12,Lower Parel,South,Personal Care,0.9,4
+2024-01-09,DS12,Lower Parel,South,Medicines,1.9,4
+2024-01-09,DS14,Chembur,East,Grocery & Staples,2.6,18
+2024-01-09,DS14,Chembur,East,Household Items,3.3,16
+2024-01-09,DS14,Chembur,East,Dairy & Breakfast,1.1,6
+2024-01-09,DS15,Vikhroli West,East,Fruits & Vegetables,2.9,14
+2024-01-09,DS15,Vikhroli West,East,Household Items,1.9,15
+2024-01-10,DS01,Andheri West,West,Fruits & Vegetables,4.1,8
+2024-01-10,DS02,Bandra West,West,Snacks & Drinks,2.0,11
+2024-01-10,DS03,Juhu,West,Medicines,4.6,36
+2024-01-10,DS03,Juhu,West,Personal Care,3.4,26
+2024-01-10,DS04,Malad West,West,Medicines,5.6,43
+2024-01-10,DS06,Powai,Central,Baby Products,2.9,7
+2024-01-10,DS09,Thane West,Central,Meats & Seafood,3.9,16
+2024-01-10,DS09,Thane West,Central,Baby Products,2.4,7
+2024-01-10,DS09,Thane West,Central,Personal Care,3.3,19
+2024-01-10,DS11,Dadar West,South,Personal Care,3.4,11
+2024-01-10,DS12,Lower Parel,South,Dairy & Breakfast,1.7,6
+2024-01-10,DS13,Worli,South,Snacks & Drinks,2.8,20
+2024-01-10,DS13,Worli,South,Grocery & Staples,3.8,12
+2024-01-10,DS14,Chembur,East,Fruits & Vegetables,5.1,13
+2024-01-10,DS15,Vikhroli West,East,Baby Products,1.4,6
+2024-01-11,DS01,Andheri West,West,Household Items,0.8,4
+2024-01-11,DS02,Bandra West,West,Fruits & Vegetables,2.6,14
+2024-01-11,DS03,Juhu,West,Dairy & Breakfast,3.4,11
+2024-01-11,DS04,Malad West,West,Household Items,4.4,13
+2024-01-11,DS09,Thane West,Central,Medicines,2.7,11
+2024-01-11,DS11,Dadar West,South,Personal Care,1.0,5
+2024-01-11,DS12,Lower Parel,South,Personal Care,2.9,19
+2024-01-11,DS12,Lower Parel,South,Fruits & Vegetables,1.8,10
+2024-01-11,DS14,Chembur,East,Fruits & Vegetables,4.7,37
+2024-01-11,DS15,Vikhroli West,East,Medicines,5.1,39
+2024-01-12,DS01,Andheri West,West,Baby Products,4.4,29
+2024-01-12,DS01,Andheri West,West,Meats & Seafood,2.2,14
+2024-01-12,DS02,Bandra West,West,Dairy & Breakfast,4.4,20
+2024-01-12,DS02,Bandra West,West,Personal Care,6.0,40
+2024-01-12,DS03,Juhu,West,Snacks & Drinks,4.2,21
+2024-01-12,DS07,Ghatkopar West,Central,Fruits & Vegetables,4.1,17
+2024-01-12,DS11,Dadar West,South,Grocery & Staples,3.5,25
+2024-01-12,DS13,Worli,South,Personal Care,2.4,18
+2024-01-12,DS14,Chembur,East,Medicines,0.7,2
+2024-01-12,DS15,Vikhroli West,East,Household Items,4.5,21
+2024-01-12,DS15,Vikhroli West,East,Fruits & Vegetables,2.6,15
+2024-01-12,DS15,Vikhroli West,East,Grocery & Staples,1.0,3
+2024-01-13,DS05,Borivali West,West,Personal Care,1.2,5
+2024-01-13,DS08,Kurla West,Central,Meats & Seafood,2.4,17
+2024-01-13,DS10,Mulund West,Central,Household Items,2.9,18
+2024-01-13,DS12,Lower Parel,South,Meats & Seafood,3.1,13
+2024-01-13,DS14,Chembur,East,Personal Care,1.8,3
+2024-01-14,DS01,Andheri West,West,Baby Products,3.6,26
+2024-01-14,DS01,Andheri West,West,Household Items,2.7,12
+2024-01-14,DS01,Andheri West,West,Snacks & Drinks,1.7,3
+2024-01-14,DS02,Bandra West,West,Personal Care,1.5,8
+2024-01-14,DS03,Juhu,West,Fruits & Vegetables,3.9,19
+2024-01-14,DS05,Borivali West,West,Dairy & Breakfast,5.8,19
+2024-01-14,DS07,Ghatkopar West,Central,Baby Products,0.7,5
+2024-01-14,DS08,Kurla West,Central,Grocery & Staples,0.6,2
+2024-01-14,DS09,Thane West,Central,Dairy & Breakfast,0.6,2
+2024-01-14,DS10,Mulund West,Central,Baby Products,3.5,18
+2024-01-14,DS11,Dadar West,South,Grocery & Staples,5.2,36
+2024-01-14,DS12,Lower Parel,South,Personal Care,1.8,8
+2024-01-14,DS12,Lower Parel,South,Dairy & Breakfast,5.2,14
+2024-01-14,DS14,Chembur,East,Household Items,3.0,7
+2024-01-14,DS15,Vikhroli West,East,Baby Products,3.6,17
+2024-01-15,DS01,Andheri West,West,Fruits & Vegetables,1.4,10
+2024-01-15,DS01,Andheri West,West,Baby Products,5.9,22
+2024-01-15,DS02,Bandra West,West,Household Items,4.0,19
+2024-01-15,DS02,Bandra West,West,Fruits & Vegetables,2.9,20
+2024-01-15,DS03,Juhu,West,Medicines,2.1,9
+2024-01-15,DS05,Borivali West,West,Household Items,5.6,21
+2024-01-15,DS06,Powai,Central,Dairy & Breakfast,3.3,7
+2024-01-15,DS09,Thane West,Central,Fruits & Vegetables,1.5,7
+2024-01-15,DS11,Dadar West,South,Grocery & Staples,1.9,9
+2024-01-15,DS15,Vikhroli West,East,Fruits & Vegetables,2.7,17
+2024-01-16,DS01,Andheri West,West,Meats & Seafood,1.6,11
+2024-01-16,DS04,Malad West,West,Medicines,1.9,6
+2024-01-16,DS05,Borivali West,West,Grocery & Staples,2.1,16
+2024-01-16,DS06,Powai,Central,Dairy & Breakfast,1.8,11
+2024-01-16,DS08,Kurla West,Central,Personal Care,3.7,19
+2024-01-16,DS08,Kurla West,Central,Grocery & Staples,4.6,17
+2024-01-16,DS09,Thane West,Central,Dairy & Breakfast,1.0,6
+2024-01-16,DS10,Mulund West,Central,Snacks & Drinks,3.4,19
+2024-01-16,DS11,Dadar West,South,Household Items,2.3,15
+2024-01-17,DS01,Andheri West,West,Household Items,2.8,6
+2024-01-17,DS05,Borivali West,West,Medicines,3.4,14
+2024-01-17,DS08,Kurla West,Central,Fruits & Vegetables,3.9,18
+2024-01-17,DS08,Kurla West,Central,Household Items,1.7,9
+2024-01-17,DS09,Thane West,Central,Grocery & Staples,2.6,5
+2024-01-17,DS09,Thane West,Central,Snacks & Drinks,5.7,36
+2024-01-17,DS11,Dadar West,South,Fruits & Vegetables,1.7,13
+2024-01-17,DS11,Dadar West,South,Baby Products,3.9,30
+2024-01-17,DS14,Chembur,East,Snacks & Drinks,3.0,8
+2024-01-17,DS15,Vikhroli West,East,Meats & Seafood,5.0,14
+2024-01-18,DS01,Andheri West,West,Personal Care,5.1,11
+2024-01-18,DS08,Kurla West,Central,Fruits & Vegetables,4.6,20
+2024-01-18,DS09,Thane West,Central,Grocery & Staples,2.3,5
+2024-01-18,DS11,Dadar West,South,Medicines,2.9,20
+2024-01-18,DS14,Chembur,East,Baby Products,0.9,3
+2024-01-18,DS14,Chembur,East,Personal Care,0.7,4
+2024-01-18,DS15,Vikhroli West,East,Medicines,2.1,7
+2024-01-19,DS03,Juhu,West,Baby Products,2.9,19
+2024-01-19,DS05,Borivali West,West,Dairy & Breakfast,5.0,28
+2024-01-19,DS06,Powai,Central,Household Items,3.0,8
+2024-01-19,DS08,Kurla West,Central,Snacks & Drinks,1.3,3
+2024-01-19,DS08,Kurla West,Central,Grocery & Staples,1.1,5
+2024-01-19,DS08,Kurla West,Central,Baby Products,5.4,15
+2024-01-19,DS09,Thane West,Central,Household Items,5.6,20
+2024-01-19,DS15,Vikhroli West,East,Dairy & Breakfast,5.7,33
+2024-01-20,DS02,Bandra West,West,Medicines,3.6,22
+2024-01-20,DS05,Borivali West,West,Grocery & Staples,0.9,4
+2024-01-20,DS05,Borivali West,West,Personal Care,4.3,25
+2024-01-20,DS08,Kurla West,Central,Personal Care,5.8,28
+2024-01-20,DS09,Thane West,Central,Snacks & Drinks,3.3,24
+2024-01-20,DS09,Thane West,Central,Personal Care,2.4,5
+2024-01-20,DS09,Thane West,Central,Dairy & Breakfast,2.0,11
+2024-01-20,DS10,Mulund West,Central,Baby Products,3.1,9
+2024-01-20,DS12,Lower Parel,South,Grocery & Staples,4.4,30
+2024-01-20,DS13,Worli,South,Meats & Seafood,1.1,5
+2024-01-20,DS14,Chembur,East,Snacks & Drinks,4.5,29
+2024-01-20,DS14,Chembur,East,Medicines,2.1,12
+2024-01-20,DS15,Vikhroli West,East,Grocery & Staples,1.3,8
+2024-01-21,DS01,Andheri West,West,Baby Products,5.1,22
+2024-01-21,DS01,Andheri West,West,Fruits & Vegetables,3.3,14
+2024-01-21,DS06,Powai,Central,Fruits & Vegetables,2.8,17
+2024-01-21,DS09,Thane West,Central,Meats & Seafood,3.3,8
+2024-01-21,DS11,Dadar West,South,Household Items,5.3,15
+2024-01-21,DS14,Chembur,East,Personal Care,4.6,15
+2024-01-22,DS01,Andheri West,West,Meats & Seafood,3.8,9
+2024-01-22,DS01,Andheri West,West,Grocery & Staples,1.2,7
+2024-01-22,DS01,Andheri West,West,Personal Care,3.2,23
+2024-01-22,DS02,Bandra West,West,Household Items,2.7,9
+2024-01-22,DS02,Bandra West,West,Fruits & Vegetables,1.8,7
+2024-01-22,DS06,Powai,Central,Dairy & Breakfast,1.2,8
+2024-01-22,DS06,Powai,Central,Grocery & Staples,5.6,41
+2024-01-22,DS08,Kurla West,Central,Snacks & Drinks,3.9,9
+2024-01-22,DS08,Kurla West,Central,Grocery & Staples,2.2,17
+2024-01-22,DS09,Thane West,Central,Meats & Seafood,5.7,38
+2024-01-22,DS09,Thane West,Central,Household Items,2.0,6
+2024-01-22,DS09,Thane West,Central,Personal Care,2.1,11
+2024-01-22,DS09,Thane West,Central,Fruits & Vegetables,5.5,42
+2024-01-22,DS09,Thane West,Central,Snacks & Drinks,0.9,3
+2024-01-22,DS09,Thane West,Central,Grocery & Staples,2.3,15
+2024-01-22,DS13,Worli,South,Medicines,1.0,5
+2024-01-23,DS01,Andheri West,West,Baby Products,4.9,16
+2024-01-23,DS03,Juhu,West,Snacks & Drinks,3.7,21
+2024-01-23,DS03,Juhu,West,Household Items,5.5,33
+2024-01-23,DS05,Borivali West,West,Personal Care,5.3,33
+2024-01-23,DS05,Borivali West,West,Meats & Seafood,2.7,5
+2024-01-23,DS06,Powai,Central,Fruits & Vegetables,1.8,4
+2024-01-23,DS08,Kurla West,Central,Personal Care,2.1,9
+2024-01-23,DS08,Kurla West,Central,Baby Products,0.6,1
+2024-01-23,DS10,Mulund West,Central,Meats & Seafood,3.5,26
+2024-01-23,DS12,Lower Parel,South,Snacks & Drinks,0.6,3
+2024-01-23,DS12,Lower Parel,South,Personal Care,2.4,15
+2024-01-23,DS15,Vikhroli West,East,Household Items,1.5,6
+2024-01-23,DS15,Vikhroli West,East,Grocery & Staples,4.0,23
+2024-01-24,DS01,Andheri West,West,Personal Care,1.7,12
+2024-01-24,DS01,Andheri West,West,Fruits & Vegetables,4.2,30
+2024-01-24,DS02,Bandra West,West,Dairy & Breakfast,1.4,10
+2024-01-24,DS02,Bandra West,West,Household Items,4.8,34
+2024-01-24,DS02,Bandra West,West,Personal Care,3.9,21
+2024-01-24,DS04,Malad West,West,Dairy & Breakfast,2.4,16
+2024-01-24,DS05,Borivali West,West,Snacks & Drinks,2.5,7
+2024-01-24,DS06,Powai,Central,Medicines,0.6,3
+2024-01-24,DS08,Kurla West,Central,Personal Care,5.4,14
+2024-01-24,DS10,Mulund West,Central,Snacks & Drinks,3.8,14
+2024-01-24,DS11,Dadar West,South,Grocery & Staples,0.9,5
+2024-01-24,DS12,Lower Parel,South,Household Items,4.8,21
+2024-01-24,DS12,Lower Parel,South,Fruits & Vegetables,5.1,17
+2024-01-24,DS13,Worli,South,Medicines,1.2,7
+2024-01-24,DS14,Chembur,East,Snacks & Drinks,1.6,4
+2024-01-25,DS04,Malad West,West,Snacks & Drinks,0.9,6
+2024-01-25,DS05,Borivali West,West,Personal Care,2.2,7
+2024-01-25,DS06,Powai,Central,Baby Products,1.6,5
+2024-01-25,DS06,Powai,Central,Medicines,2.2,17
+2024-01-25,DS08,Kurla West,Central,Dairy & Breakfast,1.5,5
+2024-01-25,DS09,Thane West,Central,Snacks & Drinks,2.7,8
+2024-01-25,DS11,Dadar West,South,Personal Care,3.1,16
+2024-01-25,DS11,Dadar West,South,Household Items,2.2,16
+2024-01-25,DS11,Dadar West,South,Baby Products,2.9,15
+2024-01-25,DS11,Dadar West,South,Meats & Seafood,3.4,7
+2024-01-25,DS12,Lower Parel,South,Medicines,2.3,7
+2024-01-25,DS12,Lower Parel,South,Baby Products,3.6,28
+2024-01-25,DS12,Lower Parel,South,Meats & Seafood,1.2,5
+2024-01-25,DS14,Chembur,East,Personal Care,3.0,21
+2024-01-25,DS14,Chembur,East,Grocery & Staples,3.1,10
+2024-01-25,DS15,Vikhroli West,East,Personal Care,0.6,3
+2024-01-25,DS15,Vikhroli West,East,Dairy & Breakfast,3.5,22
+2024-01-25,DS15,Vikhroli West,East,Grocery & Staples,3.3,20
+2024-01-26,DS01,Andheri West,West,Household Items,3.0,12
+2024-01-26,DS02,Bandra West,West,Meats & Seafood,3.2,21
+2024-01-26,DS02,Bandra West,West,Personal Care,4.0,22
+2024-01-26,DS03,Juhu,West,Baby Products,5.6,40
+2024-01-26,DS05,Borivali West,West,Dairy & Breakfast,5.6,43
+2024-01-26,DS11,Dadar West,South,Dairy & Breakfast,2.3,8
+2024-01-26,DS14,Chembur,East,Personal Care,5.9,33
+2024-01-26,DS14,Chembur,East,Snacks & Drinks,1.1,6
+2024-01-26,DS15,Vikhroli West,East,Snacks & Drinks,2.9,19
+2024-01-27,DS01,Andheri West,West,Fruits & Vegetables,2.6,9
+2024-01-27,DS02,Bandra West,West,Fruits & Vegetables,1.2,2
+2024-01-27,DS08,Kurla West,Central,Medicines,1.8,9
+2024-01-27,DS11,Dadar West,South,Meats & Seafood,2.4,9
+2024-01-27,DS11,Dadar West,South,Personal Care,5.0,10
+2024-01-27,DS12,Lower Parel,South,Meats & Seafood,4.4,19
+2024-01-27,DS13,Worli,South,Grocery & Staples,2.0,6
+2024-01-27,DS14,Chembur,East,Meats & Seafood,4.3,25
+2024-01-27,DS15,Vikhroli West,East,Meats & Seafood,2.5,17
+2024-01-27,DS15,Vikhroli West,East,Fruits & Vegetables,1.0,6
+2024-01-28,DS01,Andheri West,West,Dairy & Breakfast,5.9,19
+2024-01-28,DS03,Juhu,West,Medicines,4.7,33
+2024-01-28,DS04,Malad West,West,Medicines,2.6,14
+2024-01-28,DS11,Dadar West,South,Baby Products,2.2,13
+2024-01-28,DS11,Dadar West,South,Personal Care,3.2,25
+2024-01-28,DS12,Lower Parel,South,Medicines,2.5,19
+2024-01-28,DS12,Lower Parel,South,Personal Care,3.9,29
+2024-01-28,DS12,Lower Parel,South,Baby Products,3.1,17
+2024-01-28,DS15,Vikhroli West,East,Baby Products,3.5,16
+2024-01-28,DS15,Vikhroli West,East,Household Items,1.9,6
+2024-01-28,DS15,Vikhroli West,East,Grocery & Staples,2.4,11
+2024-01-29,DS01,Andheri West,West,Dairy & Breakfast,1.0,2
+2024-01-29,DS01,Andheri West,West,Grocery & Staples,2.1,7
+2024-01-29,DS08,Kurla West,Central,Personal Care,1.0,5
+2024-01-29,DS10,Mulund West,Central,Snacks & Drinks,2.1,11
+2024-01-29,DS12,Lower Parel,South,Baby Products,3.5,21
+2024-01-29,DS12,Lower Parel,South,Fruits & Vegetables,1.0,7
+2024-01-29,DS15,Vikhroli West,East,Personal Care,4.7,12
+2024-01-30,DS01,Andheri West,West,Medicines,1.5,4
+2024-01-30,DS03,Juhu,West,Medicines,6.0,28
+2024-01-30,DS03,Juhu,West,Grocery & Staples,3.0,22
+2024-01-30,DS05,Borivali West,West,Medicines,3.9,24
+2024-01-30,DS06,Powai,Central,Personal Care,4.2,11
+2024-01-30,DS06,Powai,Central,Baby Products,4.3,13
+2024-01-30,DS09,Thane West,Central,Meats & Seafood,5.0,19
+2024-01-30,DS10,Mulund West,Central,Dairy & Breakfast,1.6,11
+2024-01-30,DS13,Worli,South,Meats & Seafood,4.7,19
+2024-01-30,DS14,Chembur,East,Dairy & Breakfast,4.7,29
+2024-01-30,DS15,Vikhroli West,East,Dairy & Breakfast,3.1,12
+2024-01-30,DS15,Vikhroli West,East,Household Items,5.8,32
+2024-01-30,DS15,Vikhroli West,East,Fruits & Vegetables,5.9,35
+2024-01-31,DS04,Malad West,West,Fruits & Vegetables,1.4,4
+2024-01-31,DS05,Borivali West,West,Dairy & Breakfast,1.5,8
+2024-01-31,DS06,Powai,Central,Grocery & Staples,3.5,15
+2024-01-31,DS08,Kurla West,Central,Meats & Seafood,1.4,6
+2024-01-31,DS09,Thane West,Central,Baby Products,5.2,26
+2024-01-31,DS09,Thane West,Central,Meats & Seafood,6.0,45
+2024-01-31,DS09,Thane West,Central,Snacks & Drinks,1.0,3
+2024-01-31,DS12,Lower Parel,South,Medicines,0.9,3
+2024-01-31,DS12,Lower Parel,South,Grocery & Staples,3.0,19
+2024-01-31,DS13,Worli,South,Dairy & Breakfast,3.8,19
+2024-01-31,DS15,Vikhroli West,East,Personal Care,0.6,2
+2024-01-31,DS15,Vikhroli West,East,Fruits & Vegetables,5.0,12
+2024-02-01,DS01,Andheri West,West,Dairy & Breakfast,3.1,19
+2024-02-01,DS01,Andheri West,West,Household Items,2.6,14
+2024-02-01,DS01,Andheri West,West,Snacks & Drinks,4.5,16
+2024-02-01,DS03,Juhu,West,Snacks & Drinks,1.1,2
+2024-02-01,DS07,Ghatkopar West,Central,Baby Products,3.1,11
+2024-02-01,DS07,Ghatkopar West,Central,Medicines,5.2,37
+2024-02-01,DS08,Kurla West,Central,Fruits & Vegetables,2.1,13
+2024-02-01,DS11,Dadar West,South,Meats & Seafood,2.8,19
+2024-02-01,DS11,Dadar West,South,Personal Care,5.6,38
+2024-02-02,DS01,Andheri West,West,Baby Products,1.3,7
+2024-02-02,DS02,Bandra West,West,Fruits & Vegetables,4.1,29
+2024-02-02,DS03,Juhu,West,Baby Products,1.5,4
+2024-02-02,DS03,Juhu,West,Dairy & Breakfast,1.5,4
+2024-02-02,DS08,Kurla West,Central,Personal Care,2.8,7
+2024-02-02,DS08,Kurla West,Central,Meats & Seafood,2.0,4
+2024-02-02,DS11,Dadar West,South,Household Items,1.9,11
+2024-02-02,DS12,Lower Parel,South,Meats & Seafood,3.9,18
+2024-02-02,DS12,Lower Parel,South,Household Items,4.5,31
+2024-02-02,DS13,Worli,South,Personal Care,3.0,19
+2024-02-02,DS14,Chembur,East,Personal Care,4.4,22
+2024-02-03,DS01,Andheri West,West,Household Items,3.3,22
+2024-02-03,DS02,Bandra West,West,Dairy & Breakfast,3.2,23
+2024-02-03,DS03,Juhu,West,Baby Products,1.1,7
+2024-02-03,DS03,Juhu,West,Fruits & Vegetables,2.3,14
+2024-02-03,DS03,Juhu,West,Household Items,5.2,34
+2024-02-03,DS07,Ghatkopar West,Central,Personal Care,0.9,2
+2024-02-03,DS09,Thane West,Central,Dairy & Breakfast,2.4,10
+2024-02-03,DS09,Thane West,Central,Meats & Seafood,1.9,12
+2024-02-03,DS09,Thane West,Central,Personal Care,1.4,11
+2024-02-03,DS11,Dadar West,South,Meats & Seafood,3.5,17
+2024-02-03,DS12,Lower Parel,South,Meats & Seafood,5.3,24
+2024-02-03,DS12,Lower Parel,South,Dairy & Breakfast,3.2,24
+2024-02-03,DS12,Lower Parel,South,Household Items,5.8,19
+2024-02-03,DS12,Lower Parel,South,Fruits & Vegetables,5.8,30
+2024-02-03,DS12,Lower Parel,South,Baby Products,1.5,11
+2024-02-03,DS13,Worli,South,Snacks & Drinks,5.0,11
+2024-02-03,DS15,Vikhroli West,East,Personal Care,2.9,18
+2024-02-04,DS01,Andheri West,West,Fruits & Vegetables,0.6,4
+2024-02-04,DS03,Juhu,West,Personal Care,5.0,12
+2024-02-04,DS04,Malad West,West,Medicines,3.5,20
+2024-02-04,DS08,Kurla West,Central,Medicines,2.7,13
+2024-02-04,DS10,Mulund West,Central,Medicines,4.2,29
+2024-02-04,DS12,Lower Parel,South,Fruits & Vegetables,0.9,6
+2024-02-04,DS15,Vikhroli West,East,Snacks & Drinks,0.7,1
+2024-02-04,DS15,Vikhroli West,East,Meats & Seafood,5.8,37
+2024-02-05,DS03,Juhu,West,Grocery & Staples,2.9,6
+2024-02-05,DS03,Juhu,West,Meats & Seafood,4.8,30
+2024-02-05,DS03,Juhu,West,Personal Care,2.5,10
+2024-02-05,DS05,Borivali West,West,Meats & Seafood,3.3,7
+2024-02-05,DS08,Kurla West,Central,Dairy & Breakfast,1.4,2
+2024-02-05,DS08,Kurla West,Central,Baby Products,1.4,4
+2024-02-05,DS09,Thane West,Central,Dairy & Breakfast,5.9,45
+2024-02-05,DS10,Mulund West,Central,Meats & Seafood,2.2,14
+2024-02-05,DS10,Mulund West,Central,Personal Care,1.4,10
+2024-02-05,DS12,Lower Parel,South,Grocery & Staples,1.3,9
+2024-02-05,DS13,Worli,South,Medicines,2.8,18
+2024-02-05,DS13,Worli,South,Meats & Seafood,5.9,22
+2024-02-05,DS14,Chembur,East,Dairy & Breakfast,1.9,11
+2024-02-05,DS15,Vikhroli West,East,Dairy & Breakfast,4.1,10
+2024-02-06,DS02,Bandra West,West,Dairy & Breakfast,2.5,8
+2024-02-06,DS04,Malad West,West,Fruits & Vegetables,5.9,36
+2024-02-06,DS05,Borivali West,West,Snacks & Drinks,5.9,13
+2024-02-06,DS05,Borivali West,West,Grocery & Staples,3.6,27
+2024-02-06,DS06,Powai,Central,Household Items,4.1,25
+2024-02-06,DS06,Powai,Central,Dairy & Breakfast,3.0,12
+2024-02-06,DS06,Powai,Central,Medicines,4.0,25
+2024-02-06,DS08,Kurla West,Central,Fruits & Vegetables,4.2,21
+2024-02-06,DS08,Kurla West,Central,Baby Products,3.8,12
+2024-02-06,DS09,Thane West,Central,Dairy & Breakfast,2.6,8
+2024-02-06,DS11,Dadar West,South,Baby Products,2.5,10
+2024-02-06,DS12,Lower Parel,South,Snacks & Drinks,4.1,17
+2024-02-06,DS13,Worli,South,Fruits & Vegetables,5.2,34
+2024-02-06,DS14,Chembur,East,Dairy & Breakfast,3.8,23
+2024-02-06,DS15,Vikhroli West,East,Medicines,5.4,32
+2024-02-07,DS01,Andheri West,West,Fruits & Vegetables,5.6,27
+2024-02-07,DS01,Andheri West,West,Snacks & Drinks,2.2,11
+2024-02-07,DS02,Bandra West,West,Personal Care,1.0,5
+2024-02-07,DS05,Borivali West,West,Baby Products,4.5,33
+2024-02-07,DS08,Kurla West,Central,Meats & Seafood,2.4,10
+2024-02-07,DS11,Dadar West,South,Personal Care,4.6,36
+2024-02-07,DS11,Dadar West,South,Household Items,0.8,2
+2024-02-07,DS12,Lower Parel,South,Medicines,4.1,18
+2024-02-07,DS14,Chembur,East,Meats & Seafood,5.6,42
+2024-02-07,DS15,Vikhroli West,East,Medicines,1.8,12
+2024-02-08,DS01,Andheri West,West,Meats & Seafood,0.7,2
+2024-02-08,DS03,Juhu,West,Personal Care,4.0,17
+2024-02-08,DS08,Kurla West,Central,Fruits & Vegetables,5.0,17
+2024-02-08,DS08,Kurla West,Central,Snacks & Drinks,0.5,3
+2024-02-08,DS09,Thane West,Central,Medicines,5.2,21
+2024-02-08,DS09,Thane West,Central,Fruits & Vegetables,0.8,2
+2024-02-08,DS10,Mulund West,Central,Snacks & Drinks,2.1,7
+2024-02-08,DS11,Dadar West,South,Grocery & Staples,4.1,26
+2024-02-08,DS11,Dadar West,South,Dairy & Breakfast,5.3,13
+2024-02-08,DS12,Lower Parel,South,Household Items,3.7,11
+2024-02-08,DS12,Lower Parel,South,Grocery & Staples,3.5,9
+2024-02-09,DS06,Powai,Central,Household Items,1.3,8
+2024-02-09,DS08,Kurla West,Central,Personal Care,5.4,43
+2024-02-09,DS08,Kurla West,Central,Household Items,2.0,8
+2024-02-09,DS12,Lower Parel,South,Meats & Seafood,2.7,21
+2024-02-09,DS12,Lower Parel,South,Personal Care,6.0,18
+2024-02-09,DS14,Chembur,East,Personal Care,2.0,11
+2024-02-09,DS15,Vikhroli West,East,Baby Products,0.9,3
+2024-02-09,DS15,Vikhroli West,East,Personal Care,2.4,8
+2024-02-09,DS15,Vikhroli West,East,Household Items,2.9,21
+2024-02-10,DS01,Andheri West,West,Medicines,5.4,25
+2024-02-10,DS01,Andheri West,West,Personal Care,1.8,7
+2024-02-10,DS03,Juhu,West,Household Items,2.5,12
+2024-02-10,DS04,Malad West,West,Baby Products,3.4,20
+2024-02-10,DS08,Kurla West,Central,Personal Care,0.9,4
+2024-02-10,DS11,Dadar West,South,Baby Products,0.9,6
+2024-02-10,DS11,Dadar West,South,Fruits & Vegetables,0.7,1
+2024-02-10,DS12,Lower Parel,South,Grocery & Staples,5.7,38
+2024-02-10,DS15,Vikhroli West,East,Snacks & Drinks,2.9,14
+2024-02-11,DS01,Andheri West,West,Fruits & Vegetables,0.7,2
+2024-02-11,DS01,Andheri West,West,Snacks & Drinks,0.8,3
+2024-02-11,DS01,Andheri West,West,Personal Care,2.7,10
+2024-02-11,DS02,Bandra West,West,Grocery & Staples,2.4,6
+2024-02-11,DS05,Borivali West,West,Snacks & Drinks,2.7,11
+2024-02-11,DS05,Borivali West,West,Baby Products,0.8,2
+2024-02-11,DS08,Kurla West,Central,Household Items,2.1,16
+2024-02-11,DS11,Dadar West,South,Meats & Seafood,4.3,25
+2024-02-11,DS12,Lower Parel,South,Meats & Seafood,0.5,2
+2024-02-11,DS12,Lower Parel,South,Medicines,2.9,10
+2024-02-11,DS12,Lower Parel,South,Personal Care,1.5,8
+2024-02-11,DS14,Chembur,East,Meats & Seafood,3.4,8
+2024-02-11,DS14,Chembur,East,Baby Products,5.7,20
+2024-02-12,DS01,Andheri West,West,Fruits & Vegetables,4.0,27
+2024-02-12,DS01,Andheri West,West,Snacks & Drinks,5.2,30
+2024-02-12,DS05,Borivali West,West,Meats & Seafood,5.0,26
+2024-02-12,DS08,Kurla West,Central,Dairy & Breakfast,0.6,1
+2024-02-12,DS11,Dadar West,South,Snacks & Drinks,5.0,25
+2024-02-12,DS12,Lower Parel,South,Grocery & Staples,1.0,6
+2024-02-13,DS01,Andheri West,West,Household Items,5.2,37
+2024-02-13,DS03,Juhu,West,Grocery & Staples,4.4,20
+2024-02-13,DS03,Juhu,West,Personal Care,2.8,7
+2024-02-13,DS07,Ghatkopar West,Central,Personal Care,3.6,18
+2024-02-13,DS07,Ghatkopar West,Central,Grocery & Staples,1.4,4
+2024-02-13,DS08,Kurla West,Central,Fruits & Vegetables,1.8,8
+2024-02-13,DS08,Kurla West,Central,Snacks & Drinks,3.4,21
+2024-02-13,DS08,Kurla West,Central,Dairy & Breakfast,1.6,6
+2024-02-13,DS09,Thane West,Central,Household Items,3.9,11
+2024-02-13,DS11,Dadar West,South,Medicines,0.7,2
+2024-02-13,DS14,Chembur,East,Medicines,2.9,12
+2024-02-13,DS15,Vikhroli West,East,Grocery & Staples,3.6,13
+2024-02-14,DS02,Bandra West,West,Grocery & Staples,5.1,32
+2024-02-14,DS03,Juhu,West,Fruits & Vegetables,4.6,36
+2024-02-14,DS05,Borivali West,West,Snacks & Drinks,4.7,11
+2024-02-14,DS06,Powai,Central,Meats & Seafood,4.5,34
+2024-02-14,DS06,Powai,Central,Fruits & Vegetables,4.5,27
+2024-02-14,DS08,Kurla West,Central,Medicines,3.7,21
+2024-02-14,DS09,Thane West,Central,Snacks & Drinks,3.1,13
+2024-02-14,DS10,Mulund West,Central,Snacks & Drinks,3.0,18
+2024-02-14,DS11,Dadar West,South,Dairy & Breakfast,5.9,26
+2024-02-14,DS12,Lower Parel,South,Medicines,5.7,34
+2024-02-14,DS15,Vikhroli West,East,Snacks & Drinks,1.8,10
+2024-02-14,DS15,Vikhroli West,East,Household Items,0.9,2
+2024-02-14,DS15,Vikhroli West,East,Grocery & Staples,4.6,23
+2024-02-15,DS01,Andheri West,West,Grocery & Staples,3.1,11
+2024-02-15,DS01,Andheri West,West,Medicines,2.8,15
+2024-02-15,DS07,Ghatkopar West,Central,Baby Products,2.8,17
+2024-02-15,DS07,Ghatkopar West,Central,Snacks & Drinks,6.0,26
+2024-02-15,DS07,Ghatkopar West,Central,Medicines,0.6,1
+2024-02-15,DS08,Kurla West,Central,Grocery & Staples,2.2,12
+2024-02-15,DS10,Mulund West,Central,Medicines,3.6,17
+2024-02-15,DS11,Dadar West,South,Meats & Seafood,1.9,7
+2024-02-15,DS15,Vikhroli West,East,Dairy & Breakfast,0.7,2
+2024-02-16,DS03,Juhu,West,Grocery & Staples,5.6,13
+2024-02-16,DS06,Powai,Central,Baby Products,3.5,14
+2024-02-16,DS06,Powai,Central,Grocery & Staples,1.3,7
+2024-02-16,DS07,Ghatkopar West,Central,Grocery & Staples,3.0,11
+2024-02-16,DS08,Kurla West,Central,Baby Products,5.0,17
+2024-02-16,DS09,Thane West,Central,Personal Care,5.5,39
+2024-02-16,DS10,Mulund West,Central,Household Items,2.1,5
+2024-02-16,DS15,Vikhroli West,East,Household Items,4.6,33
+2024-02-17,DS01,Andheri West,West,Medicines,1.1,7
+2024-02-17,DS02,Bandra West,West,Medicines,0.6,3
+2024-02-17,DS03,Juhu,West,Fruits & Vegetables,1.9,14
+2024-02-17,DS04,Malad West,West,Household Items,1.9,5
+2024-02-17,DS07,Ghatkopar West,Central,Personal Care,2.3,16
+2024-02-17,DS08,Kurla West,Central,Household Items,4.1,20
+2024-02-17,DS09,Thane West,Central,Fruits & Vegetables,1.2,4
+2024-02-17,DS12,Lower Parel,South,Meats & Seafood,5.0,16
+2024-02-17,DS13,Worli,South,Medicines,0.7,4
+2024-02-17,DS13,Worli,South,Household Items,3.9,29
+2024-02-18,DS01,Andheri West,West,Dairy & Breakfast,0.9,2
+2024-02-18,DS04,Malad West,West,Dairy & Breakfast,0.6,4
+2024-02-18,DS05,Borivali West,West,Household Items,5.6,19
+2024-02-18,DS06,Powai,Central,Personal Care,0.7,5
+2024-02-18,DS06,Powai,Central,Fruits & Vegetables,2.1,12
+2024-02-18,DS06,Powai,Central,Medicines,0.6,4
+2024-02-18,DS06,Powai,Central,Dairy & Breakfast,1.4,5
+2024-02-18,DS06,Powai,Central,Snacks & Drinks,4.1,20
+2024-02-18,DS09,Thane West,Central,Personal Care,0.8,4
+2024-02-18,DS09,Thane West,Central,Snacks & Drinks,1.4,4
+2024-02-18,DS10,Mulund West,Central,Fruits & Vegetables,1.0,6
+2024-02-18,DS12,Lower Parel,South,Meats & Seafood,2.9,12
+2024-02-18,DS12,Lower Parel,South,Household Items,5.7,13
+2024-02-18,DS13,Worli,South,Household Items,5.6,27
+2024-02-18,DS14,Chembur,East,Fruits & Vegetables,0.8,4
+2024-02-19,DS01,Andheri West,West,Personal Care,4.0,31
+2024-02-19,DS02,Bandra West,West,Dairy & Breakfast,3.3,22
+2024-02-19,DS03,Juhu,West,Snacks & Drinks,3.2,12
+2024-02-19,DS04,Malad West,West,Medicines,5.9,39
+2024-02-19,DS08,Kurla West,Central,Dairy & Breakfast,4.6,17
+2024-02-19,DS08,Kurla West,Central,Fruits & Vegetables,4.3,34
+2024-02-19,DS10,Mulund West,Central,Meats & Seafood,4.5,11
+2024-02-19,DS12,Lower Parel,South,Household Items,2.3,8
+2024-02-19,DS13,Worli,South,Baby Products,4.2,23
+2024-02-20,DS01,Andheri West,West,Meats & Seafood,4.0,28
+2024-02-20,DS01,Andheri West,West,Medicines,1.6,10
+2024-02-20,DS02,Bandra West,West,Meats & Seafood,2.3,18
+2024-02-20,DS02,Bandra West,West,Grocery & Staples,5.3,19
+2024-02-20,DS04,Malad West,West,Snacks & Drinks,2.5,10
+2024-02-20,DS06,Powai,Central,Medicines,4.8,33
+2024-02-20,DS06,Powai,Central,Fruits & Vegetables,5.3,29
+2024-02-20,DS07,Ghatkopar West,Central,Baby Products,1.5,8
+2024-02-20,DS09,Thane West,Central,Dairy & Breakfast,3.0,21
+2024-02-20,DS15,Vikhroli West,East,Snacks & Drinks,4.2,25
+2024-02-20,DS15,Vikhroli West,East,Baby Products,2.1,10
+2024-02-20,DS15,Vikhroli West,East,Meats & Seafood,5.7,26
+2024-02-21,DS03,Juhu,West,Grocery & Staples,2.6,5
+2024-02-21,DS03,Juhu,West,Snacks & Drinks,1.2,8
+2024-02-21,DS06,Powai,Central,Dairy & Breakfast,2.2,6
+2024-02-21,DS08,Kurla West,Central,Meats & Seafood,4.5,29
+2024-02-21,DS10,Mulund West,Central,Household Items,2.8,12
+2024-02-21,DS11,Dadar West,South,Personal Care,4.7,16
+2024-02-21,DS11,Dadar West,South,Grocery & Staples,3.3,16
+2024-02-21,DS12,Lower Parel,South,Dairy & Breakfast,1.6,3
+2024-02-21,DS12,Lower Parel,South,Personal Care,4.6,11
+2024-02-21,DS12,Lower Parel,South,Medicines,5.8,40
+2024-02-21,DS13,Worli,South,Household Items,4.6,9
+2024-02-21,DS15,Vikhroli West,East,Household Items,3.1,21
+2024-02-22,DS01,Andheri West,West,Dairy & Breakfast,5.9,15
+2024-02-22,DS01,Andheri West,West,Fruits & Vegetables,3.9,9
+2024-02-22,DS11,Dadar West,South,Medicines,2.0,11
+2024-02-22,DS12,Lower Parel,South,Dairy & Breakfast,5.5,14
+2024-02-22,DS12,Lower Parel,South,Personal Care,4.0,23
+2024-02-22,DS14,Chembur,East,Medicines,3.5,9
+2024-02-22,DS14,Chembur,East,Snacks & Drinks,2.8,9
+2024-02-23,DS01,Andheri West,West,Household Items,3.2,9
+2024-02-23,DS02,Bandra West,West,Household Items,3.5,10
+2024-02-23,DS06,Powai,Central,Dairy & Breakfast,0.7,5
+2024-02-23,DS07,Ghatkopar West,Central,Dairy & Breakfast,2.5,12
+2024-02-23,DS08,Kurla West,Central,Medicines,3.4,25
+2024-02-23,DS08,Kurla West,Central,Household Items,2.2,7
+2024-02-23,DS12,Lower Parel,South,Household Items,4.7,26
+2024-02-23,DS12,Lower Parel,South,Grocery & Staples,2.3,10
+2024-02-23,DS15,Vikhroli West,East,Baby Products,6.0,14
+2024-02-24,DS01,Andheri West,West,Grocery & Staples,3.8,22
+2024-02-24,DS01,Andheri West,West,Personal Care,5.4,38
+2024-02-24,DS03,Juhu,West,Dairy & Breakfast,2.1,6
+2024-02-24,DS03,Juhu,West,Snacks & Drinks,2.0,4
+2024-02-24,DS04,Malad West,West,Personal Care,2.7,9
+2024-02-24,DS08,Kurla West,Central,Meats & Seafood,2.5,14
+2024-02-24,DS09,Thane West,Central,Personal Care,5.5,29
+2024-02-24,DS09,Thane West,Central,Fruits & Vegetables,6.0,20
+2024-02-24,DS11,Dadar West,South,Grocery & Staples,1.3,8
+2024-02-24,DS11,Dadar West,South,Dairy & Breakfast,1.6,5
+2024-02-24,DS12,Lower Parel,South,Snacks & Drinks,4.1,12
+2024-02-24,DS12,Lower Parel,South,Dairy & Breakfast,5.3,40
+2024-02-24,DS15,Vikhroli West,East,Dairy & Breakfast,2.7,14
+2024-02-24,DS15,Vikhroli West,East,Fruits & Vegetables,5.3,36
+2024-02-25,DS01,Andheri West,West,Dairy & Breakfast,2.8,7
+2024-02-25,DS04,Malad West,West,Meats & Seafood,5.9,42
+2024-02-25,DS05,Borivali West,West,Personal Care,2.4,10
+2024-02-25,DS05,Borivali West,West,Dairy & Breakfast,1.2,5
+2024-02-25,DS06,Powai,Central,Snacks & Drinks,4.8,15
+2024-02-25,DS08,Kurla West,Central,Medicines,4.9,33
+2024-02-25,DS13,Worli,South,Baby Products,4.9,23
+2024-02-26,DS01,Andheri West,West,Dairy & Breakfast,5.4,41
+2024-02-26,DS02,Bandra West,West,Medicines,4.2,9
+2024-02-26,DS02,Bandra West,West,Personal Care,5.3,23
+2024-02-26,DS05,Borivali West,West,Medicines,5.4,13
+2024-02-26,DS08,Kurla West,Central,Medicines,4.1,12
+2024-02-26,DS09,Thane West,Central,Fruits & Vegetables,4.2,18
+2024-02-26,DS09,Thane West,Central,Grocery & Staples,3.8,25
+2024-02-26,DS09,Thane West,Central,Household Items,2.4,7
+2024-02-26,DS11,Dadar West,South,Baby Products,3.8,26
+2024-02-26,DS11,Dadar West,South,Personal Care,3.2,12
+2024-02-26,DS12,Lower Parel,South,Medicines,1.4,9
+2024-02-26,DS13,Worli,South,Fruits & Vegetables,0.5,2
+2024-02-26,DS14,Chembur,East,Baby Products,0.9,6
+2024-02-26,DS15,Vikhroli West,East,Fruits & Vegetables,4.0,18
+2024-02-26,DS15,Vikhroli West,East,Dairy & Breakfast,2.0,8
+2024-02-26,DS15,Vikhroli West,East,Grocery & Staples,5.7,13
+2024-02-27,DS01,Andheri West,West,Personal Care,3.3,7
+2024-02-27,DS02,Bandra West,West,Snacks & Drinks,2.4,5
+2024-02-27,DS03,Juhu,West,Fruits & Vegetables,1.9,7
+2024-02-27,DS03,Juhu,West,Household Items,2.0,15
+2024-02-27,DS03,Juhu,West,Personal Care,3.3,24
+2024-02-27,DS05,Borivali West,West,Household Items,3.4,13
+2024-02-27,DS05,Borivali West,West,Baby Products,5.7,32
+2024-02-27,DS06,Powai,Central,Personal Care,4.0,22
+2024-02-27,DS06,Powai,Central,Grocery & Staples,1.4,3
+2024-02-27,DS07,Ghatkopar West,Central,Personal Care,1.9,14
+2024-02-27,DS07,Ghatkopar West,Central,Meats & Seafood,4.6,9
+2024-02-27,DS07,Ghatkopar West,Central,Snacks & Drinks,2.4,11
+2024-02-27,DS10,Mulund West,Central,Snacks & Drinks,2.5,8
+2024-02-27,DS10,Mulund West,Central,Meats & Seafood,1.4,8
+2024-02-27,DS13,Worli,South,Snacks & Drinks,1.4,7
+2024-02-27,DS15,Vikhroli West,East,Fruits & Vegetables,3.3,17
+2024-02-27,DS15,Vikhroli West,East,Baby Products,2.8,20
+2024-02-28,DS01,Andheri West,West,Personal Care,5.6,18
+2024-02-28,DS03,Juhu,West,Personal Care,5.7,13
+2024-02-28,DS03,Juhu,West,Grocery & Staples,3.2,14
+2024-02-28,DS04,Malad West,West,Baby Products,3.0,8
+2024-02-28,DS05,Borivali West,West,Snacks & Drinks,1.7,12
+2024-02-28,DS06,Powai,Central,Medicines,3.3,25
+2024-02-28,DS07,Ghatkopar West,Central,Household Items,1.2,3
+2024-02-28,DS09,Thane West,Central,Household Items,3.9,20
+2024-02-28,DS10,Mulund West,Central,Medicines,4.9,36
+2024-02-28,DS11,Dadar West,South,Personal Care,5.9,18
+2024-02-29,DS02,Bandra West,West,Personal Care,1.6,11
+2024-02-29,DS03,Juhu,West,Personal Care,6.0,19
+2024-02-29,DS06,Powai,Central,Personal Care,3.0,10
+2024-02-29,DS09,Thane West,Central,Medicines,3.7,11
+2024-02-29,DS09,Thane West,Central,Fruits & Vegetables,3.7,17
+2024-02-29,DS12,Lower Parel,South,Grocery & Staples,3.9,7
+2024-02-29,DS12,Lower Parel,South,Snacks & Drinks,3.1,17
+2024-02-29,DS14,Chembur,East,Medicines,1.5,5
+2024-02-29,DS15,Vikhroli West,East,Grocery & Staples,1.7,11
+2024-02-29,DS15,Vikhroli West,East,Household Items,2.0,10
+2024-03-01,DS01,Andheri West,West,Household Items,5.0,19
+2024-03-01,DS01,Andheri West,West,Baby Products,4.4,25
+2024-03-01,DS01,Andheri West,West,Grocery & Staples,1.7,3
+2024-03-01,DS01,Andheri West,West,Snacks & Drinks,3.2,9
+2024-03-01,DS03,Juhu,West,Fruits & Vegetables,3.3,18
+2024-03-01,DS04,Malad West,West,Household Items,1.2,7
+2024-03-01,DS10,Mulund West,Central,Medicines,1.9,6
+2024-03-01,DS12,Lower Parel,South,Fruits & Vegetables,3.2,23
+2024-03-01,DS13,Worli,South,Dairy & Breakfast,2.9,8
+2024-03-01,DS14,Chembur,East,Household Items,4.2,22
+2024-03-01,DS15,Vikhroli West,East,Personal Care,1.7,9
+2024-03-02,DS02,Bandra West,West,Household Items,1.4,8
+2024-03-02,DS03,Juhu,West,Snacks & Drinks,3.9,23
+2024-03-02,DS05,Borivali West,West,Snacks & Drinks,3.0,13
+2024-03-02,DS06,Powai,Central,Baby Products,4.3,9
+2024-03-02,DS06,Powai,Central,Household Items,0.6,4
+2024-03-02,DS07,Ghatkopar West,Central,Medicines,3.5,17
+2024-03-02,DS08,Kurla West,Central,Fruits & Vegetables,0.8,2
+2024-03-02,DS08,Kurla West,Central,Baby Products,4.4,28
+2024-03-02,DS13,Worli,South,Dairy & Breakfast,0.7,5
+2024-03-02,DS15,Vikhroli West,East,Dairy & Breakfast,1.7,8
+2024-03-03,DS01,Andheri West,West,Grocery & Staples,3.1,13
+2024-03-03,DS03,Juhu,West,Fruits & Vegetables,1.4,7
+2024-03-03,DS04,Malad West,West,Snacks & Drinks,4.6,12
+2024-03-03,DS05,Borivali West,West,Grocery & Staples,1.8,7
+2024-03-03,DS06,Powai,Central,Baby Products,4.6,24
+2024-03-03,DS10,Mulund West,Central,Grocery & Staples,5.6,22
+2024-03-03,DS11,Dadar West,South,Snacks & Drinks,0.9,6
+2024-03-03,DS12,Lower Parel,South,Personal Care,4.8,36
+2024-03-03,DS15,Vikhroli West,East,Snacks & Drinks,0.9,7
+2024-03-04,DS01,Andheri West,West,Dairy & Breakfast,2.8,9
+2024-03-04,DS03,Juhu,West,Meats & Seafood,3.3,18
+2024-03-04,DS06,Powai,Central,Grocery & Staples,4.4,27
+2024-03-04,DS06,Powai,Central,Medicines,2.2,12
+2024-03-04,DS08,Kurla West,Central,Personal Care,3.0,23
+2024-03-04,DS08,Kurla West,Central,Baby Products,0.9,4
+2024-03-04,DS08,Kurla West,Central,Dairy & Breakfast,3.9,9
+2024-03-04,DS12,Lower Parel,South,Personal Care,1.5,8
+2024-03-04,DS13,Worli,South,Grocery & Staples,2.5,7
+2024-03-04,DS14,Chembur,East,Household Items,3.5,26
+2024-03-04,DS15,Vikhroli West,East,Grocery & Staples,3.9,25
+2024-03-05,DS11,Dadar West,South,Medicines,2.3,12
+2024-03-05,DS11,Dadar West,South,Baby Products,4.2,32
+2024-03-05,DS14,Chembur,East,Household Items,3.4,10
+2024-03-05,DS15,Vikhroli West,East,Household Items,5.0,19
+2024-03-05,DS15,Vikhroli West,East,Grocery & Staples,1.2,5
+2024-03-06,DS03,Juhu,West,Medicines,1.9,8
+2024-03-06,DS04,Malad West,West,Snacks & Drinks,4.0,18
+2024-03-06,DS06,Powai,Central,Dairy & Breakfast,0.9,4
+2024-03-06,DS07,Ghatkopar West,Central,Meats & Seafood,2.9,14
+2024-03-06,DS07,Ghatkopar West,Central,Personal Care,5.8,26
+2024-03-06,DS09,Thane West,Central,Baby Products,1.3,7
+2024-03-06,DS12,Lower Parel,South,Baby Products,4.8,35
+2024-03-06,DS12,Lower Parel,South,Personal Care,3.9,16
+2024-03-06,DS12,Lower Parel,South,Medicines,2.1,15
+2024-03-06,DS13,Worli,South,Household Items,3.9,20
+2024-03-06,DS14,Chembur,East,Medicines,4.1,19
+2024-03-06,DS14,Chembur,East,Dairy & Breakfast,2.1,14
+2024-03-06,DS15,Vikhroli West,East,Meats & Seafood,4.5,34
+2024-03-07,DS01,Andheri West,West,Grocery & Staples,1.8,10
+2024-03-07,DS01,Andheri West,West,Snacks & Drinks,1.5,9
+2024-03-07,DS06,Powai,Central,Meats & Seafood,2.4,19
+2024-03-07,DS07,Ghatkopar West,Central,Grocery & Staples,0.6,3
+2024-03-07,DS11,Dadar West,South,Medicines,2.0,5
+2024-03-07,DS12,Lower Parel,South,Dairy & Breakfast,0.9,6
+2024-03-07,DS12,Lower Parel,South,Meats & Seafood,4.1,15
+2024-03-07,DS12,Lower Parel,South,Snacks & Drinks,4.5,14
+2024-03-07,DS14,Chembur,East,Snacks & Drinks,3.8,16
+2024-03-07,DS14,Chembur,East,Household Items,1.5,4
+2024-03-07,DS15,Vikhroli West,East,Medicines,2.6,13
+2024-03-07,DS15,Vikhroli West,East,Snacks & Drinks,1.7,11
+2024-03-08,DS01,Andheri West,West,Personal Care,1.1,7
+2024-03-08,DS02,Bandra West,West,Dairy & Breakfast,1.8,6
+2024-03-08,DS03,Juhu,West,Fruits & Vegetables,1.0,4
+2024-03-08,DS03,Juhu,West,Medicines,2.1,8
+2024-03-08,DS07,Ghatkopar West,Central,Grocery & Staples,4.5,32
+2024-03-08,DS08,Kurla West,Central,Snacks & Drinks,3.2,20
+2024-03-08,DS09,Thane West,Central,Grocery & Staples,4.7,27
+2024-03-08,DS13,Worli,South,Baby Products,4.3,9
+2024-03-09,DS02,Bandra West,West,Medicines,3.4,26
+2024-03-09,DS05,Borivali West,West,Meats & Seafood,5.5,14
+2024-03-09,DS08,Kurla West,Central,Grocery & Staples,1.5,9
+2024-03-09,DS08,Kurla West,Central,Fruits & Vegetables,3.3,26
+2024-03-09,DS09,Thane West,Central,Personal Care,3.7,18
+2024-03-09,DS09,Thane West,Central,Snacks & Drinks,1.6,10
+2024-03-09,DS11,Dadar West,South,Personal Care,2.7,6
+2024-03-09,DS12,Lower Parel,South,Grocery & Staples,1.5,6
+2024-03-09,DS14,Chembur,East,Personal Care,1.6,9
+2024-03-09,DS14,Chembur,East,Snacks & Drinks,4.5,35
+2024-03-09,DS14,Chembur,East,Medicines,3.6,16
+2024-03-09,DS15,Vikhroli West,East,Household Items,1.8,4
+2024-03-09,DS15,Vikhroli West,East,Grocery & Staples,1.2,2
+2024-03-09,DS15,Vikhroli West,East,Fruits & Vegetables,3.7,24
+2024-03-10,DS01,Andheri West,West,Dairy & Breakfast,4.8,25
+2024-03-10,DS01,Andheri West,West,Medicines,4.4,34
+2024-03-10,DS02,Bandra West,West,Fruits & Vegetables,4.5,21
+2024-03-10,DS02,Bandra West,West,Household Items,2.6,18
+2024-03-10,DS04,Malad West,West,Meats & Seafood,1.7,5
+2024-03-10,DS04,Malad West,West,Baby Products,5.4,31
+2024-03-10,DS06,Powai,Central,Medicines,6.0,42
+2024-03-10,DS06,Powai,Central,Baby Products,5.1,30
+2024-03-10,DS10,Mulund West,Central,Snacks & Drinks,3.8,11
+2024-03-10,DS11,Dadar West,South,Dairy & Breakfast,4.9,34
+2024-03-10,DS12,Lower Parel,South,Meats & Seafood,0.8,5
+2024-03-10,DS12,Lower Parel,South,Fruits & Vegetables,2.2,9
+2024-03-10,DS13,Worli,South,Personal Care,0.7,1
+2024-03-10,DS13,Worli,South,Snacks & Drinks,0.7,4
+2024-03-10,DS14,Chembur,East,Grocery & Staples,3.0,17
+2024-03-11,DS01,Andheri West,West,Dairy & Breakfast,1.5,9
+2024-03-11,DS03,Juhu,West,Meats & Seafood,5.5,14
+2024-03-11,DS05,Borivali West,West,Household Items,5.7,33
+2024-03-11,DS05,Borivali West,West,Meats & Seafood,1.6,5
+2024-03-11,DS05,Borivali West,West,Snacks & Drinks,5.2,39
+2024-03-11,DS08,Kurla West,Central,Fruits & Vegetables,5.7,27
+2024-03-11,DS09,Thane West,Central,Fruits & Vegetables,5.6,18
+2024-03-11,DS10,Mulund West,Central,Baby Products,1.8,12
+2024-03-11,DS11,Dadar West,South,Grocery & Staples,5.8,16
+2024-03-11,DS12,Lower Parel,South,Snacks & Drinks,3.8,13
+2024-03-11,DS12,Lower Parel,South,Fruits & Vegetables,2.2,13
+2024-03-11,DS14,Chembur,East,Baby Products,2.7,14
+2024-03-11,DS15,Vikhroli West,East,Snacks & Drinks,5.3,37
+2024-03-11,DS15,Vikhroli West,East,Baby Products,4.1,23
+2024-03-12,DS01,Andheri West,West,Grocery & Staples,4.1,21
+2024-03-12,DS01,Andheri West,West,Meats & Seafood,2.3,11
+2024-03-12,DS02,Bandra West,West,Fruits & Vegetables,5.9,12
+2024-03-12,DS02,Bandra West,West,Household Items,3.2,6
+2024-03-12,DS02,Bandra West,West,Dairy & Breakfast,5.8,18
+2024-03-12,DS05,Borivali West,West,Meats & Seafood,1.2,3
+2024-03-12,DS08,Kurla West,Central,Dairy & Breakfast,5.5,14
+2024-03-12,DS09,Thane West,Central,Personal Care,4.1,10
+2024-03-12,DS09,Thane West,Central,Baby Products,2.3,12
+2024-03-12,DS10,Mulund West,Central,Baby Products,4.9,18
+2024-03-12,DS11,Dadar West,South,Medicines,5.3,35
+2024-03-12,DS12,Lower Parel,South,Snacks & Drinks,2.2,17
+2024-03-12,DS13,Worli,South,Meats & Seafood,2.1,14
+2024-03-12,DS13,Worli,South,Snacks & Drinks,3.8,26
+2024-03-13,DS01,Andheri West,West,Medicines,4.7,30
+2024-03-13,DS01,Andheri West,West,Grocery & Staples,2.8,18
+2024-03-13,DS01,Andheri West,West,Fruits & Vegetables,2.1,14
+2024-03-13,DS01,Andheri West,West,Dairy & Breakfast,2.9,12
+2024-03-13,DS01,Andheri West,West,Meats & Seafood,0.9,3
+2024-03-13,DS03,Juhu,West,Grocery & Staples,0.5,3
+2024-03-13,DS06,Powai,Central,Snacks & Drinks,4.3,28
+2024-03-13,DS06,Powai,Central,Meats & Seafood,2.9,13
+2024-03-13,DS06,Powai,Central,Personal Care,2.7,14
+2024-03-13,DS07,Ghatkopar West,Central,Dairy & Breakfast,2.7,9
+2024-03-13,DS08,Kurla West,Central,Dairy & Breakfast,5.1,13
+2024-03-13,DS09,Thane West,Central,Dairy & Breakfast,2.0,9
+2024-03-13,DS09,Thane West,Central,Household Items,2.7,7
+2024-03-13,DS10,Mulund West,Central,Dairy & Breakfast,4.6,28
+2024-03-13,DS11,Dadar West,South,Meats & Seafood,5.9,12
+2024-03-13,DS11,Dadar West,South,Fruits & Vegetables,1.7,8
+2024-03-13,DS12,Lower Parel,South,Snacks & Drinks,1.8,9
+2024-03-13,DS13,Worli,South,Medicines,5.0,20
+2024-03-14,DS01,Andheri West,West,Fruits & Vegetables,3.6,17
+2024-03-14,DS01,Andheri West,West,Meats & Seafood,1.9,14
+2024-03-14,DS02,Bandra West,West,Snacks & Drinks,3.3,8
+2024-03-14,DS02,Bandra West,West,Household Items,4.0,31
+2024-03-14,DS02,Bandra West,West,Medicines,4.4,17
+2024-03-14,DS04,Malad West,West,Medicines,0.9,4
+2024-03-14,DS04,Malad West,West,Personal Care,1.9,9
+2024-03-14,DS05,Borivali West,West,Snacks & Drinks,5.0,36
+2024-03-14,DS07,Ghatkopar West,Central,Household Items,3.7,22
+2024-03-14,DS08,Kurla West,Central,Snacks & Drinks,5.1,37
+2024-03-14,DS09,Thane West,Central,Snacks & Drinks,5.6,36
+2024-03-14,DS09,Thane West,Central,Household Items,2.2,16
+2024-03-14,DS10,Mulund West,Central,Grocery & Staples,4.1,18
+2024-03-14,DS12,Lower Parel,South,Dairy & Breakfast,2.7,12
+2024-03-14,DS15,Vikhroli West,East,Snacks & Drinks,6.0,31
+2024-03-15,DS01,Andheri West,West,Fruits & Vegetables,4.2,25
+2024-03-15,DS01,Andheri West,West,Meats & Seafood,5.3,23
+2024-03-15,DS04,Malad West,West,Snacks & Drinks,5.4,22
+2024-03-15,DS04,Malad West,West,Dairy & Breakfast,5.2,30
+2024-03-15,DS05,Borivali West,West,Household Items,2.0,5
+2024-03-15,DS05,Borivali West,West,Medicines,5.8,33
+2024-03-15,DS06,Powai,Central,Personal Care,1.9,6
+2024-03-15,DS06,Powai,Central,Grocery & Staples,5.6,14
+2024-03-15,DS08,Kurla West,Central,Dairy & Breakfast,5.0,13
+2024-03-15,DS09,Thane West,Central,Medicines,4.1,14
+2024-03-15,DS09,Thane West,Central,Fruits & Vegetables,3.3,10
+2024-03-15,DS09,Thane West,Central,Meats & Seafood,4.7,22
+2024-03-15,DS10,Mulund West,Central,Personal Care,4.6,35
+2024-03-15,DS11,Dadar West,South,Grocery & Staples,4.7,16
+2024-03-15,DS12,Lower Parel,South,Dairy & Breakfast,0.8,4
+2024-03-15,DS13,Worli,South,Medicines,3.6,11
+2024-03-15,DS15,Vikhroli West,East,Snacks & Drinks,4.4,14
+2024-03-16,DS01,Andheri West,West,Grocery & Staples,4.5,13
+2024-03-16,DS01,Andheri West,West,Fruits & Vegetables,4.2,13
+2024-03-16,DS02,Bandra West,West,Personal Care,5.3,39
+2024-03-16,DS02,Bandra West,West,Dairy & Breakfast,2.9,6
+2024-03-16,DS02,Bandra West,West,Baby Products,4.0,13
+2024-03-16,DS03,Juhu,West,Grocery & Staples,5.0,17
+2024-03-16,DS04,Malad West,West,Personal Care,5.8,42
+2024-03-16,DS05,Borivali West,West,Medicines,0.9,6
+2024-03-16,DS05,Borivali West,West,Meats & Seafood,5.3,42
+2024-03-16,DS07,Ghatkopar West,Central,Grocery & Staples,0.9,5
+2024-03-16,DS08,Kurla West,Central,Personal Care,5.2,15
+2024-03-16,DS09,Thane West,Central,Snacks & Drinks,1.0,5
+2024-03-16,DS09,Thane West,Central,Household Items,5.3,19
+2024-03-16,DS12,Lower Parel,South,Personal Care,3.9,28
+2024-03-16,DS12,Lower Parel,South,Baby Products,0.6,2
+2024-03-16,DS13,Worli,South,Dairy & Breakfast,2.1,5
+2024-03-16,DS14,Chembur,East,Grocery & Staples,4.0,26
+2024-03-16,DS15,Vikhroli West,East,Meats & Seafood,0.6,2
+2024-03-17,DS01,Andheri West,West,Household Items,5.4,40
+2024-03-17,DS01,Andheri West,West,Snacks & Drinks,3.9,19
+2024-03-17,DS02,Bandra West,West,Personal Care,0.9,2
+2024-03-17,DS05,Borivali West,West,Baby Products,3.2,12
+2024-03-17,DS06,Powai,Central,Fruits & Vegetables,3.5,27
+2024-03-17,DS06,Powai,Central,Household Items,0.9,3
+2024-03-17,DS07,Ghatkopar West,Central,Personal Care,2.2,9
+2024-03-17,DS08,Kurla West,Central,Dairy & Breakfast,5.8,31
+2024-03-17,DS09,Thane West,Central,Fruits & Vegetables,2.4,7
+2024-03-17,DS10,Mulund West,Central,Snacks & Drinks,1.0,6
+2024-03-17,DS10,Mulund West,Central,Baby Products,3.6,18
+2024-03-17,DS11,Dadar West,South,Dairy & Breakfast,1.3,6
+2024-03-17,DS11,Dadar West,South,Personal Care,4.2,11
+2024-03-17,DS12,Lower Parel,South,Medicines,4.6,21
+2024-03-17,DS12,Lower Parel,South,Baby Products,1.4,5
+2024-03-18,DS01,Andheri West,West,Grocery & Staples,5.9,32
+2024-03-18,DS02,Bandra West,West,Snacks & Drinks,2.6,14
+2024-03-18,DS02,Bandra West,West,Dairy & Breakfast,5.4,35
+2024-03-18,DS03,Juhu,West,Grocery & Staples,1.0,6
+2024-03-18,DS03,Juhu,West,Snacks & Drinks,1.5,4
+2024-03-18,DS04,Malad West,West,Medicines,5.9,45
+2024-03-18,DS06,Powai,Central,Meats & Seafood,4.7,11
+2024-03-18,DS07,Ghatkopar West,Central,Household Items,5.9,19
+2024-03-18,DS09,Thane West,Central,Personal Care,3.8,18
+2024-03-18,DS10,Mulund West,Central,Snacks & Drinks,3.0,19
+2024-03-18,DS14,Chembur,East,Snacks & Drinks,1.4,9
+2024-03-18,DS15,Vikhroli West,East,Medicines,5.4,27
+2024-03-18,DS15,Vikhroli West,East,Fruits & Vegetables,4.0,25
+2024-03-19,DS01,Andheri West,West,Dairy & Breakfast,5.6,31
+2024-03-19,DS01,Andheri West,West,Personal Care,5.7,25
+2024-03-19,DS01,Andheri West,West,Fruits & Vegetables,3.8,7
+2024-03-19,DS02,Bandra West,West,Medicines,6.0,17
+2024-03-19,DS05,Borivali West,West,Meats & Seafood,1.7,10
+2024-03-19,DS08,Kurla West,Central,Grocery & Staples,1.7,4
+2024-03-19,DS11,Dadar West,South,Meats & Seafood,3.8,21
+2024-03-19,DS12,Lower Parel,South,Snacks & Drinks,2.1,7
+2024-03-19,DS12,Lower Parel,South,Dairy & Breakfast,2.3,13
+2024-03-19,DS13,Worli,South,Fruits & Vegetables,2.8,7
+2024-03-19,DS15,Vikhroli West,East,Baby Products,4.1,26
+2024-03-20,DS01,Andheri West,West,Grocery & Staples,2.8,20
+2024-03-20,DS02,Bandra West,West,Fruits & Vegetables,5.8,44
+2024-03-20,DS02,Bandra West,West,Grocery & Staples,1.8,7
+2024-03-20,DS05,Borivali West,West,Fruits & Vegetables,4.6,17
+2024-03-20,DS08,Kurla West,Central,Dairy & Breakfast,0.7,1
+2024-03-20,DS09,Thane West,Central,Medicines,1.6,12
+2024-03-20,DS11,Dadar West,South,Medicines,4.6,12
+2024-03-20,DS12,Lower Parel,South,Meats & Seafood,1.1,3
+2024-03-20,DS13,Worli,South,Meats & Seafood,2.1,9
+2024-03-20,DS14,Chembur,East,Meats & Seafood,5.2,29
+2024-03-20,DS14,Chembur,East,Medicines,5.4,27
+2024-03-20,DS15,Vikhroli West,East,Medicines,5.9,12
+2024-03-21,DS01,Andheri West,West,Dairy & Breakfast,5.4,11
+2024-03-21,DS01,Andheri West,West,Grocery & Staples,2.7,13
+2024-03-21,DS02,Bandra West,West,Fruits & Vegetables,1.9,15
+2024-03-21,DS02,Bandra West,West,Medicines,1.4,8
+2024-03-21,DS06,Powai,Central,Household Items,4.2,20
+2024-03-21,DS08,Kurla West,Central,Household Items,5.4,41
+2024-03-21,DS12,Lower Parel,South,Snacks & Drinks,0.7,2
+2024-03-21,DS13,Worli,South,Household Items,4.1,10
+2024-03-21,DS14,Chembur,East,Dairy & Breakfast,3.0,20
+2024-03-21,DS14,Chembur,East,Personal Care,4.1,27
+2024-03-21,DS15,Vikhroli West,East,Household Items,2.4,5
+2024-03-21,DS15,Vikhroli West,East,Dairy & Breakfast,0.6,4
+2024-03-22,DS01,Andheri West,West,Meats & Seafood,1.9,5
+2024-03-22,DS03,Juhu,West,Baby Products,3.7,26
+2024-03-22,DS05,Borivali West,West,Personal Care,3.3,7
+2024-03-22,DS05,Borivali West,West,Grocery & Staples,5.1,39
+2024-03-22,DS06,Powai,Central,Meats & Seafood,2.0,10
+2024-03-22,DS06,Powai,Central,Household Items,4.9,19
+2024-03-22,DS07,Ghatkopar West,Central,Medicines,2.3,6
+2024-03-22,DS07,Ghatkopar West,Central,Meats & Seafood,4.3,26
+2024-03-22,DS08,Kurla West,Central,Grocery & Staples,5.7,30
+2024-03-22,DS09,Thane West,Central,Grocery & Staples,5.9,37
+2024-03-22,DS10,Mulund West,Central,Baby Products,3.2,9
+2024-03-22,DS12,Lower Parel,South,Personal Care,2.1,11
+2024-03-22,DS15,Vikhroli West,East,Medicines,1.8,7
+2024-03-22,DS15,Vikhroli West,East,Fruits & Vegetables,4.2,29
+2024-03-23,DS01,Andheri West,West,Personal Care,4.2,14
+2024-03-23,DS02,Bandra West,West,Grocery & Staples,2.9,11
+2024-03-23,DS04,Malad West,West,Baby Products,3.3,10
+2024-03-23,DS06,Powai,Central,Dairy & Breakfast,4.3,8
+2024-03-23,DS07,Ghatkopar West,Central,Grocery & Staples,5.5,36
+2024-03-23,DS08,Kurla West,Central,Meats & Seafood,4.3,31
+2024-03-23,DS08,Kurla West,Central,Household Items,5.4,14
+2024-03-23,DS08,Kurla West,Central,Baby Products,5.9,41
+2024-03-23,DS08,Kurla West,Central,Grocery & Staples,0.7,2
+2024-03-23,DS11,Dadar West,South,Personal Care,4.1,23
+2024-03-23,DS11,Dadar West,South,Snacks & Drinks,0.7,4
+2024-03-23,DS11,Dadar West,South,Dairy & Breakfast,3.3,21
+2024-03-23,DS13,Worli,South,Meats & Seafood,2.1,10
+2024-03-23,DS15,Vikhroli West,East,Fruits & Vegetables,5.2,25
+2024-03-23,DS15,Vikhroli West,East,Dairy & Breakfast,0.8,2
+2024-03-23,DS15,Vikhroli West,East,Grocery & Staples,3.2,12
+2024-03-24,DS05,Borivali West,West,Medicines,2.2,8
+2024-03-24,DS05,Borivali West,West,Household Items,1.7,13
+2024-03-24,DS07,Ghatkopar West,Central,Grocery & Staples,1.0,7
+2024-03-24,DS08,Kurla West,Central,Snacks & Drinks,2.2,15
+2024-03-24,DS08,Kurla West,Central,Meats & Seafood,5.0,37
+2024-03-24,DS08,Kurla West,Central,Household Items,4.4,13
+2024-03-24,DS11,Dadar West,South,Grocery & Staples,2.8,16
+2024-03-24,DS12,Lower Parel,South,Personal Care,5.3,35
+2024-03-24,DS12,Lower Parel,South,Dairy & Breakfast,5.0,39
+2024-03-24,DS13,Worli,South,Personal Care,1.7,8
+2024-03-24,DS13,Worli,South,Fruits & Vegetables,4.4,17
+2024-03-24,DS14,Chembur,East,Dairy & Breakfast,2.8,6
+2024-03-24,DS15,Vikhroli West,East,Meats & Seafood,2.9,18
+2024-03-25,DS01,Andheri West,West,Grocery & Staples,0.8,4
+2024-03-25,DS01,Andheri West,West,Baby Products,3.0,22
+2024-03-25,DS01,Andheri West,West,Snacks & Drinks,2.1,5
+2024-03-25,DS05,Borivali West,West,Dairy & Breakfast,1.3,3
+2024-03-25,DS07,Ghatkopar West,Central,Medicines,5.3,21
+2024-03-25,DS08,Kurla West,Central,Dairy & Breakfast,4.6,16
+2024-03-25,DS08,Kurla West,Central,Snacks & Drinks,3.3,24
+2024-03-25,DS11,Dadar West,South,Medicines,1.9,5
+2024-03-25,DS12,Lower Parel,South,Snacks & Drinks,2.0,4
+2024-03-25,DS12,Lower Parel,South,Meats & Seafood,1.2,7
+2024-03-25,DS12,Lower Parel,South,Household Items,5.8,23
+2024-03-25,DS13,Worli,South,Dairy & Breakfast,5.8,41
+2024-03-25,DS14,Chembur,East,Grocery & Staples,1.6,12
+2024-03-26,DS03,Juhu,West,Baby Products,0.8,5
+2024-03-26,DS04,Malad West,West,Dairy & Breakfast,1.6,7
+2024-03-26,DS05,Borivali West,West,Grocery & Staples,2.4,17
+2024-03-26,DS05,Borivali West,West,Household Items,0.7,5
+2024-03-26,DS06,Powai,Central,Meats & Seafood,5.3,27
+2024-03-26,DS08,Kurla West,Central,Fruits & Vegetables,4.2,15
+2024-03-26,DS08,Kurla West,Central,Medicines,5.1,15
+2024-03-26,DS08,Kurla West,Central,Grocery & Staples,3.9,17
+2024-03-26,DS10,Mulund West,Central,Medicines,1.8,12
+2024-03-26,DS10,Mulund West,Central,Household Items,5.0,17
+2024-03-26,DS11,Dadar West,South,Household Items,5.2,22
+2024-03-26,DS12,Lower Parel,South,Meats & Seafood,3.7,14
+2024-03-26,DS14,Chembur,East,Baby Products,1.1,5
+2024-03-26,DS14,Chembur,East,Personal Care,3.3,20
+2024-03-27,DS01,Andheri West,West,Personal Care,6.0,31
+2024-03-27,DS01,Andheri West,West,Snacks & Drinks,3.9,27
+2024-03-27,DS02,Bandra West,West,Meats & Seafood,5.0,25
+2024-03-27,DS02,Bandra West,West,Medicines,0.6,3
+2024-03-27,DS03,Juhu,West,Grocery & Staples,2.6,5
+2024-03-27,DS05,Borivali West,West,Dairy & Breakfast,0.5,2
+2024-03-27,DS05,Borivali West,West,Personal Care,2.8,17
+2024-03-27,DS06,Powai,Central,Snacks & Drinks,4.2,26
+2024-03-27,DS08,Kurla West,Central,Meats & Seafood,3.4,15
+2024-03-27,DS09,Thane West,Central,Baby Products,1.3,5
+2024-03-27,DS10,Mulund West,Central,Medicines,2.5,5
+2024-03-27,DS11,Dadar West,South,Grocery & Staples,2.6,13
+2024-03-27,DS12,Lower Parel,South,Fruits & Vegetables,2.7,12
+2024-03-27,DS12,Lower Parel,South,Meats & Seafood,4.9,32
+2024-03-27,DS14,Chembur,East,Personal Care,3.5,23
+2024-03-27,DS15,Vikhroli West,East,Household Items,4.9,11
+2024-03-28,DS01,Andheri West,West,Fruits & Vegetables,5.0,26
+2024-03-28,DS03,Juhu,West,Household Items,4.4,28
+2024-03-28,DS07,Ghatkopar West,Central,Meats & Seafood,5.4,25
+2024-03-29,DS01,Andheri West,West,Medicines,1.4,3
+2024-03-29,DS03,Juhu,West,Meats & Seafood,5.6,26
+2024-03-29,DS05,Borivali West,West,Fruits & Vegetables,5.3,20
+2024-03-29,DS06,Powai,Central,Medicines,5.4,31
+2024-03-29,DS08,Kurla West,Central,Meats & Seafood,3.3,19
+2024-03-29,DS10,Mulund West,Central,Personal Care,1.4,3
+2024-03-29,DS10,Mulund West,Central,Household Items,2.5,18
+2024-03-29,DS11,Dadar West,South,Personal Care,5.6,20
+2024-03-29,DS12,Lower Parel,South,Meats & Seafood,5.1,33
+2024-03-29,DS13,Worli,South,Snacks & Drinks,3.3,22
+2024-03-29,DS15,Vikhroli West,East,Dairy & Breakfast,2.1,4
+2024-03-30,DS01,Andheri West,West,Fruits & Vegetables,5.6,17
+2024-03-30,DS01,Andheri West,West,Snacks & Drinks,3.9,11
+2024-03-30,DS03,Juhu,West,Fruits & Vegetables,2.6,5
+2024-03-30,DS06,Powai,Central,Meats & Seafood,3.5,19
+2024-03-30,DS07,Ghatkopar West,Central,Grocery & Staples,1.0,7
+2024-03-30,DS08,Kurla West,Central,Fruits & Vegetables,3.8,27
+2024-03-30,DS09,Thane West,Central,Meats & Seafood,1.9,6
+2024-03-30,DS09,Thane West,Central,Baby Products,3.1,22
+2024-03-30,DS09,Thane West,Central,Household Items,4.5,21
+2024-03-30,DS11,Dadar West,South,Personal Care,5.2,36
+2024-03-30,DS14,Chembur,East,Dairy & Breakfast,2.4,14
+2024-03-30,DS15,Vikhroli West,East,Grocery & Staples,4.6,17
+2024-03-30,DS15,Vikhroli West,East,Snacks & Drinks,4.5,19
+2024-03-31,DS01,Andheri West,West,Meats & Seafood,0.5,3
+2024-03-31,DS06,Powai,Central,Grocery & Staples,1.7,8
+2024-03-31,DS07,Ghatkopar West,Central,Snacks & Drinks,3.1,8
+2024-03-31,DS08,Kurla West,Central,Dairy & Breakfast,4.4,13
+2024-03-31,DS08,Kurla West,Central,Snacks & Drinks,1.9,4
+2024-03-31,DS08,Kurla West,Central,Medicines,2.5,6
+2024-03-31,DS09,Thane West,Central,Meats & Seafood,6.0,44
+2024-03-31,DS12,Lower Parel,South,Medicines,5.3,28
+2024-03-31,DS12,Lower Parel,South,Snacks & Drinks,2.8,21
+2024-03-31,DS14,Chembur,East,Dairy & Breakfast,1.9,5
+2024-03-31,DS14,Chembur,East,Meats & Seafood,0.9,4
+2024-03-31,DS15,Vikhroli West,East,Personal Care,4.5,11
+2024-04-01,DS01,Andheri West,West,Snacks & Drinks,3.9,22
+2024-04-01,DS02,Bandra West,West,Personal Care,3.1,16
+2024-04-01,DS03,Juhu,West,Personal Care,2.0,15
+2024-04-01,DS03,Juhu,West,Medicines,2.2,9
+2024-04-01,DS03,Juhu,West,Snacks & Drinks,5.5,20
+2024-04-01,DS04,Malad West,West,Dairy & Breakfast,5.2,30
+2024-04-01,DS06,Powai,Central,Snacks & Drinks,4.6,9
+2024-04-01,DS07,Ghatkopar West,Central,Fruits & Vegetables,1.4,5
+2024-04-01,DS07,Ghatkopar West,Central,Grocery & Staples,1.0,4
+2024-04-01,DS07,Ghatkopar West,Central,Baby Products,3.8,29
+2024-04-01,DS08,Kurla West,Central,Meats & Seafood,4.4,31
+2024-04-01,DS08,Kurla West,Central,Dairy & Breakfast,4.0,10
+2024-04-01,DS08,Kurla West,Central,Medicines,5.5,28
+2024-04-01,DS08,Kurla West,Central,Personal Care,4.4,18
+2024-04-01,DS10,Mulund West,Central,Personal Care,5.0,38
+2024-04-01,DS10,Mulund West,Central,Snacks & Drinks,1.7,11
+2024-04-01,DS12,Lower Parel,South,Medicines,1.0,2
+2024-04-01,DS13,Worli,South,Medicines,2.5,5
+2024-04-01,DS14,Chembur,East,Household Items,5.7,28
+2024-04-01,DS14,Chembur,East,Fruits & Vegetables,5.8,42
+2024-04-02,DS07,Ghatkopar West,Central,Grocery & Staples,1.7,4
+2024-04-02,DS09,Thane West,Central,Baby Products,4.2,31
+2024-04-02,DS09,Thane West,Central,Personal Care,4.6,22
+2024-04-02,DS09,Thane West,Central,Snacks & Drinks,1.7,4
+2024-04-02,DS10,Mulund West,Central,Meats & Seafood,3.3,11
+2024-04-02,DS12,Lower Parel,South,Personal Care,3.7,23
+2024-04-02,DS12,Lower Parel,South,Snacks & Drinks,1.3,7
+2024-04-02,DS13,Worli,South,Baby Products,5.2,24
+2024-04-02,DS14,Chembur,East,Baby Products,4.5,26
+2024-04-02,DS15,Vikhroli West,East,Dairy & Breakfast,4.3,33
+2024-04-03,DS02,Bandra West,West,Household Items,3.5,20
+2024-04-03,DS03,Juhu,West,Snacks & Drinks,3.4,11
+2024-04-03,DS04,Malad West,West,Baby Products,2.7,5
+2024-04-03,DS05,Borivali West,West,Medicines,1.5,10
+2024-04-03,DS06,Powai,Central,Household Items,2.9,15
+2024-04-03,DS09,Thane West,Central,Dairy & Breakfast,2.8,19
+2024-04-03,DS12,Lower Parel,South,Household Items,1.3,7
+2024-04-03,DS12,Lower Parel,South,Dairy & Breakfast,5.1,35
+2024-04-03,DS15,Vikhroli West,East,Dairy & Breakfast,1.3,8
+2024-04-03,DS15,Vikhroli West,East,Baby Products,2.4,18
+2024-04-04,DS01,Andheri West,West,Fruits & Vegetables,3.9,21
+2024-04-04,DS01,Andheri West,West,Household Items,3.2,21
+2024-04-04,DS06,Powai,Central,Meats & Seafood,3.5,8
+2024-04-04,DS11,Dadar West,South,Baby Products,3.7,13
+2024-04-04,DS12,Lower Parel,South,Personal Care,2.1,7
+2024-04-04,DS13,Worli,South,Medicines,4.4,13
+2024-04-04,DS13,Worli,South,Dairy & Breakfast,1.7,9
+2024-04-04,DS15,Vikhroli West,East,Personal Care,2.0,14
+2024-04-04,DS15,Vikhroli West,East,Fruits & Vegetables,2.4,18
+2024-04-05,DS01,Andheri West,West,Grocery & Staples,3.4,22
+2024-04-05,DS01,Andheri West,West,Snacks & Drinks,1.0,6
+2024-04-05,DS01,Andheri West,West,Medicines,2.8,7
+2024-04-05,DS01,Andheri West,West,Meats & Seafood,3.9,13
+2024-04-05,DS02,Bandra West,West,Baby Products,1.7,13
+2024-04-05,DS03,Juhu,West,Dairy & Breakfast,4.1,23
+2024-04-05,DS04,Malad West,West,Grocery & Staples,2.3,11
+2024-04-05,DS08,Kurla West,Central,Fruits & Vegetables,4.9,22
+2024-04-05,DS09,Thane West,Central,Fruits & Vegetables,5.4,36
+2024-04-05,DS10,Mulund West,Central,Dairy & Breakfast,4.4,20
+2024-04-05,DS10,Mulund West,Central,Household Items,3.8,9
+2024-04-05,DS11,Dadar West,South,Medicines,4.9,28
+2024-04-05,DS14,Chembur,East,Baby Products,3.4,17
+2024-04-05,DS14,Chembur,East,Meats & Seafood,5.7,23
+2024-04-05,DS15,Vikhroli West,East,Dairy & Breakfast,3.4,7
+2024-04-05,DS15,Vikhroli West,East,Medicines,5.3,22
+2024-04-06,DS03,Juhu,West,Grocery & Staples,5.4,11
+2024-04-06,DS04,Malad West,West,Meats & Seafood,2.1,9
+2024-04-06,DS04,Malad West,West,Household Items,3.4,21
+2024-04-06,DS06,Powai,Central,Baby Products,3.4,15
+2024-04-06,DS06,Powai,Central,Meats & Seafood,1.9,8
+2024-04-06,DS09,Thane West,Central,Medicines,2.6,7
+2024-04-06,DS09,Thane West,Central,Household Items,1.4,3
+2024-04-06,DS09,Thane West,Central,Dairy & Breakfast,5.3,35
+2024-04-06,DS09,Thane West,Central,Fruits & Vegetables,2.4,10
+2024-04-06,DS10,Mulund West,Central,Snacks & Drinks,0.8,4
+2024-04-06,DS13,Worli,South,Personal Care,2.0,6
+2024-04-06,DS14,Chembur,East,Household Items,3.8,11
+2024-04-06,DS15,Vikhroli West,East,Baby Products,0.8,3
+2024-04-07,DS01,Andheri West,West,Medicines,2.3,6
+2024-04-07,DS02,Bandra West,West,Baby Products,1.1,2
+2024-04-07,DS09,Thane West,Central,Meats & Seafood,1.8,12
+2024-04-07,DS11,Dadar West,South,Grocery & Staples,1.6,4
+2024-04-07,DS11,Dadar West,South,Dairy & Breakfast,5.7,17
+2024-04-07,DS12,Lower Parel,South,Household Items,0.6,3
+2024-04-07,DS12,Lower Parel,South,Personal Care,2.1,5
+2024-04-07,DS13,Worli,South,Household Items,4.9,27
+2024-04-07,DS15,Vikhroli West,East,Baby Products,4.5,10
+2024-04-08,DS01,Andheri West,West,Grocery & Staples,4.4,21
+2024-04-08,DS01,Andheri West,West,Medicines,0.5,2
+2024-04-08,DS01,Andheri West,West,Baby Products,1.9,6
+2024-04-08,DS01,Andheri West,West,Personal Care,3.6,10
+2024-04-08,DS08,Kurla West,Central,Grocery & Staples,4.2,13
+2024-04-08,DS08,Kurla West,Central,Fruits & Vegetables,1.4,3
+2024-04-08,DS09,Thane West,Central,Fruits & Vegetables,3.6,12
+2024-04-08,DS10,Mulund West,Central,Household Items,4.5,31
+2024-04-08,DS12,Lower Parel,South,Dairy & Breakfast,1.1,8
+2024-04-08,DS13,Worli,South,Household Items,4.1,15
+2024-04-08,DS15,Vikhroli West,East,Baby Products,4.1,23
+2024-04-09,DS01,Andheri West,West,Dairy & Breakfast,4.6,29
+2024-04-09,DS01,Andheri West,West,Snacks & Drinks,4.3,16
+2024-04-09,DS02,Bandra West,West,Baby Products,0.8,2
+2024-04-09,DS03,Juhu,West,Household Items,2.5,18
+2024-04-09,DS05,Borivali West,West,Dairy & Breakfast,2.1,12
+2024-04-09,DS05,Borivali West,West,Household Items,5.1,11
+2024-04-09,DS06,Powai,Central,Household Items,4.1,14
+2024-04-09,DS08,Kurla West,Central,Dairy & Breakfast,4.6,18
+2024-04-09,DS10,Mulund West,Central,Grocery & Staples,3.6,22
+2024-04-09,DS11,Dadar West,South,Snacks & Drinks,0.6,1
+2024-04-09,DS11,Dadar West,South,Grocery & Staples,4.5,32
+2024-04-09,DS11,Dadar West,South,Fruits & Vegetables,2.3,9
+2024-04-09,DS13,Worli,South,Household Items,3.3,14
+2024-04-09,DS14,Chembur,East,Meats & Seafood,5.5,25
+2024-04-09,DS14,Chembur,East,Grocery & Staples,3.3,18
+2024-04-09,DS15,Vikhroli West,East,Baby Products,5.0,29
+2024-04-10,DS01,Andheri West,West,Personal Care,4.4,14
+2024-04-10,DS01,Andheri West,West,Grocery & Staples,0.9,3
+2024-04-10,DS02,Bandra West,West,Baby Products,1.6,5
+2024-04-10,DS02,Bandra West,West,Meats & Seafood,0.9,4
+2024-04-10,DS05,Borivali West,West,Medicines,2.8,22
+2024-04-10,DS07,Ghatkopar West,Central,Snacks & Drinks,4.2,11
+2024-04-10,DS11,Dadar West,South,Meats & Seafood,5.6,41
+2024-04-10,DS11,Dadar West,South,Fruits & Vegetables,3.7,25
+2024-04-10,DS12,Lower Parel,South,Dairy & Breakfast,2.9,10
+2024-04-10,DS12,Lower Parel,South,Fruits & Vegetables,3.6,8
+2024-04-10,DS13,Worli,South,Baby Products,6.0,44
+2024-04-10,DS14,Chembur,East,Snacks & Drinks,2.8,12
+2024-04-10,DS15,Vikhroli West,East,Personal Care,1.0,5
+2024-04-11,DS02,Bandra West,West,Fruits & Vegetables,2.2,9
+2024-04-11,DS06,Powai,Central,Baby Products,1.5,4
+2024-04-11,DS06,Powai,Central,Household Items,4.4,29
+2024-04-11,DS07,Ghatkopar West,Central,Medicines,0.9,2
+2024-04-11,DS08,Kurla West,Central,Medicines,2.9,6
+2024-04-11,DS10,Mulund West,Central,Personal Care,4.4,11
+2024-04-11,DS14,Chembur,East,Baby Products,1.5,11
+2024-04-12,DS01,Andheri West,West,Personal Care,3.0,11
+2024-04-12,DS01,Andheri West,West,Grocery & Staples,4.8,23
+2024-04-12,DS05,Borivali West,West,Personal Care,4.2,26
+2024-04-12,DS05,Borivali West,West,Household Items,4.7,29
+2024-04-12,DS07,Ghatkopar West,Central,Meats & Seafood,1.4,6
+2024-04-12,DS08,Kurla West,Central,Grocery & Staples,2.8,9
+2024-04-12,DS09,Thane West,Central,Household Items,3.7,21
+2024-04-12,DS11,Dadar West,South,Fruits & Vegetables,3.7,14
+2024-04-12,DS12,Lower Parel,South,Dairy & Breakfast,5.2,25
+2024-04-12,DS12,Lower Parel,South,Meats & Seafood,4.2,32
+2024-04-12,DS12,Lower Parel,South,Grocery & Staples,2.2,9
+2024-04-12,DS13,Worli,South,Snacks & Drinks,1.4,3
+2024-04-12,DS14,Chembur,East,Fruits & Vegetables,0.7,1
+2024-04-13,DS03,Juhu,West,Grocery & Staples,1.1,6
+2024-04-13,DS03,Juhu,West,Personal Care,4.2,23
+2024-04-13,DS04,Malad West,West,Medicines,1.6,4
+2024-04-13,DS06,Powai,Central,Fruits & Vegetables,5.3,29
+2024-04-13,DS08,Kurla West,Central,Personal Care,4.3,8
+2024-04-13,DS12,Lower Parel,South,Fruits & Vegetables,1.0,4
+2024-04-13,DS12,Lower Parel,South,Household Items,1.5,3
+2024-04-13,DS14,Chembur,East,Household Items,1.8,3
+2024-04-13,DS15,Vikhroli West,East,Baby Products,5.1,12
+2024-04-13,DS15,Vikhroli West,East,Medicines,5.8,29
+2024-04-14,DS03,Juhu,West,Medicines,5.5,24
+2024-04-14,DS07,Ghatkopar West,Central,Personal Care,3.0,22
+2024-04-14,DS08,Kurla West,Central,Dairy & Breakfast,1.1,6
+2024-04-14,DS10,Mulund West,Central,Fruits & Vegetables,5.9,36
+2024-04-14,DS11,Dadar West,South,Dairy & Breakfast,1.4,4
+2024-04-14,DS11,Dadar West,South,Meats & Seafood,1.7,6
+2024-04-14,DS12,Lower Parel,South,Fruits & Vegetables,3.1,20
+2024-04-14,DS12,Lower Parel,South,Household Items,4.1,23
+2024-04-15,DS01,Andheri West,West,Household Items,3.5,26
+2024-04-15,DS01,Andheri West,West,Grocery & Staples,1.2,6
+2024-04-15,DS01,Andheri West,West,Dairy & Breakfast,3.2,14
+2024-04-15,DS05,Borivali West,West,Household Items,3.1,10
+2024-04-15,DS05,Borivali West,West,Grocery & Staples,3.8,24
+2024-04-15,DS05,Borivali West,West,Meats & Seafood,2.8,21
+2024-04-15,DS07,Ghatkopar West,Central,Personal Care,4.2,31
+2024-04-15,DS09,Thane West,Central,Personal Care,0.7,4
+2024-04-15,DS11,Dadar West,South,Meats & Seafood,5.1,32
+2024-04-15,DS15,Vikhroli West,East,Medicines,3.2,24
+2024-04-16,DS01,Andheri West,West,Snacks & Drinks,1.9,12
+2024-04-16,DS01,Andheri West,West,Baby Products,1.5,9
+2024-04-16,DS03,Juhu,West,Medicines,0.7,2
+2024-04-16,DS06,Powai,Central,Personal Care,4.3,29
+2024-04-16,DS08,Kurla West,Central,Household Items,5.6,39
+2024-04-16,DS09,Thane West,Central,Meats & Seafood,2.8,17
+2024-04-16,DS12,Lower Parel,South,Medicines,3.0,18
+2024-04-16,DS13,Worli,South,Medicines,3.8,24
+2024-04-16,DS14,Chembur,East,Baby Products,1.1,6
+2024-04-16,DS15,Vikhroli West,East,Grocery & Staples,1.5,11
+2024-04-16,DS15,Vikhroli West,East,Household Items,4.9,18
+2024-04-17,DS05,Borivali West,West,Medicines,3.7,9
+2024-04-17,DS06,Powai,Central,Baby Products,3.8,13
+2024-04-17,DS08,Kurla West,Central,Snacks & Drinks,2.3,7
+2024-04-17,DS08,Kurla West,Central,Personal Care,4.1,23
+2024-04-17,DS09,Thane West,Central,Medicines,5.4,30
+2024-04-17,DS09,Thane West,Central,Snacks & Drinks,4.2,18
+2024-04-17,DS11,Dadar West,South,Meats & Seafood,4.0,8
+2024-04-17,DS12,Lower Parel,South,Medicines,2.6,5
+2024-04-17,DS12,Lower Parel,South,Meats & Seafood,3.0,15
+2024-04-17,DS12,Lower Parel,South,Snacks & Drinks,4.0,13
+2024-04-17,DS14,Chembur,East,Grocery & Staples,3.3,24
+2024-04-17,DS15,Vikhroli West,East,Grocery & Staples,0.7,4
+2024-04-17,DS15,Vikhroli West,East,Fruits & Vegetables,4.4,22
+2024-04-17,DS15,Vikhroli West,East,Baby Products,5.9,16
+2024-04-17,DS15,Vikhroli West,East,Medicines,2.7,13
+2024-04-18,DS03,Juhu,West,Grocery & Staples,1.7,5
+2024-04-18,DS04,Malad West,West,Baby Products,5.9,20
+2024-04-18,DS04,Malad West,West,Fruits & Vegetables,1.5,7
+2024-04-18,DS04,Malad West,West,Medicines,2.2,10
+2024-04-18,DS06,Powai,Central,Snacks & Drinks,0.8,3
+2024-04-18,DS08,Kurla West,Central,Household Items,2.2,15
+2024-04-18,DS09,Thane West,Central,Fruits & Vegetables,3.0,9
+2024-04-18,DS10,Mulund West,Central,Snacks & Drinks,2.2,9
+2024-04-18,DS11,Dadar West,South,Medicines,3.2,8
+2024-04-18,DS12,Lower Parel,South,Medicines,4.6,9
+2024-04-18,DS12,Lower Parel,South,Dairy & Breakfast,3.9,8
+2024-04-18,DS14,Chembur,East,Baby Products,4.0,13
+2024-04-18,DS15,Vikhroli West,East,Meats & Seafood,5.9,17
+2024-04-19,DS02,Bandra West,West,Medicines,3.8,12
+2024-04-19,DS03,Juhu,West,Meats & Seafood,1.0,3
+2024-04-19,DS06,Powai,Central,Snacks & Drinks,4.3,29
+2024-04-19,DS07,Ghatkopar West,Central,Household Items,4.7,13
+2024-04-19,DS09,Thane West,Central,Household Items,2.5,8
+2024-04-19,DS12,Lower Parel,South,Grocery & Staples,4.4,29
+2024-04-19,DS12,Lower Parel,South,Household Items,0.6,2
+2024-04-20,DS01,Andheri West,West,Fruits & Vegetables,5.3,30
+2024-04-20,DS01,Andheri West,West,Meats & Seafood,1.8,8
+2024-04-20,DS02,Bandra West,West,Meats & Seafood,1.0,4
+2024-04-20,DS03,Juhu,West,Grocery & Staples,3.2,25
+2024-04-20,DS04,Malad West,West,Household Items,5.7,12
+2024-04-20,DS06,Powai,Central,Personal Care,1.7,9
+2024-04-20,DS08,Kurla West,Central,Medicines,3.2,8
+2024-04-20,DS10,Mulund West,Central,Dairy & Breakfast,5.7,16
+2024-04-20,DS12,Lower Parel,South,Personal Care,4.5,10
+2024-04-20,DS15,Vikhroli West,East,Grocery & Staples,5.0,32
+2024-04-20,DS15,Vikhroli West,East,Snacks & Drinks,2.7,15
+2024-04-21,DS01,Andheri West,West,Medicines,4.4,32
+2024-04-21,DS01,Andheri West,West,Dairy & Breakfast,0.8,5
+2024-04-21,DS03,Juhu,West,Baby Products,1.2,2
+2024-04-21,DS05,Borivali West,West,Meats & Seafood,4.7,32
+2024-04-21,DS05,Borivali West,West,Baby Products,2.0,9
+2024-04-21,DS06,Powai,Central,Medicines,5.2,22
+2024-04-21,DS06,Powai,Central,Snacks & Drinks,4.6,19
+2024-04-21,DS11,Dadar West,South,Baby Products,4.8,16
+2024-04-21,DS12,Lower Parel,South,Fruits & Vegetables,3.1,6
+2024-04-21,DS13,Worli,South,Snacks & Drinks,3.2,19
+2024-04-21,DS13,Worli,South,Baby Products,3.9,9
+2024-04-21,DS14,Chembur,East,Dairy & Breakfast,1.2,6
+2024-04-21,DS15,Vikhroli West,East,Personal Care,3.6,20
+2024-04-21,DS15,Vikhroli West,East,Snacks & Drinks,3.9,11
+2024-04-22,DS01,Andheri West,West,Medicines,2.6,5
+2024-04-22,DS01,Andheri West,West,Household Items,2.7,14
+2024-04-22,DS02,Bandra West,West,Baby Products,3.2,20
+2024-04-22,DS04,Malad West,West,Baby Products,0.9,6
+2024-04-22,DS05,Borivali West,West,Personal Care,2.8,7
+2024-04-22,DS05,Borivali West,West,Baby Products,5.1,34
+2024-04-22,DS06,Powai,Central,Personal Care,3.0,7
+2024-04-22,DS07,Ghatkopar West,Central,Fruits & Vegetables,3.4,15
+2024-04-22,DS11,Dadar West,South,Medicines,3.3,16
+2024-04-22,DS15,Vikhroli West,East,Baby Products,5.1,27
+2024-04-22,DS15,Vikhroli West,East,Personal Care,4.1,12
+2024-04-23,DS01,Andheri West,West,Fruits & Vegetables,4.7,26
+2024-04-23,DS02,Bandra West,West,Personal Care,3.3,24
+2024-04-23,DS02,Bandra West,West,Grocery & Staples,4.1,16
+2024-04-23,DS02,Bandra West,West,Dairy & Breakfast,4.2,9
+2024-04-23,DS04,Malad West,West,Fruits & Vegetables,5.4,25
+2024-04-23,DS08,Kurla West,Central,Household Items,5.8,13
+2024-04-23,DS09,Thane West,Central,Baby Products,4.0,15
+2024-04-23,DS09,Thane West,Central,Household Items,2.9,10
+2024-04-23,DS10,Mulund West,Central,Fruits & Vegetables,1.2,6
+2024-04-23,DS10,Mulund West,Central,Medicines,1.2,5
+2024-04-23,DS11,Dadar West,South,Fruits & Vegetables,2.3,9
+2024-04-23,DS11,Dadar West,South,Snacks & Drinks,4.3,24
+2024-04-23,DS15,Vikhroli West,East,Medicines,3.3,21
+2024-04-24,DS01,Andheri West,West,Meats & Seafood,1.6,3
+2024-04-24,DS01,Andheri West,West,Personal Care,5.5,38
+2024-04-24,DS01,Andheri West,West,Grocery & Staples,3.0,9
+2024-04-24,DS01,Andheri West,West,Household Items,2.8,18
+2024-04-24,DS01,Andheri West,West,Snacks & Drinks,1.9,14
+2024-04-24,DS02,Bandra West,West,Grocery & Staples,3.9,19
+2024-04-24,DS05,Borivali West,West,Snacks & Drinks,1.9,10
+2024-04-24,DS06,Powai,Central,Snacks & Drinks,6.0,34
+2024-04-24,DS06,Powai,Central,Medicines,1.2,6
+2024-04-24,DS08,Kurla West,Central,Household Items,4.7,23
+2024-04-24,DS11,Dadar West,South,Dairy & Breakfast,0.8,4
+2024-04-24,DS12,Lower Parel,South,Baby Products,4.4,9
+2024-04-24,DS14,Chembur,East,Household Items,5.9,16
+2024-04-24,DS15,Vikhroli West,East,Household Items,3.2,17
+2024-04-25,DS01,Andheri West,West,Medicines,4.2,26
+2024-04-25,DS01,Andheri West,West,Baby Products,3.6,11
+2024-04-25,DS07,Ghatkopar West,Central,Personal Care,4.5,25
+2024-04-25,DS07,Ghatkopar West,Central,Household Items,0.5,2
+2024-04-25,DS08,Kurla West,Central,Personal Care,5.1,28
+2024-04-25,DS12,Lower Parel,South,Personal Care,0.8,2
+2024-04-25,DS14,Chembur,East,Fruits & Vegetables,2.9,14
+2024-04-25,DS15,Vikhroli West,East,Meats & Seafood,4.3,12
+2024-04-25,DS15,Vikhroli West,East,Baby Products,0.7,5
+2024-04-26,DS01,Andheri West,West,Baby Products,0.7,2
+2024-04-26,DS01,Andheri West,West,Meats & Seafood,2.7,7
+2024-04-26,DS04,Malad West,West,Medicines,2.5,19
+2024-04-26,DS05,Borivali West,West,Fruits & Vegetables,0.6,3
+2024-04-26,DS06,Powai,Central,Fruits & Vegetables,3.1,22
+2024-04-26,DS10,Mulund West,Central,Grocery & Staples,1.3,7
+2024-04-26,DS11,Dadar West,South,Meats & Seafood,3.3,21
+2024-04-26,DS11,Dadar West,South,Personal Care,2.4,14
+2024-04-26,DS12,Lower Parel,South,Meats & Seafood,4.5,29
+2024-04-26,DS15,Vikhroli West,East,Medicines,3.5,22
+2024-04-26,DS15,Vikhroli West,East,Dairy & Breakfast,4.3,18
+2024-04-27,DS01,Andheri West,West,Grocery & Staples,2.5,14
+2024-04-27,DS01,Andheri West,West,Baby Products,3.8,13
+2024-04-27,DS01,Andheri West,West,Meats & Seafood,4.2,29
+2024-04-27,DS02,Bandra West,West,Dairy & Breakfast,4.6,23
+2024-04-27,DS02,Bandra West,West,Grocery & Staples,5.5,21
+2024-04-27,DS09,Thane West,Central,Meats & Seafood,5.9,13
+2024-04-27,DS10,Mulund West,Central,Dairy & Breakfast,3.2,9
+2024-04-27,DS11,Dadar West,South,Snacks & Drinks,0.8,6
+2024-04-27,DS11,Dadar West,South,Personal Care,4.8,17
+2024-04-27,DS12,Lower Parel,South,Dairy & Breakfast,4.7,35
+2024-04-28,DS02,Bandra West,West,Dairy & Breakfast,5.7,17
+2024-04-28,DS02,Bandra West,West,Fruits & Vegetables,1.5,9
+2024-04-28,DS03,Juhu,West,Baby Products,0.9,5
+2024-04-28,DS05,Borivali West,West,Medicines,2.3,9
+2024-04-28,DS05,Borivali West,West,Household Items,0.7,4
+2024-04-28,DS06,Powai,Central,Snacks & Drinks,0.9,6
+2024-04-28,DS08,Kurla West,Central,Dairy & Breakfast,4.9,35
+2024-04-28,DS08,Kurla West,Central,Medicines,2.0,9
+2024-04-28,DS09,Thane West,Central,Grocery & Staples,4.2,18
+2024-04-28,DS11,Dadar West,South,Meats & Seafood,2.3,17
+2024-04-28,DS12,Lower Parel,South,Household Items,2.6,9
+2024-04-28,DS14,Chembur,East,Baby Products,3.2,20
+2024-04-29,DS01,Andheri West,West,Baby Products,5.4,14
+2024-04-29,DS01,Andheri West,West,Dairy & Breakfast,1.9,11
+2024-04-29,DS04,Malad West,West,Fruits & Vegetables,2.3,17
+2024-04-29,DS06,Powai,Central,Household Items,2.4,9
+2024-04-29,DS08,Kurla West,Central,Meats & Seafood,1.7,3
+2024-04-29,DS08,Kurla West,Central,Grocery & Staples,4.8,36
+2024-04-29,DS08,Kurla West,Central,Fruits & Vegetables,3.0,19
+2024-04-29,DS08,Kurla West,Central,Household Items,5.5,23
+2024-04-29,DS12,Lower Parel,South,Grocery & Staples,3.0,9
+2024-04-29,DS12,Lower Parel,South,Snacks & Drinks,1.2,4
+2024-04-29,DS15,Vikhroli West,East,Grocery & Staples,2.8,9
+2024-04-30,DS01,Andheri West,West,Medicines,1.2,5
+2024-04-30,DS02,Bandra West,West,Dairy & Breakfast,2.5,13
+2024-04-30,DS03,Juhu,West,Personal Care,3.0,8
+2024-04-30,DS04,Malad West,West,Grocery & Staples,2.7,13
+2024-04-30,DS05,Borivali West,West,Household Items,3.0,23
+2024-04-30,DS06,Powai,Central,Snacks & Drinks,5.7,24
+2024-04-30,DS08,Kurla West,Central,Snacks & Drinks,2.0,13
+2024-04-30,DS08,Kurla West,Central,Dairy & Breakfast,5.9,42
+2024-04-30,DS11,Dadar West,South,Snacks & Drinks,0.9,2
+2024-04-30,DS11,Dadar West,South,Medicines,4.9,17
+2024-04-30,DS15,Vikhroli West,East,Snacks & Drinks,4.6,13
+2024-05-01,DS02,Bandra West,West,Medicines,0.8,4
+2024-05-01,DS02,Bandra West,West,Household Items,1.9,6
+2024-05-01,DS03,Juhu,West,Dairy & Breakfast,2.0,8
+2024-05-01,DS04,Malad West,West,Medicines,1.4,5
+2024-05-01,DS06,Powai,Central,Personal Care,1.0,3
+2024-05-01,DS10,Mulund West,Central,Household Items,0.6,4
+2024-05-01,DS12,Lower Parel,South,Grocery & Staples,1.5,7
+2024-05-01,DS12,Lower Parel,South,Snacks & Drinks,1.0,4
+2024-05-01,DS13,Worli,South,Fruits & Vegetables,2.4,7
+2024-05-01,DS15,Vikhroli West,East,Medicines,4.8,28
+2024-05-02,DS01,Andheri West,West,Meats & Seafood,0.9,6
+2024-05-02,DS02,Bandra West,West,Baby Products,1.1,2
+2024-05-02,DS02,Bandra West,West,Medicines,3.9,16
+2024-05-02,DS03,Juhu,West,Fruits & Vegetables,1.3,10
+2024-05-02,DS03,Juhu,West,Personal Care,2.0,13
+2024-05-02,DS06,Powai,Central,Medicines,1.1,6
+2024-05-02,DS07,Ghatkopar West,Central,Grocery & Staples,4.8,10
+2024-05-02,DS08,Kurla West,Central,Household Items,2.6,12
+2024-05-02,DS08,Kurla West,Central,Grocery & Staples,5.4,41
+2024-05-02,DS11,Dadar West,South,Personal Care,3.3,14
+2024-05-02,DS12,Lower Parel,South,Baby Products,5.0,15
+2024-05-02,DS12,Lower Parel,South,Medicines,2.7,18
+2024-05-02,DS14,Chembur,East,Household Items,5.8,18
+2024-05-02,DS14,Chembur,East,Baby Products,3.8,12
+2024-05-02,DS15,Vikhroli West,East,Meats & Seafood,5.2,22
+2024-05-02,DS15,Vikhroli West,East,Snacks & Drinks,5.3,21
+2024-05-03,DS01,Andheri West,West,Grocery & Staples,3.0,13
+2024-05-03,DS03,Juhu,West,Dairy & Breakfast,3.9,25
+2024-05-03,DS03,Juhu,West,Medicines,2.9,12
+2024-05-03,DS06,Powai,Central,Snacks & Drinks,1.0,3
+2024-05-03,DS08,Kurla West,Central,Snacks & Drinks,5.4,16
+2024-05-03,DS09,Thane West,Central,Household Items,3.8,23
+2024-05-03,DS09,Thane West,Central,Fruits & Vegetables,1.8,3
+2024-05-03,DS09,Thane West,Central,Medicines,2.9,17
+2024-05-03,DS09,Thane West,Central,Baby Products,3.7,20
+2024-05-03,DS10,Mulund West,Central,Grocery & Staples,1.3,4
+2024-05-03,DS10,Mulund West,Central,Snacks & Drinks,0.7,4
+2024-05-03,DS12,Lower Parel,South,Snacks & Drinks,3.9,9
+2024-05-03,DS14,Chembur,East,Personal Care,4.7,22
+2024-05-03,DS14,Chembur,East,Medicines,1.3,5
+2024-05-03,DS14,Chembur,East,Dairy & Breakfast,1.1,3
+2024-05-03,DS14,Chembur,East,Baby Products,0.7,3
+2024-05-03,DS14,Chembur,East,Fruits & Vegetables,3.8,12
+2024-05-03,DS15,Vikhroli West,East,Dairy & Breakfast,0.5,3
+2024-05-03,DS15,Vikhroli West,East,Fruits & Vegetables,0.9,2
+2024-05-04,DS01,Andheri West,West,Personal Care,0.9,4
+2024-05-04,DS01,Andheri West,West,Dairy & Breakfast,5.6,39
+2024-05-04,DS02,Bandra West,West,Meats & Seafood,5.8,29
+2024-05-04,DS02,Bandra West,West,Household Items,3.5,17
+2024-05-04,DS06,Powai,Central,Household Items,5.4,14
+2024-05-04,DS08,Kurla West,Central,Meats & Seafood,4.9,24
+2024-05-04,DS08,Kurla West,Central,Fruits & Vegetables,2.7,20
+2024-05-04,DS08,Kurla West,Central,Medicines,2.7,18
+2024-05-04,DS09,Thane West,Central,Grocery & Staples,4.7,14
+2024-05-04,DS10,Mulund West,Central,Medicines,2.3,10
+2024-05-04,DS12,Lower Parel,South,Meats & Seafood,0.8,3
+2024-05-04,DS12,Lower Parel,South,Medicines,4.5,34
+2024-05-04,DS12,Lower Parel,South,Snacks & Drinks,1.5,8
+2024-05-04,DS14,Chembur,East,Household Items,5.6,39
+2024-05-05,DS02,Bandra West,West,Grocery & Staples,4.0,28
+2024-05-05,DS02,Bandra West,West,Snacks & Drinks,2.7,8
+2024-05-05,DS07,Ghatkopar West,Central,Fruits & Vegetables,4.9,32
+2024-05-05,DS08,Kurla West,Central,Personal Care,2.3,16
+2024-05-05,DS09,Thane West,Central,Dairy & Breakfast,3.4,11
+2024-05-06,DS01,Andheri West,West,Household Items,2.1,7
+2024-05-06,DS01,Andheri West,West,Baby Products,4.1,26
+2024-05-06,DS02,Bandra West,West,Personal Care,5.5,16
+2024-05-06,DS03,Juhu,West,Household Items,1.7,8
+2024-05-06,DS09,Thane West,Central,Personal Care,4.3,11
+2024-05-06,DS09,Thane West,Central,Fruits & Vegetables,4.4,30
+2024-05-06,DS09,Thane West,Central,Snacks & Drinks,0.7,2
+2024-05-06,DS13,Worli,South,Baby Products,0.9,2
+2024-05-06,DS15,Vikhroli West,East,Dairy & Breakfast,3.4,26
+2024-05-07,DS01,Andheri West,West,Household Items,5.6,20
+2024-05-07,DS01,Andheri West,West,Grocery & Staples,3.5,18
+2024-05-07,DS06,Powai,Central,Grocery & Staples,1.9,14
+2024-05-07,DS09,Thane West,Central,Personal Care,0.8,2
+2024-05-07,DS10,Mulund West,Central,Household Items,3.9,11
+2024-05-07,DS11,Dadar West,South,Medicines,1.0,2
+2024-05-07,DS12,Lower Parel,South,Baby Products,1.3,6
+2024-05-07,DS15,Vikhroli West,East,Dairy & Breakfast,2.6,11
+2024-05-08,DS02,Bandra West,West,Grocery & Staples,4.9,27
+2024-05-08,DS03,Juhu,West,Snacks & Drinks,3.7,11
+2024-05-08,DS03,Juhu,West,Grocery & Staples,4.8,33
+2024-05-08,DS04,Malad West,West,Baby Products,0.8,5
+2024-05-08,DS05,Borivali West,West,Baby Products,2.9,5
+2024-05-08,DS05,Borivali West,West,Grocery & Staples,4.0,28
+2024-05-08,DS10,Mulund West,Central,Personal Care,4.8,21
+2024-05-08,DS10,Mulund West,Central,Fruits & Vegetables,2.4,17
+2024-05-08,DS11,Dadar West,South,Medicines,3.1,9
+2024-05-08,DS11,Dadar West,South,Snacks & Drinks,3.9,29
+2024-05-08,DS14,Chembur,East,Medicines,3.2,8
+2024-05-09,DS01,Andheri West,West,Grocery & Staples,3.2,24
+2024-05-09,DS03,Juhu,West,Baby Products,4.1,12
+2024-05-09,DS06,Powai,Central,Meats & Seafood,3.9,8
+2024-05-09,DS07,Ghatkopar West,Central,Household Items,2.9,16
+2024-05-09,DS08,Kurla West,Central,Fruits & Vegetables,1.5,6
+2024-05-09,DS10,Mulund West,Central,Dairy & Breakfast,5.2,40
+2024-05-09,DS11,Dadar West,South,Baby Products,4.6,28
+2024-05-09,DS13,Worli,South,Household Items,2.8,6
+2024-05-09,DS14,Chembur,East,Baby Products,1.6,5
+2024-05-09,DS15,Vikhroli West,East,Household Items,2.7,15
+2024-05-10,DS02,Bandra West,West,Grocery & Staples,1.7,3
+2024-05-10,DS02,Bandra West,West,Snacks & Drinks,2.9,12
+2024-05-10,DS03,Juhu,West,Medicines,2.4,8
+2024-05-10,DS03,Juhu,West,Baby Products,3.9,25
+2024-05-10,DS07,Ghatkopar West,Central,Baby Products,1.9,5
+2024-05-10,DS08,Kurla West,Central,Fruits & Vegetables,5.4,40
+2024-05-10,DS11,Dadar West,South,Meats & Seafood,4.6,22
+2024-05-10,DS12,Lower Parel,South,Snacks & Drinks,1.0,7
+2024-05-10,DS13,Worli,South,Fruits & Vegetables,2.1,12
+2024-05-10,DS13,Worli,South,Grocery & Staples,3.8,26
+2024-05-11,DS02,Bandra West,West,Household Items,3.5,17
+2024-05-11,DS03,Juhu,West,Household Items,2.4,8
+2024-05-11,DS04,Malad West,West,Fruits & Vegetables,3.7,23
+2024-05-11,DS06,Powai,Central,Grocery & Staples,0.8,4
+2024-05-11,DS09,Thane West,Central,Grocery & Staples,2.9,11
+2024-05-11,DS09,Thane West,Central,Dairy & Breakfast,1.4,9
+2024-05-11,DS12,Lower Parel,South,Snacks & Drinks,1.1,5
+2024-05-11,DS12,Lower Parel,South,Household Items,5.3,35
+2024-05-11,DS13,Worli,South,Personal Care,1.0,2
+2024-05-12,DS03,Juhu,West,Medicines,2.5,11
+2024-05-12,DS04,Malad West,West,Snacks & Drinks,5.8,31
+2024-05-12,DS06,Powai,Central,Medicines,5.9,45
+2024-05-12,DS07,Ghatkopar West,Central,Personal Care,4.6,18
+2024-05-12,DS08,Kurla West,Central,Household Items,4.1,30
+2024-05-12,DS08,Kurla West,Central,Snacks & Drinks,0.6,3
+2024-05-12,DS09,Thane West,Central,Baby Products,2.8,15
+2024-05-12,DS10,Mulund West,Central,Household Items,1.0,7
+2024-05-12,DS12,Lower Parel,South,Baby Products,5.6,23
+2024-05-12,DS12,Lower Parel,South,Fruits & Vegetables,2.6,16
+2024-05-12,DS15,Vikhroli West,East,Fruits & Vegetables,3.7,21
+2024-05-12,DS15,Vikhroli West,East,Household Items,3.2,21
+2024-05-12,DS15,Vikhroli West,East,Meats & Seafood,1.4,8
+2024-05-13,DS03,Juhu,West,Grocery & Staples,4.0,12
+2024-05-13,DS06,Powai,Central,Meats & Seafood,4.7,19
+2024-05-13,DS08,Kurla West,Central,Baby Products,1.4,7
+2024-05-13,DS09,Thane West,Central,Personal Care,3.2,10
+2024-05-13,DS11,Dadar West,South,Personal Care,0.5,1
+2024-05-13,DS11,Dadar West,South,Dairy & Breakfast,4.4,22
+2024-05-13,DS11,Dadar West,South,Baby Products,5.9,39
+2024-05-13,DS13,Worli,South,Grocery & Staples,2.0,7
+2024-05-14,DS01,Andheri West,West,Grocery & Staples,2.3,12
+2024-05-14,DS07,Ghatkopar West,Central,Fruits & Vegetables,3.4,11
+2024-05-14,DS07,Ghatkopar West,Central,Household Items,3.8,28
+2024-05-14,DS08,Kurla West,Central,Meats & Seafood,5.7,19
+2024-05-14,DS09,Thane West,Central,Grocery & Staples,4.1,23
+2024-05-14,DS10,Mulund West,Central,Snacks & Drinks,3.0,18
+2024-05-14,DS12,Lower Parel,South,Meats & Seafood,1.7,3
+2024-05-14,DS15,Vikhroli West,East,Snacks & Drinks,2.3,12
+2024-05-15,DS01,Andheri West,West,Medicines,5.8,22
+2024-05-15,DS03,Juhu,West,Fruits & Vegetables,0.8,6
+2024-05-15,DS04,Malad West,West,Fruits & Vegetables,1.0,7
+2024-05-15,DS05,Borivali West,West,Dairy & Breakfast,4.6,27
+2024-05-15,DS05,Borivali West,West,Household Items,0.6,3
+2024-05-15,DS08,Kurla West,Central,Baby Products,2.6,7
+2024-05-15,DS09,Thane West,Central,Personal Care,1.4,10
+2024-05-15,DS10,Mulund West,Central,Baby Products,3.4,24
+2024-05-15,DS13,Worli,South,Medicines,3.4,22
+2024-05-15,DS14,Chembur,East,Grocery & Staples,2.5,17
+2024-05-15,DS14,Chembur,East,Snacks & Drinks,4.2,32
+2024-05-16,DS01,Andheri West,West,Medicines,2.5,17
+2024-05-16,DS06,Powai,Central,Household Items,3.1,17
+2024-05-16,DS07,Ghatkopar West,Central,Baby Products,5.9,13
+2024-05-16,DS09,Thane West,Central,Baby Products,2.5,12
+2024-05-16,DS09,Thane West,Central,Personal Care,3.6,21
+2024-05-16,DS11,Dadar West,South,Grocery & Staples,1.9,5
+2024-05-16,DS12,Lower Parel,South,Baby Products,1.7,7
+2024-05-16,DS14,Chembur,East,Meats & Seafood,4.4,34
+2024-05-16,DS15,Vikhroli West,East,Meats & Seafood,1.2,8
+2024-05-16,DS15,Vikhroli West,East,Fruits & Vegetables,4.3,31
+2024-05-17,DS01,Andheri West,West,Personal Care,4.6,22
+2024-05-17,DS01,Andheri West,West,Household Items,1.7,12
+2024-05-17,DS02,Bandra West,West,Snacks & Drinks,4.1,31
+2024-05-17,DS04,Malad West,West,Medicines,1.2,7
+2024-05-17,DS05,Borivali West,West,Personal Care,3.7,25
+2024-05-17,DS06,Powai,Central,Snacks & Drinks,5.9,14
+2024-05-17,DS09,Thane West,Central,Baby Products,3.7,8
+2024-05-17,DS11,Dadar West,South,Baby Products,1.9,8
+2024-05-17,DS12,Lower Parel,South,Personal Care,3.2,16
+2024-05-17,DS13,Worli,South,Snacks & Drinks,4.1,19
+2024-05-17,DS14,Chembur,East,Meats & Seafood,3.0,9
+2024-05-18,DS01,Andheri West,West,Baby Products,5.8,16
+2024-05-18,DS02,Bandra West,West,Dairy & Breakfast,4.4,26
+2024-05-18,DS02,Bandra West,West,Medicines,4.4,20
+2024-05-18,DS03,Juhu,West,Dairy & Breakfast,3.0,10
+2024-05-18,DS04,Malad West,West,Snacks & Drinks,1.7,7
+2024-05-18,DS06,Powai,Central,Fruits & Vegetables,2.1,11
+2024-05-18,DS07,Ghatkopar West,Central,Fruits & Vegetables,1.6,4
+2024-05-18,DS09,Thane West,Central,Medicines,4.8,24
+2024-05-18,DS11,Dadar West,South,Dairy & Breakfast,2.5,17
+2024-05-18,DS11,Dadar West,South,Snacks & Drinks,1.8,9
+2024-05-18,DS14,Chembur,East,Fruits & Vegetables,2.2,13
+2024-05-18,DS15,Vikhroli West,East,Meats & Seafood,3.2,15
+2024-05-18,DS15,Vikhroli West,East,Dairy & Breakfast,5.9,27
+2024-05-19,DS02,Bandra West,West,Meats & Seafood,2.6,20
+2024-05-19,DS02,Bandra West,West,Medicines,0.8,3
+2024-05-19,DS09,Thane West,Central,Meats & Seafood,1.0,3
+2024-05-19,DS09,Thane West,Central,Fruits & Vegetables,1.9,4
+2024-05-19,DS11,Dadar West,South,Grocery & Staples,1.3,6
+2024-05-19,DS12,Lower Parel,South,Personal Care,1.8,11
+2024-05-19,DS14,Chembur,East,Personal Care,5.3,33
+2024-05-19,DS14,Chembur,East,Snacks & Drinks,1.7,9
+2024-05-19,DS15,Vikhroli West,East,Dairy & Breakfast,2.8,16
+2024-05-20,DS01,Andheri West,West,Grocery & Staples,3.3,17
+2024-05-20,DS01,Andheri West,West,Medicines,2.0,12
+2024-05-20,DS03,Juhu,West,Personal Care,6.0,39
+2024-05-20,DS05,Borivali West,West,Snacks & Drinks,3.9,11
+2024-05-20,DS08,Kurla West,Central,Dairy & Breakfast,5.2,39
+2024-05-20,DS09,Thane West,Central,Grocery & Staples,3.9,17
+2024-05-20,DS09,Thane West,Central,Baby Products,2.8,9
+2024-05-20,DS12,Lower Parel,South,Baby Products,2.8,9
+2024-05-20,DS14,Chembur,East,Grocery & Staples,0.8,1
+2024-05-21,DS01,Andheri West,West,Dairy & Breakfast,2.0,13
+2024-05-21,DS02,Bandra West,West,Baby Products,4.3,25
+2024-05-21,DS02,Bandra West,West,Personal Care,4.8,18
+2024-05-21,DS03,Juhu,West,Fruits & Vegetables,2.0,13
+2024-05-21,DS05,Borivali West,West,Baby Products,5.5,32
+2024-05-21,DS08,Kurla West,Central,Meats & Seafood,1.4,9
+2024-05-21,DS09,Thane West,Central,Household Items,3.9,19
+2024-05-21,DS13,Worli,South,Snacks & Drinks,5.6,20
+2024-05-21,DS15,Vikhroli West,East,Medicines,0.7,3
+2024-05-21,DS15,Vikhroli West,East,Fruits & Vegetables,6.0,22
+2024-05-22,DS01,Andheri West,West,Medicines,1.6,9
+2024-05-22,DS01,Andheri West,West,Personal Care,5.3,42
+2024-05-22,DS03,Juhu,West,Snacks & Drinks,5.5,35
+2024-05-22,DS03,Juhu,West,Medicines,3.7,18
+2024-05-22,DS05,Borivali West,West,Personal Care,2.5,17
+2024-05-22,DS05,Borivali West,West,Medicines,3.2,9
+2024-05-22,DS07,Ghatkopar West,Central,Baby Products,1.2,9
+2024-05-22,DS08,Kurla West,Central,Fruits & Vegetables,2.9,17
+2024-05-22,DS09,Thane West,Central,Medicines,1.0,6
+2024-05-22,DS09,Thane West,Central,Snacks & Drinks,5.9,15
+2024-05-22,DS11,Dadar West,South,Grocery & Staples,5.6,12
+2024-05-22,DS12,Lower Parel,South,Medicines,3.7,22
+2024-05-22,DS12,Lower Parel,South,Grocery & Staples,5.1,10
+2024-05-22,DS14,Chembur,East,Snacks & Drinks,3.7,18
+2024-05-22,DS15,Vikhroli West,East,Grocery & Staples,4.4,31
+2024-05-22,DS15,Vikhroli West,East,Medicines,3.4,24
+2024-05-23,DS02,Bandra West,West,Personal Care,5.3,21
+2024-05-23,DS02,Bandra West,West,Medicines,3.9,30
+2024-05-23,DS06,Powai,Central,Household Items,5.5,34
+2024-05-23,DS07,Ghatkopar West,Central,Medicines,1.3,9
+2024-05-23,DS08,Kurla West,Central,Household Items,5.6,13
+2024-05-23,DS08,Kurla West,Central,Snacks & Drinks,3.0,11
+2024-05-23,DS10,Mulund West,Central,Baby Products,5.5,19
+2024-05-23,DS11,Dadar West,South,Meats & Seafood,3.4,14
+2024-05-23,DS12,Lower Parel,South,Snacks & Drinks,0.6,3
+2024-05-23,DS15,Vikhroli West,East,Baby Products,4.4,35
+2024-05-23,DS15,Vikhroli West,East,Household Items,1.8,13
+2024-05-24,DS04,Malad West,West,Fruits & Vegetables,4.8,17
+2024-05-24,DS05,Borivali West,West,Grocery & Staples,5.9,36
+2024-05-24,DS06,Powai,Central,Fruits & Vegetables,1.2,5
+2024-05-24,DS06,Powai,Central,Medicines,4.1,19
+2024-05-24,DS06,Powai,Central,Personal Care,3.1,8
+2024-05-24,DS08,Kurla West,Central,Grocery & Staples,4.9,25
+2024-05-24,DS08,Kurla West,Central,Snacks & Drinks,1.4,4
+2024-05-24,DS08,Kurla West,Central,Household Items,2.9,12
+2024-05-24,DS12,Lower Parel,South,Medicines,4.4,34
+2024-05-24,DS14,Chembur,East,Grocery & Staples,1.2,2
+2024-05-24,DS14,Chembur,East,Household Items,0.8,5
+2024-05-25,DS01,Andheri West,West,Snacks & Drinks,4.7,30
+2024-05-25,DS03,Juhu,West,Household Items,0.7,4
+2024-05-25,DS03,Juhu,West,Baby Products,3.4,25
+2024-05-25,DS04,Malad West,West,Fruits & Vegetables,0.8,5
+2024-05-25,DS05,Borivali West,West,Meats & Seafood,5.1,11
+2024-05-25,DS05,Borivali West,West,Medicines,0.6,2
+2024-05-25,DS06,Powai,Central,Household Items,2.9,6
+2024-05-25,DS06,Powai,Central,Meats & Seafood,0.8,3
+2024-05-25,DS07,Ghatkopar West,Central,Meats & Seafood,0.9,3
+2024-05-25,DS07,Ghatkopar West,Central,Snacks & Drinks,1.2,5
+2024-05-25,DS15,Vikhroli West,East,Baby Products,3.4,15
+2024-05-26,DS01,Andheri West,West,Fruits & Vegetables,2.5,8
+2024-05-26,DS05,Borivali West,West,Personal Care,0.5,2
+2024-05-26,DS06,Powai,Central,Baby Products,2.1,8
+2024-05-26,DS07,Ghatkopar West,Central,Fruits & Vegetables,5.1,25
+2024-05-26,DS07,Ghatkopar West,Central,Household Items,2.1,4
+2024-05-26,DS08,Kurla West,Central,Household Items,1.3,2
+2024-05-26,DS10,Mulund West,Central,Fruits & Vegetables,5.9,28
+2024-05-26,DS12,Lower Parel,South,Snacks & Drinks,5.0,16
+2024-05-26,DS14,Chembur,East,Medicines,2.2,9
+2024-05-26,DS15,Vikhroli West,East,Grocery & Staples,2.7,20
+2024-05-27,DS03,Juhu,West,Personal Care,4.6,30
+2024-05-27,DS07,Ghatkopar West,Central,Dairy & Breakfast,5.6,12
+2024-05-27,DS07,Ghatkopar West,Central,Fruits & Vegetables,2.4,10
+2024-05-27,DS09,Thane West,Central,Medicines,2.9,20
+2024-05-27,DS09,Thane West,Central,Fruits & Vegetables,6.0,37
+2024-05-27,DS12,Lower Parel,South,Personal Care,5.2,33
+2024-05-27,DS13,Worli,South,Household Items,1.3,8
+2024-05-27,DS14,Chembur,East,Meats & Seafood,3.1,18
+2024-05-27,DS15,Vikhroli West,East,Household Items,2.9,7
+2024-05-28,DS01,Andheri West,West,Baby Products,2.1,5
+2024-05-28,DS01,Andheri West,West,Medicines,5.4,31
+2024-05-28,DS02,Bandra West,West,Dairy & Breakfast,4.8,34
+2024-05-28,DS03,Juhu,West,Snacks & Drinks,2.6,16
+2024-05-28,DS04,Malad West,West,Household Items,0.8,2
+2024-05-28,DS06,Powai,Central,Meats & Seafood,2.9,12
+2024-05-28,DS06,Powai,Central,Baby Products,0.6,2
+2024-05-28,DS08,Kurla West,Central,Dairy & Breakfast,3.4,13
+2024-05-28,DS11,Dadar West,South,Meats & Seafood,3.7,26
+2024-05-28,DS11,Dadar West,South,Fruits & Vegetables,0.6,2
+2024-05-28,DS14,Chembur,East,Medicines,0.6,4
+2024-05-28,DS14,Chembur,East,Household Items,5.1,16
+2024-05-28,DS15,Vikhroli West,East,Grocery & Staples,1.3,2
+2024-05-28,DS15,Vikhroli West,East,Personal Care,1.3,3
+2024-05-29,DS02,Bandra West,West,Household Items,3.8,10
+2024-05-29,DS05,Borivali West,West,Baby Products,1.7,6
+2024-05-29,DS06,Powai,Central,Baby Products,1.7,5
+2024-05-29,DS08,Kurla West,Central,Household Items,1.4,6
+2024-05-29,DS08,Kurla West,Central,Fruits & Vegetables,3.9,25
+2024-05-29,DS08,Kurla West,Central,Personal Care,1.1,5
+2024-05-29,DS09,Thane West,Central,Grocery & Staples,5.5,23
+2024-05-29,DS09,Thane West,Central,Meats & Seafood,5.6,18
+2024-05-29,DS10,Mulund West,Central,Meats & Seafood,4.6,28
+2024-05-29,DS15,Vikhroli West,East,Fruits & Vegetables,3.9,23
+2024-05-30,DS01,Andheri West,West,Personal Care,4.1,9
+2024-05-30,DS03,Juhu,West,Medicines,3.7,22
+2024-05-30,DS05,Borivali West,West,Meats & Seafood,1.8,13
+2024-05-30,DS06,Powai,Central,Personal Care,1.7,6
+2024-05-30,DS09,Thane West,Central,Fruits & Vegetables,2.5,10
+2024-05-30,DS09,Thane West,Central,Personal Care,6.0,20
+2024-05-30,DS10,Mulund West,Central,Meats & Seafood,5.0,21
+2024-05-30,DS12,Lower Parel,South,Medicines,3.7,28
+2024-05-30,DS14,Chembur,East,Dairy & Breakfast,3.7,11
+2024-05-30,DS15,Vikhroli West,East,Grocery & Staples,0.8,1
+2024-05-30,DS15,Vikhroli West,East,Medicines,4.9,15
+2024-05-31,DS01,Andheri West,West,Medicines,5.7,39
+2024-05-31,DS05,Borivali West,West,Fruits & Vegetables,5.4,38
+2024-05-31,DS07,Ghatkopar West,Central,Meats & Seafood,3.3,24
+2024-05-31,DS08,Kurla West,Central,Fruits & Vegetables,1.6,7
+2024-05-31,DS09,Thane West,Central,Medicines,5.8,45
+2024-05-31,DS09,Thane West,Central,Grocery & Staples,4.5,34
+2024-05-31,DS09,Thane West,Central,Meats & Seafood,3.4,16
+2024-05-31,DS12,Lower Parel,South,Medicines,1.4,3
+2024-05-31,DS14,Chembur,East,Household Items,3.2,6
+2024-06-01,DS02,Bandra West,West,Baby Products,0.7,1
+2024-06-01,DS03,Juhu,West,Grocery & Staples,5.4,22
+2024-06-01,DS04,Malad West,West,Baby Products,4.1,18
+2024-06-01,DS05,Borivali West,West,Meats & Seafood,4.9,36
+2024-06-01,DS08,Kurla West,Central,Personal Care,3.0,23
+2024-06-01,DS08,Kurla West,Central,Baby Products,4.5,25
+2024-06-01,DS09,Thane West,Central,Personal Care,2.2,12
+2024-06-01,DS09,Thane West,Central,Meats & Seafood,1.1,3
+2024-06-01,DS11,Dadar West,South,Fruits & Vegetables,2.7,12
+2024-06-01,DS11,Dadar West,South,Snacks & Drinks,2.3,11
+2024-06-01,DS15,Vikhroli West,East,Dairy & Breakfast,4.7,14
+2024-06-02,DS01,Andheri West,West,Grocery & Staples,3.2,7
+2024-06-02,DS02,Bandra West,West,Personal Care,3.0,20
+2024-06-02,DS04,Malad West,West,Dairy & Breakfast,4.0,27
+2024-06-02,DS04,Malad West,West,Fruits & Vegetables,3.0,6
+2024-06-02,DS04,Malad West,West,Meats & Seafood,5.5,33
+2024-06-02,DS08,Kurla West,Central,Medicines,1.5,10
+2024-06-02,DS08,Kurla West,Central,Household Items,1.5,8
+2024-06-02,DS08,Kurla West,Central,Dairy & Breakfast,2.2,11
+2024-06-02,DS10,Mulund West,Central,Grocery & Staples,4.5,30
+2024-06-02,DS11,Dadar West,South,Meats & Seafood,4.3,10
+2024-06-02,DS11,Dadar West,South,Personal Care,3.2,6
+2024-06-02,DS13,Worli,South,Baby Products,1.7,7
+2024-06-02,DS15,Vikhroli West,East,Snacks & Drinks,5.7,17
+2024-06-02,DS15,Vikhroli West,East,Meats & Seafood,0.8,4
+2024-06-03,DS01,Andheri West,West,Personal Care,0.7,5
+2024-06-03,DS02,Bandra West,West,Fruits & Vegetables,0.6,2
+2024-06-03,DS04,Malad West,West,Snacks & Drinks,2.6,7
+2024-06-03,DS05,Borivali West,West,Personal Care,1.7,10
+2024-06-03,DS05,Borivali West,West,Grocery & Staples,3.1,14
+2024-06-03,DS06,Powai,Central,Meats & Seafood,5.1,12
+2024-06-03,DS09,Thane West,Central,Grocery & Staples,3.1,9
+2024-06-03,DS09,Thane West,Central,Baby Products,4.4,11
+2024-06-03,DS11,Dadar West,South,Medicines,1.2,2
+2024-06-03,DS11,Dadar West,South,Dairy & Breakfast,4.9,16
+2024-06-03,DS12,Lower Parel,South,Dairy & Breakfast,3.7,10
+2024-06-03,DS12,Lower Parel,South,Baby Products,2.8,20
+2024-06-03,DS14,Chembur,East,Snacks & Drinks,2.9,9
+2024-06-03,DS14,Chembur,East,Meats & Seafood,2.4,10
+2024-06-03,DS15,Vikhroli West,East,Baby Products,0.9,2
+2024-06-03,DS15,Vikhroli West,East,Grocery & Staples,2.3,15
+2024-06-04,DS01,Andheri West,West,Personal Care,2.3,17
+2024-06-04,DS04,Malad West,West,Meats & Seafood,5.7,29
+2024-06-04,DS08,Kurla West,Central,Medicines,0.9,4
+2024-06-04,DS08,Kurla West,Central,Household Items,5.2,37
+2024-06-04,DS10,Mulund West,Central,Grocery & Staples,3.1,20
+2024-06-04,DS10,Mulund West,Central,Meats & Seafood,0.6,2
+2024-06-04,DS10,Mulund West,Central,Dairy & Breakfast,2.2,12
+2024-06-04,DS13,Worli,South,Baby Products,2.8,6
+2024-06-04,DS15,Vikhroli West,East,Grocery & Staples,3.2,20
+2024-06-05,DS01,Andheri West,West,Household Items,4.1,12
+2024-06-05,DS02,Bandra West,West,Dairy & Breakfast,1.0,3
+2024-06-05,DS03,Juhu,West,Dairy & Breakfast,4.7,21
+2024-06-05,DS03,Juhu,West,Grocery & Staples,4.4,18
+2024-06-05,DS09,Thane West,Central,Meats & Seafood,4.9,31
+2024-06-05,DS09,Thane West,Central,Medicines,5.6,32
+2024-06-05,DS11,Dadar West,South,Grocery & Staples,2.3,18
+2024-06-05,DS12,Lower Parel,South,Dairy & Breakfast,1.8,13
+2024-06-05,DS12,Lower Parel,South,Meats & Seafood,2.4,8
+2024-06-05,DS14,Chembur,East,Personal Care,5.0,15
+2024-06-05,DS14,Chembur,East,Snacks & Drinks,5.0,19
+2024-06-05,DS15,Vikhroli West,East,Grocery & Staples,5.8,31
+2024-06-05,DS15,Vikhroli West,East,Dairy & Breakfast,3.7,20
+2024-06-06,DS01,Andheri West,West,Household Items,5.6,26
+2024-06-06,DS01,Andheri West,West,Baby Products,1.0,3
+2024-06-06,DS01,Andheri West,West,Grocery & Staples,1.4,6
+2024-06-06,DS05,Borivali West,West,Medicines,0.7,2
+2024-06-06,DS11,Dadar West,South,Fruits & Vegetables,1.5,11
+2024-06-06,DS12,Lower Parel,South,Meats & Seafood,2.3,11
+2024-06-06,DS15,Vikhroli West,East,Medicines,4.6,25
+2024-06-07,DS01,Andheri West,West,Personal Care,3.7,22
+2024-06-07,DS02,Bandra West,West,Snacks & Drinks,4.2,33
+2024-06-07,DS03,Juhu,West,Fruits & Vegetables,3.4,22
+2024-06-07,DS04,Malad West,West,Household Items,5.3,17
+2024-06-07,DS06,Powai,Central,Baby Products,3.7,22
+2024-06-07,DS06,Powai,Central,Medicines,4.4,18
+2024-06-07,DS08,Kurla West,Central,Household Items,4.0,22
+2024-06-07,DS10,Mulund West,Central,Snacks & Drinks,3.4,25
+2024-06-07,DS12,Lower Parel,South,Meats & Seafood,1.1,6
+2024-06-07,DS14,Chembur,East,Personal Care,3.3,26
+2024-06-07,DS15,Vikhroli West,East,Meats & Seafood,6.0,28
+2024-06-08,DS01,Andheri West,West,Medicines,4.4,31
+2024-06-08,DS01,Andheri West,West,Dairy & Breakfast,5.7,36
+2024-06-08,DS01,Andheri West,West,Baby Products,3.2,24
+2024-06-08,DS03,Juhu,West,Personal Care,3.7,26
+2024-06-08,DS04,Malad West,West,Medicines,5.9,45
+2024-06-08,DS05,Borivali West,West,Personal Care,6.0,16
+2024-06-08,DS08,Kurla West,Central,Medicines,5.5,13
+2024-06-08,DS09,Thane West,Central,Grocery & Staples,3.1,10
+2024-06-08,DS12,Lower Parel,South,Snacks & Drinks,1.2,7
+2024-06-08,DS12,Lower Parel,South,Personal Care,3.6,18
+2024-06-08,DS14,Chembur,East,Fruits & Vegetables,5.9,13
+2024-06-08,DS15,Vikhroli West,East,Snacks & Drinks,2.6,8
+2024-06-09,DS01,Andheri West,West,Personal Care,4.5,22
+2024-06-09,DS05,Borivali West,West,Fruits & Vegetables,4.5,13
+2024-06-09,DS05,Borivali West,West,Medicines,5.1,16
+2024-06-09,DS05,Borivali West,West,Dairy & Breakfast,1.6,7
+2024-06-09,DS08,Kurla West,Central,Fruits & Vegetables,0.7,4
+2024-06-09,DS08,Kurla West,Central,Grocery & Staples,0.5,3
+2024-06-09,DS08,Kurla West,Central,Household Items,5.1,25
+2024-06-09,DS09,Thane West,Central,Grocery & Staples,3.8,15
+2024-06-09,DS09,Thane West,Central,Fruits & Vegetables,2.4,10
+2024-06-09,DS11,Dadar West,South,Snacks & Drinks,3.8,23
+2024-06-10,DS01,Andheri West,West,Fruits & Vegetables,2.6,15
+2024-06-10,DS01,Andheri West,West,Dairy & Breakfast,1.0,6
+2024-06-10,DS02,Bandra West,West,Household Items,5.9,41
+2024-06-10,DS03,Juhu,West,Grocery & Staples,4.0,16
+2024-06-10,DS05,Borivali West,West,Personal Care,5.0,11
+2024-06-10,DS05,Borivali West,West,Household Items,3.5,18
+2024-06-10,DS09,Thane West,Central,Snacks & Drinks,4.6,11
+2024-06-10,DS11,Dadar West,South,Personal Care,2.4,13
+2024-06-10,DS12,Lower Parel,South,Medicines,3.6,15
+2024-06-10,DS15,Vikhroli West,East,Meats & Seafood,1.2,4
+2024-06-11,DS01,Andheri West,West,Fruits & Vegetables,4.2,13
+2024-06-11,DS01,Andheri West,West,Household Items,1.5,8
+2024-06-11,DS03,Juhu,West,Grocery & Staples,1.0,7
+2024-06-11,DS03,Juhu,West,Medicines,2.1,6
+2024-06-11,DS03,Juhu,West,Meats & Seafood,1.4,7
+2024-06-11,DS04,Malad West,West,Meats & Seafood,2.7,12
+2024-06-11,DS06,Powai,Central,Fruits & Vegetables,2.8,19
+2024-06-11,DS06,Powai,Central,Snacks & Drinks,3.7,12
+2024-06-11,DS08,Kurla West,Central,Meats & Seafood,4.9,36
+2024-06-11,DS11,Dadar West,South,Grocery & Staples,2.0,6
+2024-06-11,DS12,Lower Parel,South,Fruits & Vegetables,3.3,9
+2024-06-11,DS15,Vikhroli West,East,Fruits & Vegetables,1.1,3
+2024-06-12,DS02,Bandra West,West,Personal Care,3.3,19
+2024-06-12,DS08,Kurla West,Central,Meats & Seafood,0.8,2
+2024-06-12,DS08,Kurla West,Central,Medicines,1.9,11
+2024-06-12,DS08,Kurla West,Central,Personal Care,0.8,3
+2024-06-12,DS09,Thane West,Central,Meats & Seafood,2.7,21
+2024-06-12,DS09,Thane West,Central,Fruits & Vegetables,4.2,21
+2024-06-12,DS09,Thane West,Central,Medicines,2.0,9
+2024-06-12,DS10,Mulund West,Central,Fruits & Vegetables,2.7,17
+2024-06-12,DS11,Dadar West,South,Fruits & Vegetables,5.2,35
+2024-06-12,DS13,Worli,South,Baby Products,4.8,30
+2024-06-12,DS14,Chembur,East,Fruits & Vegetables,4.2,33
+2024-06-12,DS14,Chembur,East,Grocery & Staples,3.7,17
+2024-06-12,DS15,Vikhroli West,East,Personal Care,2.0,15
+2024-06-12,DS15,Vikhroli West,East,Dairy & Breakfast,0.6,2
+2024-06-13,DS02,Bandra West,West,Medicines,4.4,12
+2024-06-13,DS05,Borivali West,West,Personal Care,2.7,19
+2024-06-13,DS05,Borivali West,West,Dairy & Breakfast,5.6,42
+2024-06-13,DS06,Powai,Central,Fruits & Vegetables,4.6,23
+2024-06-13,DS06,Powai,Central,Grocery & Staples,0.8,4
+2024-06-13,DS09,Thane West,Central,Meats & Seafood,1.5,5
+2024-06-13,DS12,Lower Parel,South,Medicines,0.7,3
+2024-06-13,DS15,Vikhroli West,East,Medicines,2.9,7
+2024-06-14,DS01,Andheri West,West,Personal Care,5.7,14
+2024-06-14,DS01,Andheri West,West,Grocery & Staples,3.0,19
+2024-06-14,DS02,Bandra West,West,Grocery & Staples,2.4,8
+2024-06-14,DS02,Bandra West,West,Household Items,3.5,14
+2024-06-14,DS08,Kurla West,Central,Household Items,5.3,11
+2024-06-14,DS12,Lower Parel,South,Grocery & Staples,4.4,8
+2024-06-14,DS12,Lower Parel,South,Medicines,2.1,5
+2024-06-14,DS14,Chembur,East,Household Items,2.3,17
+2024-06-14,DS15,Vikhroli West,East,Grocery & Staples,0.8,1
+2024-06-15,DS03,Juhu,West,Fruits & Vegetables,3.0,16
+2024-06-15,DS04,Malad West,West,Dairy & Breakfast,4.4,13
+2024-06-15,DS04,Malad West,West,Grocery & Staples,0.6,2
+2024-06-15,DS04,Malad West,West,Fruits & Vegetables,1.4,8
+2024-06-15,DS06,Powai,Central,Baby Products,3.9,28
+2024-06-15,DS08,Kurla West,Central,Snacks & Drinks,1.0,3
+2024-06-15,DS09,Thane West,Central,Dairy & Breakfast,3.4,23
+2024-06-15,DS09,Thane West,Central,Household Items,2.2,12
+2024-06-15,DS09,Thane West,Central,Grocery & Staples,1.8,4
+2024-06-15,DS10,Mulund West,Central,Dairy & Breakfast,5.0,32
+2024-06-15,DS10,Mulund West,Central,Personal Care,1.3,6
+2024-06-15,DS12,Lower Parel,South,Meats & Seafood,2.3,8
+2024-06-15,DS12,Lower Parel,South,Household Items,0.8,4
+2024-06-15,DS13,Worli,South,Snacks & Drinks,0.7,2
+2024-06-15,DS14,Chembur,East,Household Items,6.0,44
+2024-06-16,DS03,Juhu,West,Meats & Seafood,4.5,30
+2024-06-16,DS06,Powai,Central,Medicines,2.7,14
+2024-06-16,DS08,Kurla West,Central,Snacks & Drinks,4.3,21
+2024-06-16,DS08,Kurla West,Central,Dairy & Breakfast,3.1,9
+2024-06-16,DS09,Thane West,Central,Baby Products,1.5,4
+2024-06-16,DS11,Dadar West,South,Meats & Seafood,2.6,9
+2024-06-16,DS12,Lower Parel,South,Snacks & Drinks,1.0,4
+2024-06-16,DS12,Lower Parel,South,Household Items,4.3,33
+2024-06-16,DS14,Chembur,East,Grocery & Staples,2.8,20
+2024-06-17,DS01,Andheri West,West,Household Items,2.5,17
+2024-06-17,DS01,Andheri West,West,Meats & Seafood,4.6,22
+2024-06-17,DS02,Bandra West,West,Baby Products,2.5,7
+2024-06-17,DS02,Bandra West,West,Snacks & Drinks,3.4,8
+2024-06-17,DS03,Juhu,West,Grocery & Staples,1.8,10
+2024-06-17,DS03,Juhu,West,Medicines,1.6,5
+2024-06-17,DS04,Malad West,West,Snacks & Drinks,3.5,26
+2024-06-17,DS08,Kurla West,Central,Grocery & Staples,1.6,11
+2024-06-17,DS08,Kurla West,Central,Medicines,4.7,14
+2024-06-17,DS11,Dadar West,South,Personal Care,2.3,16
+2024-06-17,DS11,Dadar West,South,Grocery & Staples,2.4,18
+2024-06-17,DS12,Lower Parel,South,Personal Care,2.0,12
+2024-06-17,DS13,Worli,South,Grocery & Staples,3.3,16
+2024-06-18,DS03,Juhu,West,Dairy & Breakfast,5.0,13
+2024-06-18,DS03,Juhu,West,Baby Products,0.9,4
+2024-06-18,DS05,Borivali West,West,Medicines,5.5,21
+2024-06-18,DS06,Powai,Central,Grocery & Staples,0.8,3
+2024-06-18,DS06,Powai,Central,Baby Products,1.3,5
+2024-06-18,DS06,Powai,Central,Meats & Seafood,4.2,13
+2024-06-18,DS06,Powai,Central,Snacks & Drinks,2.3,7
+2024-06-18,DS08,Kurla West,Central,Medicines,4.7,26
+2024-06-18,DS11,Dadar West,South,Household Items,3.8,27
+2024-06-18,DS12,Lower Parel,South,Snacks & Drinks,3.3,24
+2024-06-18,DS13,Worli,South,Snacks & Drinks,2.5,7
+2024-06-18,DS14,Chembur,East,Household Items,3.1,24
+2024-06-19,DS01,Andheri West,West,Dairy & Breakfast,4.1,8
+2024-06-19,DS01,Andheri West,West,Grocery & Staples,5.1,29
+2024-06-19,DS03,Juhu,West,Medicines,5.2,30
+2024-06-19,DS05,Borivali West,West,Dairy & Breakfast,0.8,4
+2024-06-19,DS06,Powai,Central,Medicines,4.3,17
+2024-06-19,DS08,Kurla West,Central,Grocery & Staples,3.4,13
+2024-06-19,DS09,Thane West,Central,Snacks & Drinks,2.8,21
+2024-06-19,DS11,Dadar West,South,Meats & Seafood,1.7,12
+2024-06-19,DS13,Worli,South,Household Items,3.3,18
+2024-06-19,DS15,Vikhroli West,East,Snacks & Drinks,4.2,14
+2024-06-19,DS15,Vikhroli West,East,Fruits & Vegetables,3.7,11
+2024-06-19,DS15,Vikhroli West,East,Medicines,3.3,25
+2024-06-20,DS01,Andheri West,West,Grocery & Staples,1.9,6
+2024-06-20,DS02,Bandra West,West,Medicines,3.1,24
+2024-06-20,DS03,Juhu,West,Baby Products,1.1,2
+2024-06-20,DS04,Malad West,West,Snacks & Drinks,1.8,4
+2024-06-20,DS04,Malad West,West,Dairy & Breakfast,4.2,11
+2024-06-20,DS05,Borivali West,West,Household Items,5.5,16
+2024-06-20,DS06,Powai,Central,Baby Products,1.1,3
+2024-06-20,DS06,Powai,Central,Meats & Seafood,2.3,6
+2024-06-20,DS08,Kurla West,Central,Meats & Seafood,2.8,20
+2024-06-20,DS08,Kurla West,Central,Snacks & Drinks,0.9,1
+2024-06-20,DS08,Kurla West,Central,Fruits & Vegetables,4.9,25
+2024-06-20,DS10,Mulund West,Central,Meats & Seafood,4.7,37
+2024-06-20,DS12,Lower Parel,South,Baby Products,2.1,12
+2024-06-20,DS13,Worli,South,Fruits & Vegetables,1.8,11
+2024-06-21,DS01,Andheri West,West,Household Items,3.5,27
+2024-06-21,DS01,Andheri West,West,Personal Care,4.0,29
+2024-06-21,DS04,Malad West,West,Baby Products,5.0,12
+2024-06-21,DS07,Ghatkopar West,Central,Snacks & Drinks,5.0,24
+2024-06-21,DS08,Kurla West,Central,Grocery & Staples,5.9,38
+2024-06-21,DS08,Kurla West,Central,Personal Care,1.2,3
+2024-06-21,DS12,Lower Parel,South,Household Items,4.2,28
+2024-06-21,DS15,Vikhroli West,East,Dairy & Breakfast,5.7,34
+2024-06-22,DS01,Andheri West,West,Dairy & Breakfast,4.9,22
+2024-06-22,DS01,Andheri West,West,Baby Products,5.5,42
+2024-06-22,DS01,Andheri West,West,Meats & Seafood,3.9,11
+2024-06-22,DS02,Bandra West,West,Grocery & Staples,2.0,7
+2024-06-22,DS03,Juhu,West,Grocery & Staples,0.9,3
+2024-06-22,DS05,Borivali West,West,Dairy & Breakfast,0.7,2
+2024-06-22,DS07,Ghatkopar West,Central,Snacks & Drinks,4.2,10
+2024-06-22,DS09,Thane West,Central,Personal Care,3.3,25
+2024-06-22,DS10,Mulund West,Central,Snacks & Drinks,2.1,7
+2024-06-22,DS13,Worli,South,Baby Products,4.0,26
+2024-06-22,DS15,Vikhroli West,East,Medicines,4.4,27
+2024-06-22,DS15,Vikhroli West,East,Snacks & Drinks,3.7,8
+2024-06-23,DS01,Andheri West,West,Baby Products,2.5,6
+2024-06-23,DS02,Bandra West,West,Medicines,5.4,18
+2024-06-23,DS06,Powai,Central,Medicines,5.3,11
+2024-06-23,DS08,Kurla West,Central,Medicines,2.9,8
+2024-06-23,DS09,Thane West,Central,Grocery & Staples,3.3,11
+2024-06-23,DS09,Thane West,Central,Snacks & Drinks,5.2,32
+2024-06-23,DS11,Dadar West,South,Grocery & Staples,4.8,35
+2024-06-23,DS12,Lower Parel,South,Meats & Seafood,2.0,7
+2024-06-23,DS14,Chembur,East,Grocery & Staples,4.6,34
+2024-06-23,DS15,Vikhroli West,East,Dairy & Breakfast,3.5,17
+2024-06-24,DS01,Andheri West,West,Baby Products,2.3,13
+2024-06-24,DS02,Bandra West,West,Grocery & Staples,1.9,9
+2024-06-24,DS03,Juhu,West,Baby Products,4.7,33
+2024-06-24,DS05,Borivali West,West,Baby Products,4.5,12
+2024-06-24,DS05,Borivali West,West,Grocery & Staples,5.4,23
+2024-06-24,DS06,Powai,Central,Medicines,1.4,9
+2024-06-24,DS10,Mulund West,Central,Baby Products,3.9,24
+2024-06-24,DS11,Dadar West,South,Personal Care,3.3,8
+2024-06-24,DS11,Dadar West,South,Grocery & Staples,2.8,20
+2024-06-24,DS12,Lower Parel,South,Grocery & Staples,5.9,34
+2024-06-24,DS12,Lower Parel,South,Dairy & Breakfast,4.5,31
+2024-06-24,DS14,Chembur,East,Grocery & Staples,5.9,24
+2024-06-24,DS15,Vikhroli West,East,Grocery & Staples,1.2,9
+2024-06-24,DS15,Vikhroli West,East,Snacks & Drinks,0.8,3
+2024-06-24,DS15,Vikhroli West,East,Fruits & Vegetables,5.6,18
+2024-06-25,DS01,Andheri West,West,Household Items,3.1,16
+2024-06-25,DS05,Borivali West,West,Baby Products,0.8,6
+2024-06-25,DS07,Ghatkopar West,Central,Medicines,3.6,7
+2024-06-25,DS08,Kurla West,Central,Baby Products,5.8,42
+2024-06-25,DS08,Kurla West,Central,Medicines,1.2,5
+2024-06-25,DS09,Thane West,Central,Medicines,4.8,24
+2024-06-25,DS10,Mulund West,Central,Medicines,5.4,14
+2024-06-25,DS11,Dadar West,South,Snacks & Drinks,4.2,21
+2024-06-25,DS14,Chembur,East,Medicines,2.6,13
+2024-06-25,DS15,Vikhroli West,East,Grocery & Staples,2.0,11
+2024-06-26,DS01,Andheri West,West,Dairy & Breakfast,4.6,10
+2024-06-26,DS05,Borivali West,West,Personal Care,1.7,6
+2024-06-26,DS07,Ghatkopar West,Central,Meats & Seafood,1.7,12
+2024-06-26,DS07,Ghatkopar West,Central,Personal Care,2.3,13
+2024-06-26,DS09,Thane West,Central,Fruits & Vegetables,4.4,19
+2024-06-26,DS11,Dadar West,South,Fruits & Vegetables,6.0,34
+2024-06-26,DS12,Lower Parel,South,Household Items,2.1,10
+2024-06-26,DS12,Lower Parel,South,Snacks & Drinks,5.7,15
+2024-06-26,DS12,Lower Parel,South,Medicines,1.3,5
+2024-06-26,DS15,Vikhroli West,East,Household Items,1.5,6
+2024-06-26,DS15,Vikhroli West,East,Medicines,3.7,13
+2024-06-27,DS02,Bandra West,West,Dairy & Breakfast,4.4,15
+2024-06-27,DS05,Borivali West,West,Household Items,1.3,8
+2024-06-27,DS08,Kurla West,Central,Grocery & Staples,3.5,9
+2024-06-27,DS08,Kurla West,Central,Meats & Seafood,2.0,4
+2024-06-27,DS08,Kurla West,Central,Snacks & Drinks,5.3,28
+2024-06-27,DS09,Thane West,Central,Snacks & Drinks,1.5,4
+2024-06-27,DS09,Thane West,Central,Fruits & Vegetables,3.7,9
+2024-06-27,DS09,Thane West,Central,Meats & Seafood,3.0,7
+2024-06-27,DS10,Mulund West,Central,Dairy & Breakfast,2.9,16
+2024-06-27,DS12,Lower Parel,South,Medicines,4.9,26
+2024-06-27,DS12,Lower Parel,South,Personal Care,2.5,7
+2024-06-27,DS13,Worli,South,Medicines,5.2,34
+2024-06-27,DS13,Worli,South,Personal Care,1.6,5
+2024-06-27,DS14,Chembur,East,Medicines,0.7,4
+2024-06-27,DS14,Chembur,East,Household Items,5.9,25
+2024-06-27,DS15,Vikhroli West,East,Fruits & Vegetables,4.8,35
+2024-06-27,DS15,Vikhroli West,East,Dairy & Breakfast,1.0,4
+2024-06-28,DS03,Juhu,West,Snacks & Drinks,5.1,14
+2024-06-28,DS04,Malad West,West,Snacks & Drinks,1.7,13
+2024-06-28,DS04,Malad West,West,Baby Products,4.3,27
+2024-06-28,DS05,Borivali West,West,Medicines,5.9,36
+2024-06-28,DS05,Borivali West,West,Baby Products,4.6,28
+2024-06-28,DS08,Kurla West,Central,Dairy & Breakfast,1.9,6
+2024-06-28,DS09,Thane West,Central,Fruits & Vegetables,3.9,30
+2024-06-28,DS12,Lower Parel,South,Baby Products,2.0,15
+2024-06-28,DS13,Worli,South,Household Items,2.1,14
+2024-06-28,DS14,Chembur,East,Snacks & Drinks,4.2,29
+2024-06-29,DS01,Andheri West,West,Household Items,1.9,4
+2024-06-29,DS01,Andheri West,West,Personal Care,4.0,28
+2024-06-29,DS02,Bandra West,West,Dairy & Breakfast,3.9,14
+2024-06-29,DS02,Bandra West,West,Snacks & Drinks,4.5,17
+2024-06-29,DS05,Borivali West,West,Fruits & Vegetables,1.0,6
+2024-06-29,DS08,Kurla West,Central,Dairy & Breakfast,3.8,27
+2024-06-29,DS08,Kurla West,Central,Personal Care,3.7,17
+2024-06-29,DS09,Thane West,Central,Snacks & Drinks,0.7,4
+2024-06-29,DS10,Mulund West,Central,Household Items,5.1,40
+2024-06-29,DS11,Dadar West,South,Snacks & Drinks,3.1,20
+2024-06-29,DS12,Lower Parel,South,Dairy & Breakfast,5.3,33
+2024-06-29,DS13,Worli,South,Snacks & Drinks,0.7,1
+2024-06-29,DS14,Chembur,East,Household Items,3.4,12
+2024-06-30,DS05,Borivali West,West,Medicines,4.4,18
+2024-06-30,DS07,Ghatkopar West,Central,Medicines,4.3,9
+2024-06-30,DS08,Kurla West,Central,Baby Products,5.4,27
+2024-06-30,DS12,Lower Parel,South,Personal Care,2.1,8
+2024-06-30,DS12,Lower Parel,South,Meats & Seafood,4.9,12
+2024-06-30,DS13,Worli,South,Dairy & Breakfast,2.4,11
+2024-06-30,DS14,Chembur,East,Medicines,1.8,13
+2024-06-30,DS14,Chembur,East,Household Items,0.5,1
+2024-06-30,DS15,Vikhroli West,East,Meats & Seafood,1.8,13
+2024-06-30,DS15,Vikhroli West,East,Personal Care,3.5,23

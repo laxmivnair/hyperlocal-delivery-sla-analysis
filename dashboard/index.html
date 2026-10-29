@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zepto / Blinkit Style Quick-Commerce Ops Dashboard | Mumbai Dark Stores</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    .glass-card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.08); }
+    .tier-badge-a { background-color: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid #10b981; }
+    .tier-badge-b { background-color: rgba(245, 158, 11, 0.2); color: #f59e0b; border: 1px solid #f59e0b; }
+    .tier-badge-c { background-color: rgba(239, 68, 68, 0.2); color: #ef4444; border: 1px solid #ef4444; }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <!-- Top Navigation -->
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-50 backdrop-blur-md">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <div class="h-10 w-10 rounded-xl bg-gradient-to-tr from-amber-500 to-rose-600 flex items-center justify-center shadow-lg shadow-rose-900/20">
+          <i class="fa-solid fa-bolt text-slate-950 text-xl font-black"></i>
+        </div>
+        <div>
+          <h1 class="text-lg font-bold text-white tracking-tight">FLASHCOMMERCE OPS CONTROL</h1>
+          <p class="text-xs text-slate-400 font-medium">10-Min Hyperlocal SLA Breach Diagnostic | Mumbai Cluster (15 Dark Stores)</p>
+        </div>
+      </div>
+      <div class="flex items-center space-x-3">
+        <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/30">
+          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse mr-2"></span>
+          Pipeline Status: Production Verified
+        </span>
+        <button onclick="window.print()" class="px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-slate-200 rounded-lg text-xs font-medium border border-slate-700 transition">
+          <i class="fa-solid fa-file-pdf mr-1.5"></i> Export Report
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
+    <!-- Executive KPI Grid -->
+    <section>
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-sm font-semibold tracking-wider uppercase text-slate-400">Executive Performance Indicators (6-Month Cohort)</h2>
+        <span class="text-xs text-slate-500">Jan 1, 2024 - Jun 30, 2024 (81,494 Total Orders)</span>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <!-- KPI 1 -->
+        <div class="glass-card rounded-2xl p-5 relative overflow-hidden">
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Overall SLA Breach</p>
+              <h3 class="text-3xl font-extrabold text-rose-400 mt-2">44.4%</h3>
+            </div>
+            <div class="p-2.5 rounded-xl bg-rose-500/10 text-rose-400">
+              <i class="fa-solid fa-triangle-exclamation text-xl"></i>
+            </div>
+          </div>
+          <p class="text-xs text-slate-400 mt-3"><span class="text-rose-400 font-bold">35,446</span> of 79,827 delivered orders breached 10m target</p>
+          <div class="w-full bg-slate-800 h-1.5 rounded-full mt-3 overflow-hidden">
+            <div class="bg-rose-500 h-1.5 rounded-full" style="width: 44.4%"></div>
+          </div>
+        </div>
+
+        <!-- KPI 2 -->
+        <div class="glass-card rounded-2xl p-5 relative overflow-hidden">
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Revenue at Risk</p>
+              <h3 class="text-3xl font-extrabold text-amber-400 mt-2">₹17.95 L</h3>
+            </div>
+            <div class="p-2.5 rounded-xl bg-amber-500/10 text-amber-400">
+              <i class="fa-solid fa-sack-dollar text-xl"></i>
+            </div>
+          </div>
+          <p class="text-xs text-slate-400 mt-3">₹11.71L refund exposure (15%) + ₹6.24L churn risk (8%)</p>
+          <div class="w-full bg-slate-800 h-1.5 rounded-full mt-3 overflow-hidden">
+            <div class="bg-amber-500 h-1.5 rounded-full" style="width: 65%"></div>
+          </div>
+        </div>
+
+        <!-- KPI 3 -->
+        <div class="glass-card rounded-2xl p-5 relative overflow-hidden">
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Avg Delivery Time</p>
+              <h3 class="text-3xl font-extrabold text-blue-400 mt-2">10.2 min</h3>
+            </div>
+            <div class="p-2.5 rounded-xl bg-blue-500/10 text-blue-400">
+              <i class="fa-solid fa-stopwatch text-xl"></i>
+            </div>
+          </div>
+          <p class="text-xs text-slate-400 mt-3">On-time orders: <span class="text-emerald-400 font-semibold">8.3 min</span> | Breached: <span class="text-rose-400 font-semibold">12.7 min</span></p>
+          <div class="w-full bg-slate-800 h-1.5 rounded-full mt-3 overflow-hidden">
+            <div class="bg-blue-500 h-1.5 rounded-full" style="width: 52%"></div>
+          </div>
+        </div>
+
+        <!-- KPI 4 -->
+        <div class="glass-card rounded-2xl p-5 relative overflow-hidden">
+          <div class="flex justify-between items-start">
+            <div>
+              <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">ML Pre-Dispatch AUC</p>
+              <h3 class="text-3xl font-extrabold text-emerald-400 mt-2">0.819</h3>
+            </div>
+            <div class="p-2.5 rounded-xl bg-emerald-500/10 text-emerald-400">
+              <i class="fa-solid fa-brain text-xl"></i>
+            </div>
+          </div>
+          <p class="text-xs text-slate-400 mt-3">Gradient Boosting model detects breach risk <em>before</em> dispatch</p>
+          <div class="w-full bg-slate-800 h-1.5 rounded-full mt-3 overflow-hidden">
+            <div class="bg-emerald-500 h-1.5 rounded-full" style="width: 82%"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Operational Breakdown Charts -->
+    <section class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <!-- Chart 1: Time Components -->
+      <div class="glass-card rounded-2xl p-6 lg:col-span-2">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <h3 class="text-base font-bold text-white">Time Component Decomposition: Where Is Time Lost?</h3>
+            <p class="text-xs text-slate-400">Comparing On-Time vs Breached Deliveries (Minutes per Component)</p>
+          </div>
+          <span class="text-xs px-2.5 py-1 bg-slate-800 rounded-lg text-slate-300 font-medium">SLA Target: 10m</span>
+        </div>
+        <div class="h-64">
+          <canvas id="timeCompChart"></canvas>
+        </div>
+        <div class="grid grid-cols-3 gap-4 pt-4 mt-4 border-t border-slate-800 text-center">
+          <div>
+            <span class="text-xs text-slate-400">Store Packing (Prep)</span>
+            <p class="text-base font-bold text-teal-400 mt-0.5">1.92 min <span class="text-xs text-rose-400">(+0.24m)</span></p>
+          </div>
+          <div>
+            <span class="text-xs text-slate-400">Rider Pickup Wait</span>
+            <p class="text-base font-bold text-amber-400 mt-0.5">1.40 min <span class="text-xs text-rose-400">(+0.23m)</span></p>
+          </div>
+          <div>
+            <span class="text-xs text-slate-400">Last-Mile Transit</span>
+            <p class="text-base font-bold text-blue-400 mt-0.5">8.87 min <span class="text-xs text-rose-400">(+1.97m)</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Chart 2: Root Cause Donut -->
+      <div class="glass-card rounded-2xl p-6">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <h3 class="text-base font-bold text-white">Primary Bottleneck Cause</h3>
+            <p class="text-xs text-slate-400">Attribution across 35,446 breaches</p>
+          </div>
+        </div>
+        <div class="h-64 flex items-center justify-center">
+          <canvas id="rootCauseChart"></canvas>
+        </div>
+        <div class="mt-4 space-y-2 text-xs text-slate-400">
+          <div class="flex justify-between items-center"><span class="flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-blue-500 mr-2"></span>Last Mile Delay</span><span class="font-bold text-slate-200">69.9% (24,778)</span></div>
+          <div class="flex justify-between items-center"><span class="flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-rose-500 mr-2"></span>Slow Packing</span><span class="font-bold text-slate-200">14.1% (4,992)</span></div>
+          <div class="flex justify-between items-center"><span class="flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-amber-500 mr-2"></span>Rider Unavailable</span><span class="font-bold text-slate-200">12.6% (4,479)</span></div>
+          <div class="flex justify-between items-center"><span class="flex items-center"><span class="w-2.5 h-2.5 rounded-full bg-purple-500 mr-2"></span>Cumulative Delay</span><span class="font-bold text-slate-200">3.4% (1,197)</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Temporal & Weather Diagnostics -->
+    <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <!-- Hourly Demand vs Breach Rate -->
+      <div class="glass-card rounded-2xl p-6">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <h3 class="text-base font-bold text-white">Hourly Demand Profile vs Breach Rate (%)</h3>
+            <p class="text-xs text-slate-400">Breakfast (8-10am), Lunch (12-2pm), Dinner (7-10pm) Peaks</p>
+          </div>
+          <span class="text-xs px-2.5 py-1 bg-rose-500/10 text-rose-400 rounded-lg font-semibold">Peak Breach: 66.8%</span>
+        </div>
+        <div class="h-64">
+          <canvas id="hourlyDemandChart"></canvas>
+        </div>
+      </div>
+
+      <!-- Weather Impact -->
+      <div class="glass-card rounded-2xl p-6">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <h3 class="text-base font-bold text-white">Monsoon Weather Impact (Mumbai Monsoon Surge)</h3>
+            <p class="text-xs text-slate-400">Clear Days vs Rainy Days Comparison (t=50.60, p < 0.0001)</p>
+          </div>
+          <span class="text-xs px-2.5 py-1 bg-amber-500/10 text-amber-400 rounded-lg font-semibold">+36.7% Breach Rate Surge</span>
+        </div>
+        <div class="grid grid-cols-2 gap-4 my-4">
+          <div class="bg-slate-900/60 p-4 rounded-xl border border-slate-800">
+            <span class="text-xs text-slate-400 flex items-center"><i class="fa-solid fa-sun text-amber-400 mr-1.5"></i> Clear Weather</span>
+            <p class="text-2xl font-bold text-slate-100 mt-2">43.1% <span class="text-xs font-normal text-slate-400">breach</span></p>
+            <p class="text-xs text-slate-500 mt-1">Avg delivery: 10.11 min (Last mile: 6.77m)</p>
+          </div>
+          <div class="bg-slate-900/60 p-4 rounded-xl border border-rose-900/30">
+            <span class="text-xs text-rose-400 flex items-center"><i class="fa-solid fa-cloud-showers-heavy mr-1.5"></i> Monsoon Rain Days</span>
+            <p class="text-2xl font-bold text-rose-400 mt-2">79.8% <span class="text-xs font-normal text-rose-400">breach</span></p>
+            <p class="text-xs text-slate-500 mt-1">Avg delivery: 13.81 min (Last mile: 10.41m)</p>
+          </div>
+        </div>
+        <div class="p-3 bg-slate-900/40 rounded-xl border border-slate-800 text-xs text-slate-300">
+          <i class="fa-solid fa-circle-info text-blue-400 mr-1"></i>
+          <strong>Key Insight:</strong> Packing time is identical (1.68m vs 1.68m) during rain; <strong>100% of delay is last-mile transit</strong> due to waterlogging and traffic speed drops. Requires dynamic monsoon ETAs (14-16 mins).
+        </div>
+      </div>
+    </section>
+
+    <!-- Dark Store Leaderboard Table -->
+    <section class="glass-card rounded-2xl p-6">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+        <div>
+          <h3 class="text-lg font-bold text-white">Dark Store Performance Leaderboard</h3>
+          <p class="text-xs text-slate-400">Operational performance, tier segmentation, and revenue at risk across all 15 stores</p>
+        </div>
+        <div class="flex flex-wrap items-center gap-3">
+          <div class="relative">
+            <i class="fa-solid fa-magnifying-glass absolute left-3 top-2.5 text-xs text-slate-500"></i>
+            <input type="text" id="storeSearch" placeholder="Search store..." onkeyup="filterStoreTable()"
+                   class="bg-slate-900 border border-slate-700 text-xs rounded-lg pl-8 pr-3 py-2 text-slate-200 placeholder-slate-500 focus:outline-none focus:border-rose-500">
+          </div>
+          <select id="zoneFilter" onchange="filterStoreTable()" class="bg-slate-900 border border-slate-700 text-xs rounded-lg px-3 py-2 text-slate-200 focus:outline-none">
+            <option value="ALL">All Zones</option>
+            <option value="West">West</option>
+            <option value="Central">Central</option>
+            <option value="South">South</option>
+            <option value="East">East</option>
+          </select>
+          <select id="tierFilter" onchange="filterStoreTable()" class="bg-slate-900 border border-slate-700 text-xs rounded-lg px-3 py-2 text-slate-200 focus:outline-none">
+            <option value="ALL">All Tiers</option>
+            <option value="A">Tier A (Best)</option>
+            <option value="B">Tier B (Average)</option>
+            <option value="C">Tier C (Critical)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-left border-collapse text-xs">
+          <thead>
+            <tr class="border-b border-slate-800 text-slate-400 uppercase tracking-wider font-semibold">
+              <th class="py-3 px-4">Rank</th>
+              <th class="py-3 px-4">Dark Store Name</th>
+              <th class="py-3 px-4">Zone</th>
+              <th class="py-3 px-4">Tier</th>
+              <th class="py-3 px-4 text-right">Breach Rate</th>
+              <th class="py-3 px-4 text-right">Avg Time</th>
+              <th class="py-3 px-4 text-right">Prep</th>
+              <th class="py-3 px-4 text-right">Rider Wait</th>
+              <th class="py-3 px-4 text-right">Last Mile</th>
+              <th class="py-3 px-4 text-right">Rev at Risk</th>
+            </tr>
+          </thead>
+          <tbody id="storeTableBody" class="divide-y divide-slate-800/60 font-medium">
+            <!-- Dynamically Populated by JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- What-If Operational Simulator -->
+    <section class="glass-card rounded-2xl p-6 border-indigo-500/20">
+      <div class="flex items-center space-x-3 mb-4">
+        <div class="p-2 rounded-xl bg-indigo-500/20 text-indigo-400">
+          <i class="fa-solid fa-sliders text-lg"></i>
+        </div>
+        <div>
+          <h3 class="text-base font-bold text-white">Interactive Operational Simulator (What-If Optimization)</h3>
+          <p class="text-xs text-slate-400">Model the impact of ops levers (staffing, packing SOPs, dynamic monsoon surge) on breach reduction & revenue saved</p>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
+        <div class="space-y-4 bg-slate-900/50 p-4 rounded-xl border border-slate-800">
+          <div>
+            <div class="flex justify-between text-xs mb-1">
+              <span class="text-slate-300 font-semibold">Peak-Hour Rider Surge per Store</span>
+              <span id="riderVal" class="text-indigo-400 font-bold">+2 Riders</span>
+            </div>
+            <input type="range" id="riderSlider" min="0" max="5" value="2" oninput="updateSimulation()" class="w-full accent-indigo-500">
+            <p class="text-[11px] text-slate-500 mt-1">Reduces rider dispatch queue wait during peak windows (19:00-21:00).</p>
+          </div>
+          <div>
+            <div class="flex justify-between text-xs mb-1">
+              <span class="text-slate-300 font-semibold">Packing SOP Streamlining (Prep Time)</span>
+              <span id="prepVal" class="text-indigo-400 font-bold">-0.4 min</span>
+            </div>
+            <input type="range" id="prepSlider" min="0" max="10" value="4" oninput="updateSimulation()" class="w-full accent-indigo-500">
+            <p class="text-[11px] text-slate-500 mt-1">Meats, seafood & grocery pre-bagging SOP to speed dark store pick & pack.</p>
+          </div>
+          <div>
+            <div class="flex justify-between text-xs mb-1">
+              <span class="text-slate-300 font-semibold">Monsoon Surge Fleeting (+Riders)</span>
+              <span id="rainVal" class="text-indigo-400 font-bold">+3 Riders</span>
+            </div>
+            <input type="range" id="rainSlider" min="0" max="6" value="3" oninput="updateSimulation()" class="w-full accent-indigo-500">
+            <p class="text-[11px] text-slate-500 mt-1">Shrinks delivery radius per rider during heavy downpours.</p>
+          </div>
+        </div>
+
+        <div class="md:col-span-2 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="bg-gradient-to-br from-indigo-950/40 to-slate-900 p-5 rounded-xl border border-indigo-800/40 flex flex-col justify-between">
+            <div>
+              <span class="text-xs font-semibold text-indigo-400 uppercase tracking-wider">Projected SLA Breach Rate</span>
+              <div class="flex items-baseline space-x-3 mt-2">
+                <span id="simBreachRate" class="text-4xl font-extrabold text-white">31.2%</span>
+                <span id="simBreachDiff" class="text-sm font-bold text-emerald-400">-13.2% pt reduction</span>
+              </div>
+            </div>
+            <p class="text-xs text-slate-400 mt-3">From baseline <span class="font-bold text-rose-400">44.4%</span> down to simulated target.</p>
+          </div>
+
+          <div class="bg-gradient-to-br from-emerald-950/40 to-slate-900 p-5 rounded-xl border border-emerald-800/40 flex flex-col justify-between">
+            <div>
+              <span class="text-xs font-semibold text-emerald-400 uppercase tracking-wider">Estimated Revenue Saved (6 Mo)</span>
+              <div class="flex items-baseline space-x-3 mt-2">
+                <span id="simRevSaved" class="text-4xl font-extrabold text-emerald-400">₹5.33 Lakhs</span>
+              </div>
+            </div>
+            <p class="text-xs text-slate-400 mt-3">Direct savings in reduced refund vouchers and preserved customer retention.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="border-t border-slate-800 bg-slate-900/50 py-6 text-center text-xs text-slate-500">
+    <p>Hyperlocal Delivery SLA Breach Analysis Portfolio Project | Developed with Python, Scikit-Learn, Power BI Data Pipeline</p>
+  </footer>
+
+  <script>
+    // Store data from verified analysis
+    const storeData = [
+      { rank: 1, name: "Lower Parel", zone: "South", tier: "C", breachRate: 61.23, avgTime: 11.45, prep: 1.69, wait: 1.18, lastMile: 8.58, revRisk: 170599 },
+      { rank: 2, name: "Kurla West", zone: "Central", tier: "C", breachRate: 59.32, avgTime: 11.36, prep: 1.68, wait: 1.17, lastMile: 8.51, revRisk: 158289 },
+      { rank: 3, name: "Thane West", zone: "Central", tier: "C", breachRate: 59.14, avgTime: 11.32, prep: 1.68, wait: 1.17, lastMile: 8.47, revRisk: 158887 },
+      { rank: 4, name: "Vikhroli West", zone: "East", tier: "C", breachRate: 59.13, avgTime: 11.35, prep: 1.68, wait: 1.17, lastMile: 8.50, revRisk: 144853 },
+      { rank: 5, name: "Andheri West", zone: "West", tier: "C", breachRate: 58.34, avgTime: 11.35, prep: 1.69, wait: 1.17, lastMile: 8.49, revRisk: 162844 },
+      { rank: 6, name: "Dadar West", zone: "South", tier: "B", breachRate: 43.26, avgTime: 10.08, prep: 1.68, wait: 1.17, lastMile: 7.23, revRisk: 124519 },
+      { rank: 7, name: "Borivali West", zone: "West", tier: "B", breachRate: 42.75, avgTime: 10.14, prep: 1.67, wait: 1.17, lastMile: 7.30, revRisk: 113526 },
+      { rank: 8, name: "Juhu", zone: "West", tier: "B", breachRate: 42.53, avgTime: 10.04, prep: 1.68, wait: 1.17, lastMile: 7.19, revRisk: 113917 },
+      { rank: 9, name: "Bandra West", zone: "West", tier: "B", breachRate: 42.51, avgTime: 10.04, prep: 1.68, wait: 1.17, lastMile: 7.19, revRisk: 114354 },
+      { rank: 10, name: "Powai", zone: "Central", tier: "B", breachRate: 41.93, avgTime: 10.07, prep: 1.67, wait: 1.17, lastMile: 7.23, revRisk: 114230 },
+      { rank: 11, name: "Chembur", zone: "East", tier: "B", breachRate: 41.56, avgTime: 10.09, prep: 1.68, wait: 1.17, lastMile: 7.24, revRisk: 102987 },
+      { rank: 12, name: "Worli", zone: "South", tier: "A", breachRate: 29.60, avgTime: 9.15, prep: 1.67, wait: 1.17, lastMile: 6.31, revRisk: 83523 },
+      { rank: 13, name: "Malad West", zone: "West", tier: "A", breachRate: 29.18, avgTime: 9.11, prep: 1.68, wait: 1.17, lastMile: 6.26, revRisk: 81005 },
+      { rank: 14, name: "Ghatkopar West", zone: "Central", tier: "A", breachRate: 28.55, avgTime: 9.07, prep: 1.68, wait: 1.17, lastMile: 6.22, revRisk: 75282 },
+      { rank: 15, name: "Mulund West", zone: "Central", tier: "A", breachRate: 28.45, avgTime: 9.09, prep: 1.67, wait: 1.17, lastMile: 6.25, revRisk: 76035 }
+    ];
+
+    function renderStoreTable(data) {
+      const tbody = document.getElementById("storeTableBody");
+      tbody.innerHTML = "";
+      data.forEach(item => {
+        const tierClass = item.tier === "A" ? "tier-badge-a" : item.tier === "B" ? "tier-badge-b" : "tier-badge-c";
+        const row = `
+          <tr class="hover:bg-slate-900/40 transition">
+            <td class="py-3 px-4 font-bold text-slate-400">#${item.rank}</td>
+            <td class="py-3 px-4 font-bold text-white">${item.name}</td>
+            <td class="py-3 px-4 text-slate-300">${item.zone}</td>
+            <td class="py-3 px-4"><span class="px-2 py-0.5 rounded text-[11px] font-bold ${tierClass}">Tier ${item.tier}</span></td>
+            <td class="py-3 px-4 text-right font-extrabold ${item.breachRate > 50 ? 'text-rose-400' : item.breachRate > 35 ? 'text-amber-400' : 'text-emerald-400'}">${item.breachRate.toFixed(1)}%</td>
+            <td class="py-3 px-4 text-right text-slate-300">${item.avgTime.toFixed(2)}m</td>
+            <td class="py-3 px-4 text-right text-slate-400">${item.prep.toFixed(2)}m</td>
+            <td class="py-3 px-4 text-right text-slate-400">${item.wait.toFixed(2)}m</td>
+            <td class="py-3 px-4 text-right text-slate-400">${item.lastMile.toFixed(2)}m</td>
+            <td class="py-3 px-4 text-right font-bold text-amber-400">₹${(item.revRisk / 1000).toFixed(0)}K</td>
+          </tr>
+        `;
+        tbody.innerHTML += row;
+      });
+    }
+
+    function filterStoreTable() {
+      const search = document.getElementById("storeSearch").value.toLowerCase();
+      const zone = document.getElementById("zoneFilter").value;
+      const tier = document.getElementById("tierFilter").value;
+
+      const filtered = storeData.filter(d => {
+        const matchSearch = d.name.toLowerCase().includes(search);
+        const matchZone = zone === "ALL" || d.zone === zone;
+        const matchTier = tier === "ALL" || d.tier === tier;
+        return matchSearch && matchZone && matchTier;
+      });
+      renderStoreTable(filtered);
+    }
+
+    // Chart.js Configurations
+    window.addEventListener("DOMContentLoaded", () => {
+      renderStoreTable(storeData);
+
+      // Chart 1: Time Components
+      new Chart(document.getElementById("timeCompChart"), {
+        type: "bar",
+        data: {
+          labels: ["On-Time Deliveries (≤ 10m)", "Breached Deliveries (> 10m)"],
+          datasets: [
+            { label: "Prep Time", data: [1.49, 1.92], backgroundColor: "#14b8a6" },
+            { label: "Rider Wait", data: [0.99, 1.40], backgroundColor: "#f59e0b" },
+            { label: "Last Mile", data: [5.82, 8.87], backgroundColor: "#3b82f6" }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { labels: { color: "#94a3b8" } } },
+          scales: {
+            x: { stacked: true, grid: { display: false }, ticks: { color: "#94a3b8" } },
+            y: { stacked: true, grid: { color: "rgba(255,255,255,0.05)" }, ticks: { color: "#94a3b8" }, title: { display: true, text: "Minutes", color: "#94a3b8" } }
+          }
+        }
+      });
+
+      // Chart 2: Root Cause Donut
+      new Chart(document.getElementById("rootCauseChart"), {
+        type: "doughnut",
+        data: {
+          labels: ["Last Mile Delay", "Slow Packing", "Rider Unavailable", "Cumulative Delay"],
+          datasets: [{
+            data: [24778, 4992, 4479, 1197],
+            backgroundColor: ["#3b82f6", "#ef4444", "#f59e0b", "#8b5cf6"],
+            borderWidth: 0
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          cutout: "70%"
+        }
+      });
+
+      // Chart 3: Hourly Curve
+      const hours = Array.from({length: 24}, (_, i) => `${i}:00`);
+      const hourlyBreachRates = [
+        36.8, 35.1, 33.2, 34.0, 36.5, 37.2,
+        42.1, 52.4, 66.7, 65.3, 51.2,
+        47.8, 66.2, 66.3, 52.4, 45.1,
+        43.2, 51.5, 60.1, 66.8, 66.8, 66.5, 52.0, 41.2
+      ];
+
+      new Chart(document.getElementById("hourlyDemandChart"), {
+        type: "line",
+        data: {
+          labels: hours,
+          datasets: [{
+            label: "SLA Breach Rate (%)",
+            data: hourlyBreachRates,
+            borderColor: "#ef4444",
+            backgroundColor: "rgba(239, 68, 68, 0.15)",
+            fill: true,
+            tension: 0.35,
+            pointRadius: 3,
+            pointHoverRadius: 6
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: { legend: { display: false } },
+          scales: {
+            x: { grid: { display: false }, ticks: { color: "#94a3b8", maxTicksLimit: 12 } },
+            y: { grid: { color: "rgba(255,255,255,0.05)" }, ticks: { color: "#94a3b8" }, min: 20, max: 80 }
+          }
+        }
+      });
+    });
+
+    // Simulator Logic
+    function updateSimulation() {
+      const riders = parseInt(document.getElementById("riderSlider").value);
+      const prepDec = parseInt(document.getElementById("prepSlider").value) * 0.1;
+      const rainRiders = parseInt(document.getElementById("rainSlider").value);
+
+      document.getElementById("riderVal").innerText = `+${riders} Riders`;
+      document.getElementById("prepVal").innerText = `-${prepDec.toFixed(1)} min`;
+      document.getElementById("rainVal").innerText = `+${rainRiders} Riders`;
+
+      // Base breach rate: 44.4%
+      // Each extra rider reduces peak bottleneck (~2.8% breach reduction)
+      // Each 0.1m prep reduction saves ~1.1% breach
+      // Rain surge reduces monsoon penalty (~1.8% overall)
+      const reduction = (riders * 2.8) + (prepDec * 11.0) + (rainRiders * 0.9);
+      const newRate = Math.max(18.5, 44.4 - reduction);
+      const savedLakhs = (44.4 - newRate) * 0.404; // proportional to 17.95L total exposure
+
+      document.getElementById("simBreachRate").innerText = `${newRate.toFixed(1)}%`;
+      document.getElementById("simBreachDiff").innerText = `-${(44.4 - newRate).toFixed(1)}% pt reduction`;
+      document.getElementById("simRevSaved").innerText = `₹${savedLakhs.toFixed(2)} Lakhs`;
+    }
+  </script>
+</body>
+</html>

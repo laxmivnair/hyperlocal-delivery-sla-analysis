@@ -1,0 +1,351 @@
+rider_id,store_id,experience_days,avg_rating,vehicle_type,shift
+RDR0001,DS10,347,3.6,EV Bike,Afternoon
+RDR0002,DS12,715,3.9,EV Bike,Morning
+RDR0003,DS12,172,4.1,EV Bike,Morning
+RDR0004,DS15,729,4.4,EV Bike,Afternoon
+RDR0005,DS14,690,4.2,Petrol Bike,Afternoon
+RDR0006,DS14,170,4.6,Petrol Bike,Evening
+RDR0007,DS15,589,4.4,Bicycle,Morning
+RDR0008,DS14,407,4.2,Petrol Bike,Evening
+RDR0009,DS03,286,5.0,EV Bike,Night
+RDR0010,DS12,513,4.4,Petrol Bike,Evening
+RDR0011,DS07,401,4.0,Petrol Bike,Morning
+RDR0012,DS04,144,4.9,EV Bike,Afternoon
+RDR0013,DS09,204,4.7,Bicycle,Morning
+RDR0014,DS03,410,4.9,EV Bike,Morning
+RDR0015,DS05,649,4.2,EV Bike,Night
+RDR0016,DS03,42,4.6,Petrol Bike,Morning
+RDR0017,DS07,697,3.6,EV Bike,Afternoon
+RDR0018,DS05,469,4.5,Bicycle,Evening
+RDR0019,DS09,479,4.1,Petrol Bike,Evening
+RDR0020,DS07,384,3.7,Petrol Bike,Evening
+RDR0021,DS02,31,4.6,EV Bike,Morning
+RDR0022,DS04,679,3.5,EV Bike,Afternoon
+RDR0023,DS09,47,3.4,EV Bike,Afternoon
+RDR0024,DS12,239,4.3,Bicycle,Morning
+RDR0025,DS14,374,4.4,Petrol Bike,Afternoon
+RDR0026,DS02,572,4.6,Bicycle,Morning
+RDR0027,DS10,447,4.5,EV Bike,Morning
+RDR0028,DS09,292,4.8,EV Bike,Afternoon
+RDR0029,DS10,36,4.5,EV Bike,Morning
+RDR0030,DS05,235,4.1,Petrol Bike,Evening
+RDR0031,DS02,286,4.2,Petrol Bike,Evening
+RDR0032,DS04,618,4.1,EV Bike,Evening
+RDR0033,DS12,293,4.3,Bicycle,Morning
+RDR0034,DS15,490,3.8,Bicycle,Morning
+RDR0035,DS12,462,4.3,Petrol Bike,Morning
+RDR0036,DS07,668,4.2,Petrol Bike,Evening
+RDR0037,DS12,525,4.3,EV Bike,Evening
+RDR0038,DS13,556,4.3,Petrol Bike,Morning
+RDR0039,DS08,201,3.2,Petrol Bike,Night
+RDR0040,DS15,58,3.8,EV Bike,Morning
+RDR0041,DS03,521,4.2,Petrol Bike,Afternoon
+RDR0042,DS14,26,4.2,EV Bike,Evening
+RDR0043,DS01,181,4.3,EV Bike,Night
+RDR0044,DS04,229,4.3,EV Bike,Evening
+RDR0045,DS02,167,4.8,Bicycle,Evening
+RDR0046,DS08,486,4.3,EV Bike,Afternoon
+RDR0047,DS04,55,4.1,Petrol Bike,Evening
+RDR0048,DS02,382,3.6,Bicycle,Morning
+RDR0049,DS14,527,3.7,Petrol Bike,Night
+RDR0050,DS06,108,4.4,EV Bike,Afternoon
+RDR0051,DS06,46,4.6,EV Bike,Evening
+RDR0052,DS10,289,4.8,EV Bike,Afternoon
+RDR0053,DS04,358,3.9,EV Bike,Evening
+RDR0054,DS06,506,4.1,Petrol Bike,Afternoon
+RDR0055,DS13,311,4.3,EV Bike,Evening
+RDR0056,DS15,190,5.0,EV Bike,Morning
+RDR0057,DS02,616,4.2,EV Bike,Morning
+RDR0058,DS10,108,4.8,Petrol Bike,Morning
+RDR0059,DS12,709,4.3,Petrol Bike,Morning
+RDR0060,DS02,125,4.7,Petrol Bike,Night
+RDR0061,DS10,200,4.6,EV Bike,Morning
+RDR0062,DS14,262,4.3,Bicycle,Night
+RDR0063,DS04,170,3.8,EV Bike,Afternoon
+RDR0064,DS14,265,4.1,EV Bike,Morning
+RDR0065,DS15,332,4.8,Bicycle,Evening
+RDR0066,DS15,137,4.6,EV Bike,Evening
+RDR0067,DS08,27,4.0,EV Bike,Afternoon
+RDR0068,DS14,575,4.1,EV Bike,Evening
+RDR0069,DS07,579,3.5,Petrol Bike,Evening
+RDR0070,DS12,332,4.8,Bicycle,Morning
+RDR0071,DS09,695,4.6,Bicycle,Night
+RDR0072,DS14,635,4.1,Petrol Bike,Night
+RDR0073,DS08,297,4.3,EV Bike,Evening
+RDR0074,DS05,672,3.3,Petrol Bike,Morning
+RDR0075,DS13,648,4.0,EV Bike,Evening
+RDR0076,DS02,164,4.7,EV Bike,Morning
+RDR0077,DS15,499,4.6,Petrol Bike,Morning
+RDR0078,DS05,395,4.3,Petrol Bike,Morning
+RDR0079,DS08,113,4.2,Petrol Bike,Afternoon
+RDR0080,DS10,402,4.5,EV Bike,Night
+RDR0081,DS09,255,4.1,EV Bike,Evening
+RDR0082,DS12,185,3.5,EV Bike,Evening
+RDR0083,DS12,48,4.2,Bicycle,Afternoon
+RDR0084,DS12,486,4.4,Petrol Bike,Afternoon
+RDR0085,DS13,691,4.6,Bicycle,Afternoon
+RDR0086,DS09,547,3.6,Petrol Bike,Night
+RDR0087,DS13,417,4.2,EV Bike,Morning
+RDR0088,DS15,534,4.2,EV Bike,Night
+RDR0089,DS13,515,3.8,EV Bike,Evening
+RDR0090,DS01,45,4.4,Petrol Bike,Afternoon
+RDR0091,DS09,694,4.5,Petrol Bike,Evening
+RDR0092,DS07,29,4.1,Petrol Bike,Afternoon
+RDR0093,DS09,330,5.0,Petrol Bike,Night
+RDR0094,DS08,521,4.1,Petrol Bike,Night
+RDR0095,DS01,409,4.0,Petrol Bike,Afternoon
+RDR0096,DS12,663,4.0,EV Bike,Morning
+RDR0097,DS08,480,3.9,EV Bike,Evening
+RDR0098,DS08,152,4.0,EV Bike,Night
+RDR0099,DS15,101,3.6,Petrol Bike,Morning
+RDR0100,DS11,363,4.1,Petrol Bike,Evening
+RDR0101,DS03,60,4.2,Bicycle,Evening
+RDR0102,DS01,674,3.3,Petrol Bike,Evening
+RDR0103,DS08,707,4.2,Petrol Bike,Morning
+RDR0104,DS03,584,4.2,EV Bike,Evening
+RDR0105,DS03,199,4.4,EV Bike,Night
+RDR0106,DS01,134,4.7,Petrol Bike,Morning
+RDR0107,DS11,159,4.5,Bicycle,Morning
+RDR0108,DS05,323,4.0,Petrol Bike,Night
+RDR0109,DS10,579,3.9,EV Bike,Morning
+RDR0110,DS07,351,4.4,Petrol Bike,Night
+RDR0111,DS10,314,4.0,Petrol Bike,Afternoon
+RDR0112,DS09,701,3.7,Petrol Bike,Morning
+RDR0113,DS12,691,5.0,EV Bike,Night
+RDR0114,DS07,63,4.1,Petrol Bike,Afternoon
+RDR0115,DS09,453,3.9,Petrol Bike,Afternoon
+RDR0116,DS08,622,3.3,EV Bike,Afternoon
+RDR0117,DS12,273,4.5,Petrol Bike,Evening
+RDR0118,DS02,62,3.8,Bicycle,Morning
+RDR0119,DS01,581,4.2,EV Bike,Afternoon
+RDR0120,DS07,629,4.6,EV Bike,Night
+RDR0121,DS07,14,3.8,Bicycle,Morning
+RDR0122,DS14,112,4.2,Bicycle,Evening
+RDR0123,DS08,205,4.8,Petrol Bike,Afternoon
+RDR0124,DS05,359,3.2,EV Bike,Evening
+RDR0125,DS03,56,3.9,Petrol Bike,Morning
+RDR0126,DS12,665,3.8,Bicycle,Night
+RDR0127,DS08,278,4.1,EV Bike,Afternoon
+RDR0128,DS06,379,4.2,EV Bike,Morning
+RDR0129,DS11,645,3.8,Petrol Bike,Morning
+RDR0130,DS03,115,3.9,EV Bike,Morning
+RDR0131,DS01,679,3.9,Petrol Bike,Afternoon
+RDR0132,DS03,668,4.1,Petrol Bike,Afternoon
+RDR0133,DS05,666,4.3,Petrol Bike,Evening
+RDR0134,DS15,129,4.6,EV Bike,Afternoon
+RDR0135,DS14,613,4.6,Bicycle,Morning
+RDR0136,DS03,67,4.5,Petrol Bike,Evening
+RDR0137,DS01,355,3.9,Bicycle,Evening
+RDR0138,DS05,483,4.2,Petrol Bike,Morning
+RDR0139,DS10,126,5.0,EV Bike,Morning
+RDR0140,DS07,136,4.6,Petrol Bike,Morning
+RDR0141,DS15,402,4.0,Petrol Bike,Evening
+RDR0142,DS14,650,4.8,Petrol Bike,Evening
+RDR0143,DS07,67,4.0,EV Bike,Afternoon
+RDR0144,DS11,643,3.9,Petrol Bike,Evening
+RDR0145,DS09,522,4.8,EV Bike,Evening
+RDR0146,DS15,105,3.7,EV Bike,Evening
+RDR0147,DS15,647,3.4,Petrol Bike,Night
+RDR0148,DS10,127,4.6,Petrol Bike,Morning
+RDR0149,DS10,569,4.2,Petrol Bike,Morning
+RDR0150,DS12,610,4.3,Petrol Bike,Morning
+RDR0151,DS13,497,4.1,EV Bike,Morning
+RDR0152,DS03,246,4.1,EV Bike,Afternoon
+RDR0153,DS15,281,4.0,Petrol Bike,Night
+RDR0154,DS07,198,3.9,EV Bike,Morning
+RDR0155,DS01,713,4.0,Bicycle,Morning
+RDR0156,DS04,456,4.0,EV Bike,Afternoon
+RDR0157,DS13,590,3.9,EV Bike,Night
+RDR0158,DS04,256,4.0,EV Bike,Afternoon
+RDR0159,DS14,85,3.2,EV Bike,Afternoon
+RDR0160,DS05,163,4.5,Bicycle,Morning
+RDR0161,DS07,665,4.4,Bicycle,Morning
+RDR0162,DS07,444,4.2,Petrol Bike,Night
+RDR0163,DS13,95,4.3,EV Bike,Night
+RDR0164,DS15,706,4.3,EV Bike,Morning
+RDR0165,DS11,294,3.9,Petrol Bike,Night
+RDR0166,DS13,229,4.0,EV Bike,Evening
+RDR0167,DS04,78,4.4,Petrol Bike,Night
+RDR0168,DS13,56,4.3,Petrol Bike,Afternoon
+RDR0169,DS07,103,5.0,Bicycle,Afternoon
+RDR0170,DS11,462,4.8,EV Bike,Afternoon
+RDR0171,DS03,213,4.6,Petrol Bike,Evening
+RDR0172,DS06,227,3.9,Petrol Bike,Morning
+RDR0173,DS12,483,4.0,EV Bike,Morning
+RDR0174,DS02,441,3.8,Petrol Bike,Afternoon
+RDR0175,DS10,350,4.3,EV Bike,Evening
+RDR0176,DS13,560,3.1,Petrol Bike,Morning
+RDR0177,DS14,621,4.0,EV Bike,Evening
+RDR0178,DS09,298,4.1,Petrol Bike,Night
+RDR0179,DS05,263,3.6,Petrol Bike,Morning
+RDR0180,DS06,366,4.5,Petrol Bike,Evening
+RDR0181,DS12,32,3.7,EV Bike,Afternoon
+RDR0182,DS12,531,4.3,EV Bike,Night
+RDR0183,DS12,109,5.0,EV Bike,Morning
+RDR0184,DS12,189,3.6,EV Bike,Evening
+RDR0185,DS04,232,4.1,EV Bike,Evening
+RDR0186,DS14,668,4.0,Petrol Bike,Night
+RDR0187,DS14,451,4.0,EV Bike,Evening
+RDR0188,DS11,617,4.5,Bicycle,Afternoon
+RDR0189,DS10,334,4.6,Petrol Bike,Evening
+RDR0190,DS07,525,4.5,Petrol Bike,Night
+RDR0191,DS12,25,3.9,Petrol Bike,Evening
+RDR0192,DS09,345,5.0,Petrol Bike,Morning
+RDR0193,DS07,267,3.5,EV Bike,Night
+RDR0194,DS14,506,3.8,EV Bike,Evening
+RDR0195,DS01,169,4.3,Petrol Bike,Evening
+RDR0196,DS01,484,4.2,Petrol Bike,Morning
+RDR0197,DS09,673,4.4,EV Bike,Evening
+RDR0198,DS11,699,4.8,Petrol Bike,Afternoon
+RDR0199,DS14,684,4.2,EV Bike,Evening
+RDR0200,DS09,389,4.2,EV Bike,Morning
+RDR0201,DS04,554,4.0,EV Bike,Evening
+RDR0202,DS13,700,4.4,EV Bike,Night
+RDR0203,DS09,436,4.1,EV Bike,Morning
+RDR0204,DS03,622,4.1,Bicycle,Night
+RDR0205,DS07,277,4.4,Petrol Bike,Afternoon
+RDR0206,DS06,586,4.6,EV Bike,Night
+RDR0207,DS08,426,3.3,Bicycle,Evening
+RDR0208,DS11,177,4.3,Petrol Bike,Evening
+RDR0209,DS09,52,4.1,Petrol Bike,Evening
+RDR0210,DS14,565,4.6,Petrol Bike,Night
+RDR0211,DS05,294,4.1,Petrol Bike,Afternoon
+RDR0212,DS01,406,4.7,Petrol Bike,Afternoon
+RDR0213,DS03,21,3.9,EV Bike,Evening
+RDR0214,DS10,616,3.3,Bicycle,Evening
+RDR0215,DS12,311,4.6,EV Bike,Evening
+RDR0216,DS08,262,3.9,EV Bike,Evening
+RDR0217,DS15,508,3.6,EV Bike,Afternoon
+RDR0218,DS11,44,4.2,Petrol Bike,Evening
+RDR0219,DS06,99,4.1,EV Bike,Morning
+RDR0220,DS08,614,4.5,Bicycle,Afternoon
+RDR0221,DS09,611,4.6,EV Bike,Morning
+RDR0222,DS04,427,4.2,Petrol Bike,Afternoon
+RDR0223,DS01,124,3.8,Bicycle,Afternoon
+RDR0224,DS14,626,4.3,Petrol Bike,Afternoon
+RDR0225,DS01,205,4.3,EV Bike,Evening
+RDR0226,DS10,510,4.4,EV Bike,Afternoon
+RDR0227,DS04,635,3.9,EV Bike,Afternoon
+RDR0228,DS12,502,4.0,Petrol Bike,Morning
+RDR0229,DS14,84,4.4,EV Bike,Afternoon
+RDR0230,DS07,422,4.7,Petrol Bike,Morning
+RDR0231,DS02,385,4.6,EV Bike,Morning
+RDR0232,DS03,429,4.2,EV Bike,Evening
+RDR0233,DS01,286,4.0,Petrol Bike,Evening
+RDR0234,DS05,685,4.4,Petrol Bike,Evening
+RDR0235,DS01,403,3.8,Petrol Bike,Afternoon
+RDR0236,DS08,466,3.9,Petrol Bike,Afternoon
+RDR0237,DS01,201,4.8,Petrol Bike,Night
+RDR0238,DS11,698,4.4,Petrol Bike,Afternoon
+RDR0239,DS01,108,4.1,Petrol Bike,Afternoon
+RDR0240,DS02,557,4.5,Petrol Bike,Morning
+RDR0241,DS02,105,4.7,Petrol Bike,Afternoon
+RDR0242,DS12,673,4.0,Petrol Bike,Afternoon
+RDR0243,DS06,672,4.0,Petrol Bike,Afternoon
+RDR0244,DS07,199,4.0,EV Bike,Evening
+RDR0245,DS05,46,4.6,Petrol Bike,Afternoon
+RDR0246,DS01,378,4.6,Petrol Bike,Evening
+RDR0247,DS01,704,4.8,Bicycle,Evening
+RDR0248,DS03,534,4.6,Petrol Bike,Evening
+RDR0249,DS14,288,3.5,Bicycle,Evening
+RDR0250,DS02,226,4.3,EV Bike,Night
+RDR0251,DS05,282,3.8,Petrol Bike,Morning
+RDR0252,DS12,71,4.0,EV Bike,Morning
+RDR0253,DS10,605,4.3,Petrol Bike,Morning
+RDR0254,DS06,351,4.5,Petrol Bike,Evening
+RDR0255,DS07,406,3.8,EV Bike,Night
+RDR0256,DS04,708,3.3,Bicycle,Morning
+RDR0257,DS07,28,4.3,EV Bike,Night
+RDR0258,DS11,186,5.0,Petrol Bike,Morning
+RDR0259,DS08,621,4.1,Petrol Bike,Night
+RDR0260,DS11,405,4.2,Petrol Bike,Afternoon
+RDR0261,DS01,454,4.9,EV Bike,Morning
+RDR0262,DS15,242,4.4,Petrol Bike,Afternoon
+RDR0263,DS06,85,4.3,EV Bike,Morning
+RDR0264,DS08,274,4.4,Petrol Bike,Morning
+RDR0265,DS05,464,4.3,Bicycle,Afternoon
+RDR0266,DS04,727,3.7,Petrol Bike,Evening
+RDR0267,DS02,393,3.7,EV Bike,Afternoon
+RDR0268,DS06,573,5.0,Petrol Bike,Afternoon
+RDR0269,DS06,515,4.3,EV Bike,Evening
+RDR0270,DS11,376,4.2,Petrol Bike,Evening
+RDR0271,DS15,153,4.2,Petrol Bike,Morning
+RDR0272,DS01,78,4.5,Bicycle,Afternoon
+RDR0273,DS09,108,5.0,Petrol Bike,Morning
+RDR0274,DS12,405,4.4,Petrol Bike,Morning
+RDR0275,DS11,34,4.0,Bicycle,Evening
+RDR0276,DS06,478,4.1,EV Bike,Morning
+RDR0277,DS13,493,4.6,Petrol Bike,Afternoon
+RDR0278,DS03,574,4.0,Bicycle,Evening
+RDR0279,DS04,160,4.5,EV Bike,Morning
+RDR0280,DS12,153,3.3,EV Bike,Evening
+RDR0281,DS11,578,4.1,Petrol Bike,Morning
+RDR0282,DS04,48,4.5,Bicycle,Night
+RDR0283,DS03,118,4.7,Petrol Bike,Afternoon
+RDR0284,DS10,702,3.9,Petrol Bike,Evening
+RDR0285,DS03,51,3.6,Petrol Bike,Evening
+RDR0286,DS15,195,4.1,Petrol Bike,Morning
+RDR0287,DS03,407,3.7,Bicycle,Evening
+RDR0288,DS04,232,4.1,Petrol Bike,Night
+RDR0289,DS07,643,4.2,Bicycle,Evening
+RDR0290,DS04,142,3.7,Bicycle,Evening
+RDR0291,DS09,172,4.5,EV Bike,Night
+RDR0292,DS01,224,4.1,EV Bike,Morning
+RDR0293,DS08,244,4.6,Petrol Bike,Morning
+RDR0294,DS07,667,3.5,Petrol Bike,Evening
+RDR0295,DS02,597,3.8,EV Bike,Afternoon
+RDR0296,DS08,18,4.4,EV Bike,Evening
+RDR0297,DS01,83,3.9,Petrol Bike,Night
+RDR0298,DS11,501,4.1,EV Bike,Afternoon
+RDR0299,DS12,262,4.2,EV Bike,Morning
+RDR0300,DS09,239,4.3,EV Bike,Evening
+RDR0301,DS09,528,3.9,Petrol Bike,Morning
+RDR0302,DS02,183,4.3,Petrol Bike,Evening
+RDR0303,DS07,662,3.9,EV Bike,Afternoon
+RDR0304,DS15,177,4.5,Bicycle,Evening
+RDR0305,DS14,179,4.2,Petrol Bike,Morning
+RDR0306,DS10,402,4.3,Petrol Bike,Evening
+RDR0307,DS03,643,5.0,EV Bike,Afternoon
+RDR0308,DS07,203,3.8,Petrol Bike,Evening
+RDR0309,DS12,526,4.8,EV Bike,Morning
+RDR0310,DS10,38,3.1,EV Bike,Evening
+RDR0311,DS09,174,3.4,Petrol Bike,Night
+RDR0312,DS04,431,3.7,EV Bike,Morning
+RDR0313,DS12,348,3.7,Petrol Bike,Morning
+RDR0314,DS01,657,4.3,EV Bike,Morning
+RDR0315,DS02,505,4.3,EV Bike,Evening
+RDR0316,DS01,374,4.1,Petrol Bike,Evening
+RDR0317,DS14,351,4.1,EV Bike,Afternoon
+RDR0318,DS12,509,4.4,Petrol Bike,Morning
+RDR0319,DS05,666,4.5,EV Bike,Afternoon
+RDR0320,DS05,520,3.7,EV Bike,Evening
+RDR0321,DS11,336,4.1,Bicycle,Afternoon
+RDR0322,DS07,226,4.2,Petrol Bike,Night
+RDR0323,DS09,310,4.4,EV Bike,Morning
+RDR0324,DS09,141,3.9,Petrol Bike,Evening
+RDR0325,DS03,79,4.2,EV Bike,Afternoon
+RDR0326,DS03,261,4.2,Petrol Bike,Afternoon
+RDR0327,DS03,424,3.9,EV Bike,Evening
+RDR0328,DS04,454,3.9,Petrol Bike,Evening
+RDR0329,DS08,191,4.2,Petrol Bike,Night
+RDR0330,DS06,176,4.1,Petrol Bike,Morning
+RDR0331,DS08,100,4.4,Petrol Bike,Morning
+RDR0332,DS01,723,3.8,Petrol Bike,Evening
+RDR0333,DS08,540,4.1,Petrol Bike,Evening
+RDR0334,DS04,48,4.1,Bicycle,Morning
+RDR0335,DS11,135,4.5,Bicycle,Morning
+RDR0336,DS01,460,3.8,Petrol Bike,Morning
+RDR0337,DS08,182,4.3,Petrol Bike,Night
+RDR0338,DS04,662,4.3,Petrol Bike,Morning
+RDR0339,DS06,229,4.9,EV Bike,Afternoon
+RDR0340,DS08,647,3.8,Bicycle,Morning
+RDR0341,DS04,67,3.9,Bicycle,Afternoon
+RDR0342,DS14,669,3.8,Petrol Bike,Morning
+RDR0343,DS03,485,3.5,EV Bike,Afternoon
+RDR0344,DS14,465,4.9,EV Bike,Morning
+RDR0345,DS09,370,3.7,EV Bike,Evening
+RDR0346,DS03,10,3.9,Bicycle,Morning
+RDR0347,DS09,396,4.7,EV Bike,Afternoon
+RDR0348,DS13,357,3.5,EV Bike,Night
+RDR0349,DS02,199,4.5,Petrol Bike,Evening
+RDR0350,DS14,514,3.6,EV Bike,Afternoon
